@@ -1,0 +1,3003 @@
+Mar 14 16:07:06 LNX-DEV-001 cron: New session of user.
+Mar 23 10:04:02 LNX-DB-001 kernel: Network interface up.
+Mar 01 13:30:35 LNX-FILE-001 systemd: Device attached.
+Mar 27 10:44:37 LNX-FILE-001 rsyslog: Started Session.
+Mar 10 08:24:09 LNX-BACKUP-001 cron: Device attached.
+Mar 18 17:07:22 LNX-APP-002 systemd: Started Session.
+Mar 17 16:47:24 LNX-FILE-001 systemd: Device attached.
+Mar 02 10:16:50 LNX-DB-001 kernel: New session of user.
+Mar 13 13:37:58 LNX-WEB-002 cron: Removed session.
+Mar 25 10:43:37 LNX-LOG-001 cron: Device attached.
+Mar 29 15:26:36 LNX-DB-001 NetworkManager: Network interface up.
+Mar 20 11:39:51 LNX-APP-001 systemd: New session of user.
+Mar 04 09:01:38 LNX-WEB-002 rsyslog: Device attached.
+Mar 05 10:36:26 LNX-LOG-001 rsyslog: Device attached.
+Mar 15 10:19:42 LNX-DB-002 kernel: Network interface up.
+Mar 25 11:19:51 LNX-DB-002 rsyslog: Device attached.
+Mar 07 09:33:25 LNX-DEV-001 cron: Removed session.
+Mar 23 16:20:29 LNX-DB-001 NetworkManager: Started Session.
+Mar 22 16:35:32 LNX-WEB-001 cron: Started Session.
+Mar 30 09:24:04 LNX-WEB-001 kernel: New session of user.
+Mar 04 10:21:04 LNX-WEB-002 rsyslog: Removed session.
+Mar 16 15:08:20 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 26 09:33:15 LNX-DB-001 NetworkManager: New session of user.
+Mar 14 10:50:53 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 19 12:11:24 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 23 10:53:02 LNX-DEV-001 NetworkManager: Started Session.
+Mar 16 12:39:41 LNX-WEB-002 NetworkManager: Removed session.
+Mar 20 13:14:09 LNX-LOG-001 cron: Device attached.
+Mar 20 11:25:49 LNX-WEB-002 cron: New session of user.
+Mar 14 13:03:32 LNX-FILE-001 cron: Network interface up.
+Mar 07 10:29:08 LNX-DB-002 NetworkManager: New session of user.
+Mar 10 15:23:29 LNX-FILE-001 cron: Network interface up.
+Mar 01 15:00:16 LNX-APP-002 NetworkManager: New session of user.
+Mar 11 10:38:37 LNX-LOG-001 rsyslog: Network interface up.
+Mar 21 15:09:21 LNX-FILE-001 rsyslog: Started Session.
+Mar 14 09:03:15 LNX-DB-002 rsyslog: New session of user.
+Mar 15 08:53:33 LNX-APP-001 rsyslog: New session of user.
+Mar 24 13:01:34 LNX-WEB-002 NetworkManager: New session of user.
+Mar 22 16:26:28 LNX-APP-002 systemd: Started Session.
+Mar 02 11:06:02 LNX-WEB-002 kernel: Device attached.
+Mar 24 13:17:42 LNX-APP-001 NetworkManager: Network interface up.
+Mar 27 11:52:27 LNX-BACKUP-001 systemd: Network interface up.
+Mar 03 16:05:35 LNX-DEV-001 systemd: Started Session.
+Mar 30 08:32:21 LNX-DB-001 kernel: Started Session.
+Mar 06 09:10:46 LNX-DB-001 cron: New session of user.
+Mar 04 13:16:26 LNX-APP-001 cron: Started Session.
+Mar 06 08:39:35 LNX-WEB-002 systemd: Removed session.
+Mar 07 17:51:30 LNX-FILE-001 rsyslog: Started Session.
+Mar 25 16:24:30 LNX-FILE-001 kernel: New session of user.
+Mar 23 14:12:30 LNX-DB-002 systemd: Network interface up.
+Mar 12 14:07:21 LNX-APP-002 kernel: Device attached.
+Mar 07 14:57:44 LNX-APP-002 systemd: Started Session.
+Mar 18 11:55:22 LNX-WEB-002 systemd: New session of user.
+Mar 15 09:23:57 LNX-DEV-001 kernel: New session of user.
+Mar 15 10:39:46 LNX-DEV-001 systemd: Removed session.
+Mar 29 11:35:47 LNX-BACKUP-001 kernel: Removed session.
+Mar 17 13:01:55 LNX-DEV-001 cron: Started Session.
+Mar 09 12:10:55 LNX-DB-001 kernel: Network interface up.
+Mar 28 12:36:33 LNX-LOG-001 kernel: Removed session.
+Mar 26 15:32:22 LNX-DB-002 systemd: Started Session.
+Mar 07 12:55:41 LNX-FILE-001 kernel: New session of user.
+Mar 23 12:20:12 LNX-DB-002 NetworkManager: Network interface up.
+Mar 20 15:40:54 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 09 09:42:30 LNX-APP-002 NetworkManager: Started Session.
+Mar 24 09:09:21 LNX-DB-001 rsyslog: Network interface up.
+Mar 26 17:43:08 LNX-BACKUP-001 cron: Started Session.
+Mar 12 09:51:47 LNX-WEB-001 kernel: Removed session.
+Mar 23 16:50:40 LNX-DB-002 systemd: Network interface up.
+Mar 28 17:54:53 LNX-DEV-001 systemd: New session of user.
+Mar 25 14:04:27 LNX-WEB-001 rsyslog: New session of user.
+Mar 07 15:03:52 LNX-BACKUP-001 cron: Removed session.
+Mar 18 15:41:53 LNX-FILE-001 kernel: Network interface up.
+Mar 05 11:10:49 LNX-DB-001 rsyslog: Started Session.
+Mar 25 16:15:41 LNX-DB-001 cron: New session of user.
+Mar 19 08:21:33 LNX-WEB-001 rsyslog: Device attached.
+Mar 09 13:08:14 LNX-APP-002 kernel: Network interface up.
+Mar 06 16:30:20 LNX-APP-002 systemd: New session of user.
+Mar 30 12:37:28 LNX-DB-002 NetworkManager: Started Session.
+Mar 10 12:38:11 LNX-DEV-001 rsyslog: Removed session.
+Mar 16 11:59:35 LNX-APP-001 NetworkManager: Network interface up.
+Mar 20 09:39:40 LNX-LOG-001 NetworkManager: Started Session.
+Mar 25 08:23:59 LNX-FILE-001 NetworkManager: Started Session.
+Mar 01 12:19:02 LNX-WEB-001 rsyslog: Device attached.
+Mar 14 09:48:44 LNX-FILE-001 systemd: Device attached.
+Mar 18 15:34:51 LNX-DEV-001 NetworkManager: Device attached.
+Mar 20 11:03:04 LNX-WEB-001 systemd: Started Session.
+Mar 18 10:32:43 LNX-WEB-002 cron: Removed session.
+Mar 09 15:04:43 LNX-APP-002 rsyslog: Removed session.
+Mar 13 10:58:48 LNX-APP-002 rsyslog: Device attached.
+Mar 13 08:37:01 LNX-DEV-001 systemd: Device attached.
+Mar 03 13:13:57 LNX-WEB-001 cron: New session of user.
+Mar 22 12:48:44 LNX-APP-001 rsyslog: New session of user.
+Mar 13 17:18:18 LNX-BACKUP-001 cron: Network interface up.
+Mar 11 09:46:25 LNX-WEB-001 cron: Started Session.
+Mar 06 14:51:35 LNX-DEV-001 NetworkManager: Device attached.
+Mar 19 14:54:48 LNX-DB-001 cron: Network interface up.
+Mar 09 11:22:43 LNX-APP-001 rsyslog: New session of user.
+Mar 16 08:11:03 LNX-LOG-001 rsyslog: Started Session.
+Mar 11 17:22:50 LNX-DB-002 rsyslog: Started Session.
+Mar 29 08:28:45 LNX-APP-001 rsyslog: Device attached.
+Mar 16 17:41:49 LNX-LOG-001 systemd: Started Session.
+Mar 26 10:30:39 LNX-FILE-001 NetworkManager: Started Session.
+Mar 04 08:33:05 LNX-FILE-001 kernel: Removed session.
+Mar 15 15:21:46 LNX-DB-002 cron: Removed session.
+Mar 04 09:31:23 LNX-FILE-001 kernel: New session of user.
+Mar 13 12:18:32 LNX-APP-001 cron: Device attached.
+Mar 06 10:05:25 LNX-LOG-001 rsyslog: Started Session.
+Mar 23 13:57:16 LNX-DB-002 cron: Device attached.
+Mar 13 12:05:42 LNX-FILE-001 cron: Removed session.
+Mar 30 12:12:44 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 04 11:02:39 LNX-WEB-002 NetworkManager: Device attached.
+Mar 12 12:12:29 LNX-FILE-001 cron: Started Session.
+Mar 03 13:39:59 LNX-DB-002 kernel: Started Session.
+Mar 06 13:13:35 LNX-FILE-001 systemd: Network interface up.
+Mar 12 10:06:34 LNX-DEV-001 rsyslog: Network interface up.
+Mar 14 15:14:04 LNX-WEB-002 kernel: Removed session.
+Mar 17 13:31:55 LNX-WEB-002 NetworkManager: Device attached.
+Mar 08 17:11:48 LNX-APP-002 cron: Started Session.
+Mar 03 17:43:32 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 05 12:29:54 LNX-WEB-002 cron: Started Session.
+Mar 12 09:13:10 LNX-APP-001 kernel: Removed session.
+Mar 23 10:38:07 LNX-DEV-001 cron: Removed session.
+Mar 09 09:12:13 LNX-APP-002 cron: Removed session.
+Mar 02 11:19:53 LNX-DB-001 cron: Removed session.
+Mar 04 15:31:46 LNX-WEB-001 NetworkManager: New session of user.
+Mar 27 11:57:37 LNX-FILE-001 kernel: Network interface up.
+Mar 22 12:55:15 LNX-APP-001 kernel: New session of user.
+Mar 16 13:00:45 LNX-LOG-001 systemd: Started Session.
+Mar 03 12:51:21 LNX-WEB-001 NetworkManager: Device attached.
+Mar 19 09:53:50 LNX-DB-001 kernel: New session of user.
+Mar 08 09:45:01 LNX-DB-002 NetworkManager: Network interface up.
+Mar 27 17:46:52 LNX-DB-002 kernel: Removed session.
+Mar 29 10:15:35 LNX-DB-001 cron: New session of user.
+Mar 04 17:37:21 LNX-WEB-002 cron: Started Session.
+Mar 07 08:28:51 LNX-DEV-001 rsyslog: Network interface up.
+Mar 08 09:12:26 LNX-LOG-001 kernel: Removed session.
+Mar 05 14:35:19 LNX-APP-002 NetworkManager: Started Session.
+Mar 18 16:59:51 LNX-DB-002 NetworkManager: New session of user.
+Mar 28 15:50:36 LNX-APP-001 systemd: Removed session.
+Mar 20 10:13:55 LNX-FILE-001 cron: Network interface up.
+Mar 08 14:40:33 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 05 15:22:18 LNX-FILE-001 kernel: Removed session.
+Mar 22 17:59:33 LNX-DB-001 rsyslog: Network interface up.
+Mar 28 11:07:47 LNX-DB-001 kernel: Started Session.
+Mar 27 15:49:37 LNX-DB-002 systemd: Device attached.
+Mar 27 16:42:43 LNX-LOG-001 kernel: New session of user.
+Mar 17 17:33:33 LNX-APP-002 kernel: Removed session.
+Mar 02 08:32:47 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 11 10:50:01 LNX-WEB-001 kernel: Removed session.
+Mar 27 13:33:31 LNX-WEB-002 cron: New session of user.
+Mar 21 14:57:48 LNX-LOG-001 systemd: Device attached.
+Mar 17 15:38:57 LNX-DB-002 NetworkManager: Started Session.
+Mar 29 15:43:28 LNX-DB-002 systemd: Removed session.
+Mar 25 12:27:56 LNX-DB-002 kernel: Network interface up.
+Mar 11 13:29:09 LNX-APP-001 NetworkManager: New session of user.
+Mar 12 17:36:11 LNX-DB-001 rsyslog: New session of user.
+Mar 08 12:37:13 LNX-WEB-001 kernel: Removed session.
+Mar 17 09:39:28 LNX-DB-002 cron: Device attached.
+Mar 17 15:02:35 LNX-APP-001 systemd: New session of user.
+Mar 06 14:21:05 LNX-APP-002 NetworkManager: New session of user.
+Mar 06 15:11:36 LNX-LOG-001 rsyslog: Removed session.
+Mar 21 15:10:38 LNX-WEB-002 NetworkManager: New session of user.
+Mar 17 13:22:27 LNX-FILE-001 kernel: Started Session.
+Mar 13 08:57:36 LNX-APP-001 cron: Network interface up.
+Mar 02 16:33:04 LNX-WEB-001 kernel: Network interface up.
+Mar 16 09:08:04 LNX-LOG-001 rsyslog: Started Session.
+Mar 05 09:11:58 LNX-DB-001 kernel: Network interface up.
+Mar 13 09:14:33 LNX-WEB-002 cron: New session of user.
+Mar 03 16:19:02 LNX-FILE-001 rsyslog: Network interface up.
+Mar 01 08:26:52 LNX-DEV-001 rsyslog: Started Session.
+Mar 24 12:35:04 LNX-DEV-001 NetworkManager: Started Session.
+Mar 24 17:08:58 LNX-DB-001 kernel: Removed session.
+Mar 13 14:12:57 LNX-WEB-001 cron: Network interface up.
+Mar 25 15:47:50 LNX-WEB-002 rsyslog: Started Session.
+Mar 01 09:44:21 LNX-WEB-002 kernel: Network interface up.
+Mar 15 12:54:02 LNX-APP-002 cron: Started Session.
+Mar 30 10:53:55 LNX-WEB-002 kernel: Removed session.
+Mar 17 10:12:55 LNX-DEV-001 kernel: Started Session.
+Mar 14 17:18:40 LNX-DEV-001 NetworkManager: Removed session.
+Mar 20 16:48:52 LNX-APP-001 cron: New session of user.
+Mar 27 14:38:28 LNX-DB-001 NetworkManager: New session of user.
+Mar 28 10:09:30 LNX-WEB-001 kernel: Removed session.
+Mar 23 08:41:27 LNX-BACKUP-001 kernel: Network interface up.
+Mar 06 10:46:45 LNX-DB-002 rsyslog: Removed session.
+Mar 15 14:40:15 LNX-DB-002 cron: New session of user.
+Mar 17 09:51:05 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 19 16:12:55 LNX-APP-002 kernel: Device attached.
+Mar 19 12:30:03 LNX-WEB-002 cron: Removed session.
+Mar 30 15:41:00 LNX-DB-001 rsyslog: New session of user.
+Mar 02 09:50:16 LNX-APP-002 kernel: New session of user.
+Mar 29 08:22:05 LNX-APP-001 systemd: Network interface up.
+Mar 11 14:08:18 LNX-APP-001 systemd: New session of user.
+Mar 14 10:14:57 LNX-DB-001 cron: Removed session.
+Mar 06 12:04:45 LNX-APP-002 systemd: New session of user.
+Mar 11 16:11:47 LNX-WEB-001 NetworkManager: Started Session.
+Mar 27 13:23:13 LNX-APP-001 systemd: New session of user.
+Mar 15 15:09:08 LNX-WEB-002 NetworkManager: New session of user.
+Mar 26 12:10:38 LNX-DEV-001 rsyslog: Device attached.
+Mar 28 15:32:11 LNX-DB-002 systemd: Started Session.
+Mar 12 09:57:16 LNX-LOG-001 rsyslog: New session of user.
+Mar 03 14:00:55 LNX-WEB-002 rsyslog: Network interface up.
+Mar 24 15:34:45 LNX-WEB-002 kernel: Removed session.
+Mar 19 12:50:13 LNX-APP-002 cron: Network interface up.
+Mar 29 09:05:44 LNX-DEV-001 NetworkManager: Removed session.
+Mar 24 16:30:03 LNX-BACKUP-001 cron: Started Session.
+Mar 14 17:51:13 LNX-WEB-001 cron: New session of user.
+Mar 01 09:22:13 LNX-LOG-001 cron: Network interface up.
+Mar 17 17:30:22 LNX-APP-001 kernel: Device attached.
+Mar 21 17:34:17 LNX-LOG-001 kernel: Device attached.
+Mar 16 14:13:04 LNX-FILE-001 rsyslog: Network interface up.
+Mar 29 11:37:24 LNX-DB-002 cron: Removed session.
+Mar 24 12:13:26 LNX-FILE-001 NetworkManager: Device attached.
+Mar 18 08:55:00 LNX-DB-001 NetworkManager: Removed session.
+Mar 09 11:13:59 LNX-WEB-002 kernel: Removed session.
+Mar 09 10:26:55 LNX-FILE-001 systemd: Started Session.
+Mar 17 09:11:32 LNX-DB-002 NetworkManager: Started Session.
+Mar 17 17:27:23 LNX-WEB-002 cron: Started Session.
+Mar 04 14:37:16 LNX-DEV-001 NetworkManager: Started Session.
+Mar 11 11:56:58 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 15 15:34:33 LNX-DB-002 rsyslog: New session of user.
+Mar 02 10:27:10 LNX-APP-002 cron: Removed session.
+Mar 06 08:33:02 LNX-APP-002 NetworkManager: New session of user.
+Mar 13 15:04:32 LNX-WEB-002 rsyslog: Device attached.
+Mar 09 13:42:12 LNX-FILE-001 NetworkManager: Device attached.
+Mar 13 11:35:17 LNX-WEB-001 rsyslog: Network interface up.
+Mar 24 10:38:13 LNX-APP-001 rsyslog: Network interface up.
+Mar 30 16:38:12 LNX-DB-001 systemd: New session of user.
+Mar 16 13:27:58 LNX-BACKUP-001 cron: Started Session.
+Mar 28 14:46:38 LNX-WEB-002 rsyslog: Removed session.
+Mar 23 08:05:17 LNX-DB-002 rsyslog: Device attached.
+Mar 29 13:17:48 LNX-WEB-001 cron: Device attached.
+Mar 23 08:32:51 LNX-BACKUP-001 systemd: Removed session.
+Mar 30 08:41:30 LNX-BACKUP-001 systemd: Network interface up.
+Mar 29 12:39:29 LNX-WEB-001 cron: Network interface up.
+Mar 05 09:58:20 LNX-DB-001 NetworkManager: Removed session.
+Mar 02 14:34:59 LNX-WEB-001 systemd: Started Session.
+Mar 17 13:03:36 LNX-WEB-001 systemd: Removed session.
+Mar 30 12:08:25 LNX-DB-002 NetworkManager: Device attached.
+Mar 22 17:21:04 LNX-APP-002 kernel: New session of user.
+Mar 08 14:20:27 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 13 10:04:51 LNX-APP-002 kernel: Removed session.
+Mar 22 15:55:18 LNX-APP-002 systemd: New session of user.
+Mar 01 16:43:30 LNX-DEV-001 kernel: Started Session.
+Mar 04 12:51:48 LNX-WEB-002 rsyslog: Device attached.
+Mar 17 17:58:40 LNX-LOG-001 cron: Started Session.
+Mar 27 14:35:53 LNX-WEB-002 systemd: New session of user.
+Mar 23 11:06:57 LNX-WEB-001 systemd: Network interface up.
+Mar 04 08:42:54 LNX-BACKUP-001 systemd: Network interface up.
+Mar 11 08:33:14 LNX-WEB-002 cron: Network interface up.
+Mar 28 15:12:41 LNX-WEB-001 systemd: Removed session.
+Mar 03 17:39:01 LNX-WEB-001 NetworkManager: Started Session.
+Mar 05 09:27:46 LNX-FILE-001 kernel: Network interface up.
+Mar 01 11:26:05 LNX-WEB-001 NetworkManager: Device attached.
+Mar 30 08:51:44 LNX-BACKUP-001 systemd: Network interface up.
+Mar 24 14:54:33 LNX-APP-002 systemd: Network interface up.
+Mar 07 17:23:42 LNX-DEV-001 rsyslog: Removed session.
+Mar 23 08:28:23 LNX-APP-002 kernel: Device attached.
+Mar 04 15:12:57 LNX-BACKUP-001 kernel: Device attached.
+Mar 28 16:53:15 LNX-APP-001 systemd: New session of user.
+Mar 21 11:00:36 LNX-WEB-001 kernel: New session of user.
+Mar 13 14:08:52 LNX-WEB-001 kernel: Removed session.
+Mar 25 11:54:53 LNX-DEV-001 systemd: Started Session.
+Mar 03 11:53:53 LNX-DB-001 systemd: Removed session.
+Mar 04 16:53:51 LNX-DB-002 rsyslog: Started Session.
+Mar 26 11:21:16 LNX-BACKUP-001 cron: Started Session.
+Mar 04 12:49:13 LNX-FILE-001 rsyslog: Started Session.
+Mar 19 11:59:41 LNX-WEB-002 cron: Removed session.
+Mar 27 09:00:01 LNX-DB-001 NetworkManager: Network interface up.
+Mar 11 14:59:08 LNX-LOG-001 kernel: Device attached.
+Mar 07 15:12:07 LNX-DB-002 systemd: New session of user.
+Mar 05 12:31:05 LNX-WEB-001 systemd: Device attached.
+Mar 23 11:36:21 LNX-LOG-001 rsyslog: Device attached.
+Mar 08 11:33:03 LNX-DEV-001 systemd: Started Session.
+Mar 10 16:55:07 LNX-WEB-001 systemd: Device attached.
+Mar 27 09:37:18 LNX-WEB-002 NetworkManager: New session of user.
+Mar 19 09:44:40 LNX-WEB-002 kernel: Removed session.
+Mar 14 14:11:58 LNX-WEB-002 kernel: Started Session.
+Mar 20 13:07:56 LNX-WEB-001 rsyslog: Started Session.
+Mar 06 15:53:11 LNX-FILE-001 cron: Removed session.
+Mar 13 14:51:28 LNX-DB-001 kernel: New session of user.
+Mar 09 13:59:12 LNX-BACKUP-001 systemd: Network interface up.
+Mar 17 15:57:35 LNX-WEB-001 kernel: New session of user.
+Mar 27 14:12:46 LNX-LOG-001 kernel: Network interface up.
+Mar 09 17:40:18 LNX-LOG-001 cron: Network interface up.
+Mar 05 15:57:05 LNX-DEV-001 kernel: New session of user.
+Mar 15 11:28:59 LNX-DB-001 systemd: New session of user.
+Mar 23 09:52:47 LNX-APP-001 rsyslog: Started Session.
+Mar 11 17:33:14 LNX-FILE-001 rsyslog: Removed session.
+Mar 20 10:26:43 LNX-LOG-001 systemd: Started Session.
+Mar 01 15:40:29 LNX-APP-001 cron: Started Session.
+Mar 02 16:13:53 LNX-WEB-001 kernel: Removed session.
+Mar 15 12:46:22 LNX-BACKUP-001 kernel: Removed session.
+Mar 20 16:12:22 LNX-WEB-002 rsyslog: Network interface up.
+Mar 12 12:58:05 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 03 16:25:42 LNX-DEV-001 rsyslog: Network interface up.
+Mar 30 14:44:23 LNX-DEV-001 systemd: Removed session.
+Mar 05 16:49:13 LNX-WEB-001 kernel: New session of user.
+Mar 30 08:10:57 LNX-WEB-001 kernel: Started Session.
+Mar 23 09:09:55 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 11 08:21:40 LNX-WEB-002 kernel: Removed session.
+Mar 14 09:52:07 LNX-DB-002 rsyslog: Removed session.
+Mar 29 15:36:09 LNX-DEV-001 systemd: New session of user.
+Mar 17 10:57:52 LNX-DB-001 cron: Device attached.
+Mar 22 13:05:57 LNX-APP-001 kernel: Device attached.
+Mar 29 13:42:11 LNX-BACKUP-001 cron: Started Session.
+Mar 13 16:05:06 LNX-DB-002 NetworkManager: Device attached.
+Mar 26 13:19:21 LNX-DB-002 cron: Network interface up.
+Mar 30 14:39:55 LNX-FILE-001 kernel: Device attached.
+Mar 28 13:58:06 LNX-DB-002 systemd: Started Session.
+Mar 08 11:38:19 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 25 12:29:48 LNX-DEV-001 NetworkManager: Started Session.
+Mar 11 09:09:30 LNX-DEV-001 NetworkManager: New session of user.
+Mar 25 08:43:34 LNX-DEV-001 kernel: Removed session.
+Mar 09 16:22:13 LNX-DB-002 kernel: Device attached.
+Mar 09 09:41:20 LNX-DB-002 cron: Device attached.
+Mar 25 12:16:39 LNX-FILE-001 NetworkManager: New session of user.
+Mar 09 13:50:29 LNX-DB-002 cron: Network interface up.
+Mar 15 11:32:43 LNX-DB-002 kernel: Removed session.
+Mar 02 14:34:27 LNX-DB-001 rsyslog: Started Session.
+Mar 06 11:51:33 LNX-DB-002 NetworkManager: Removed session.
+Mar 12 17:10:39 LNX-LOG-001 rsyslog: Removed session.
+Mar 28 15:04:18 LNX-FILE-001 kernel: Started Session.
+Mar 18 12:54:02 LNX-DB-001 kernel: New session of user.
+Mar 25 12:33:58 LNX-WEB-002 kernel: Removed session.
+Mar 21 08:09:33 LNX-WEB-002 systemd: New session of user.
+Mar 02 11:08:18 LNX-FILE-001 kernel: Device attached.
+Mar 03 17:04:44 LNX-FILE-001 systemd: Removed session.
+Mar 08 11:35:56 LNX-WEB-001 systemd: Network interface up.
+Mar 19 17:29:17 LNX-FILE-001 cron: Network interface up.
+Mar 19 13:05:31 LNX-DEV-001 systemd: Started Session.
+Mar 07 10:05:49 LNX-DB-001 kernel: Removed session.
+Mar 11 12:44:45 LNX-APP-002 systemd: Started Session.
+Mar 14 10:41:49 LNX-LOG-001 NetworkManager: Started Session.
+Mar 10 15:22:05 LNX-DB-001 rsyslog: Network interface up.
+Mar 29 14:49:11 LNX-DB-002 rsyslog: Network interface up.
+Mar 09 14:01:13 LNX-APP-001 kernel: Started Session.
+Mar 21 15:22:24 LNX-BACKUP-001 systemd: Device attached.
+Mar 25 12:45:04 LNX-APP-001 cron: Device attached.
+Mar 21 08:41:02 LNX-BACKUP-001 cron: New session of user.
+Mar 27 08:55:00 LNX-WEB-002 systemd: Started Session.
+Mar 27 12:34:46 LNX-BACKUP-001 cron: Started Session.
+Mar 05 10:08:29 LNX-DEV-001 rsyslog: Device attached.
+Mar 07 11:38:25 LNX-APP-002 NetworkManager: Network interface up.
+Mar 01 16:35:04 LNX-FILE-001 cron: Network interface up.
+Mar 13 12:22:45 LNX-FILE-001 rsyslog: Started Session.
+Mar 17 09:59:20 LNX-DB-002 rsyslog: Started Session.
+Mar 23 14:06:28 LNX-DB-002 NetworkManager: Network interface up.
+Mar 29 12:28:25 LNX-WEB-001 cron: Device attached.
+Mar 06 16:39:02 LNX-DB-001 kernel: Removed session.
+Mar 05 11:01:21 LNX-FILE-001 cron: Started Session.
+Mar 27 11:06:23 LNX-FILE-001 kernel: Device attached.
+Mar 05 13:15:16 LNX-APP-002 NetworkManager: Device attached.
+Mar 05 10:26:50 LNX-WEB-002 NetworkManager: Device attached.
+Mar 10 17:02:51 LNX-WEB-002 kernel: Started Session.
+Mar 20 08:44:05 LNX-WEB-001 rsyslog: Started Session.
+Mar 19 09:37:07 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 13 09:19:16 LNX-APP-002 systemd: Device attached.
+Mar 28 08:22:05 LNX-WEB-001 rsyslog: Started Session.
+Mar 06 08:13:39 LNX-APP-002 cron: Removed session.
+Mar 26 16:48:45 LNX-DEV-001 cron: Device attached.
+Mar 25 13:00:39 LNX-APP-002 cron: New session of user.
+Mar 17 13:58:26 LNX-LOG-001 cron: New session of user.
+Mar 16 14:14:07 LNX-DB-001 kernel: Device attached.
+Mar 06 13:40:53 LNX-APP-001 rsyslog: Started Session.
+Mar 30 15:09:01 LNX-DEV-001 rsyslog: New session of user.
+Mar 10 13:26:30 LNX-DB-002 NetworkManager: New session of user.
+Mar 05 16:06:26 LNX-DB-002 kernel: Network interface up.
+Mar 06 12:31:26 LNX-BACKUP-001 cron: Started Session.
+Mar 11 17:28:35 LNX-LOG-001 cron: New session of user.
+Mar 14 17:27:41 LNX-APP-001 cron: Removed session.
+Mar 14 10:12:44 LNX-BACKUP-001 systemd: Device attached.
+Mar 03 15:05:37 LNX-DB-002 systemd: Started Session.
+Mar 25 17:48:27 LNX-WEB-002 rsyslog: Started Session.
+Mar 03 11:44:14 LNX-LOG-001 rsyslog: Removed session.
+Mar 01 12:53:32 LNX-DB-002 cron: New session of user.
+Mar 09 13:28:39 LNX-DB-001 NetworkManager: Device attached.
+Mar 15 11:01:27 LNX-WEB-001 systemd: Network interface up.
+Mar 03 13:25:42 LNX-DB-002 rsyslog: Device attached.
+Mar 04 09:10:19 LNX-DB-002 NetworkManager: Started Session.
+Mar 02 16:51:24 LNX-WEB-002 kernel: Device attached.
+Mar 18 10:54:29 LNX-DEV-001 cron: Removed session.
+Mar 04 11:31:34 LNX-FILE-001 cron: Device attached.
+Mar 13 10:19:43 LNX-WEB-002 cron: Network interface up.
+Mar 23 16:14:33 LNX-WEB-002 rsyslog: Network interface up.
+Mar 22 16:39:44 LNX-DEV-001 systemd: Started Session.
+Mar 18 16:49:01 LNX-DB-001 cron: Device attached.
+Mar 13 08:21:08 LNX-APP-001 NetworkManager: New session of user.
+Mar 14 10:27:21 LNX-LOG-001 NetworkManager: Removed session.
+Mar 17 11:35:20 LNX-DEV-001 NetworkManager: Device attached.
+Mar 17 10:48:34 LNX-LOG-001 rsyslog: Device attached.
+Mar 03 08:53:50 LNX-APP-002 systemd: Network interface up.
+Mar 11 08:38:22 LNX-WEB-002 kernel: Removed session.
+Mar 20 12:37:11 LNX-DB-002 rsyslog: Removed session.
+Mar 13 11:23:06 LNX-DB-001 NetworkManager: Started Session.
+Mar 24 14:36:51 LNX-WEB-001 cron: Network interface up.
+Mar 06 12:16:34 LNX-DB-001 cron: New session of user.
+Mar 28 17:29:01 LNX-DEV-001 systemd: Device attached.
+Mar 19 15:08:23 LNX-DEV-001 NetworkManager: Device attached.
+Mar 24 13:28:50 LNX-WEB-001 kernel: Device attached.
+Mar 06 10:21:12 LNX-DB-002 cron: Started Session.
+Mar 02 15:46:18 LNX-APP-001 systemd: Network interface up.
+Mar 04 12:47:04 LNX-APP-002 rsyslog: Device attached.
+Mar 27 11:51:51 LNX-WEB-002 systemd: Started Session.
+Mar 01 09:52:30 LNX-LOG-001 systemd: Device attached.
+Mar 01 15:14:55 LNX-BACKUP-001 systemd: Started Session.
+Mar 11 10:16:19 LNX-BACKUP-001 kernel: Network interface up.
+Mar 29 15:11:04 LNX-APP-002 kernel: New session of user.
+Mar 10 11:57:35 LNX-WEB-001 cron: Device attached.
+Mar 24 08:50:32 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 13 14:47:31 LNX-WEB-001 rsyslog: New session of user.
+Mar 20 12:44:20 LNX-WEB-001 rsyslog: New session of user.
+Mar 09 17:57:42 LNX-APP-002 kernel: Network interface up.
+Mar 15 08:09:42 LNX-WEB-001 systemd: New session of user.
+Mar 19 13:17:57 LNX-WEB-002 kernel: Network interface up.
+Mar 02 16:50:20 LNX-FILE-001 kernel: New session of user.
+Mar 17 10:22:39 LNX-LOG-001 cron: Network interface up.
+Mar 10 10:42:45 LNX-FILE-001 NetworkManager: Removed session.
+Mar 21 09:05:44 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 26 08:29:54 LNX-BACKUP-001 systemd: Started Session.
+Mar 21 12:24:49 LNX-WEB-002 rsyslog: Started Session.
+Mar 10 17:32:50 LNX-APP-002 NetworkManager: Removed session.
+Mar 14 08:41:22 LNX-APP-002 kernel: Device attached.
+Mar 17 14:29:26 LNX-APP-001 kernel: Network interface up.
+Mar 17 15:56:59 LNX-APP-001 cron: Device attached.
+Mar 06 13:57:50 LNX-DEV-001 systemd: New session of user.
+Mar 09 09:44:16 LNX-WEB-002 NetworkManager: Device attached.
+Mar 21 17:36:25 LNX-FILE-001 rsyslog: Started Session.
+Mar 07 13:59:07 LNX-DB-001 kernel: Started Session.
+Mar 04 15:39:36 LNX-DB-001 cron: Device attached.
+Mar 17 14:18:24 LNX-WEB-001 NetworkManager: Started Session.
+Mar 02 14:01:22 LNX-WEB-002 cron: New session of user.
+Mar 17 08:23:26 LNX-WEB-001 NetworkManager: Started Session.
+Mar 04 10:39:20 LNX-LOG-001 cron: Network interface up.
+Mar 03 10:20:07 LNX-BACKUP-001 cron: New session of user.
+Mar 11 15:30:38 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 15 08:19:02 LNX-DEV-001 systemd: Device attached.
+Mar 01 13:03:06 LNX-APP-001 systemd: New session of user.
+Mar 12 11:10:58 LNX-BACKUP-001 systemd: Started Session.
+Mar 12 17:06:23 LNX-DEV-001 systemd: Removed session.
+Mar 29 13:19:18 LNX-WEB-002 kernel: Started Session.
+Mar 23 17:57:05 LNX-DB-002 cron: Device attached.
+Mar 14 17:54:13 LNX-DEV-001 kernel: Device attached.
+Mar 29 10:32:59 LNX-LOG-001 rsyslog: Network interface up.
+Mar 24 10:51:01 LNX-WEB-002 NetworkManager: Started Session.
+Mar 14 15:25:36 LNX-DB-002 rsyslog: Network interface up.
+Mar 14 16:05:11 LNX-WEB-002 rsyslog: New session of user.
+Mar 11 09:18:53 LNX-BACKUP-001 cron: New session of user.
+Mar 07 11:46:52 LNX-APP-001 cron: Device attached.
+Mar 23 16:44:47 LNX-LOG-001 systemd: New session of user.
+Mar 22 08:50:42 LNX-APP-001 systemd: Removed session.
+Mar 05 14:36:57 LNX-DB-002 systemd: Device attached.
+Mar 07 09:55:19 LNX-WEB-001 cron: Network interface up.
+Mar 18 12:27:01 LNX-FILE-001 rsyslog: Device attached.
+Mar 26 16:12:37 LNX-BACKUP-001 kernel: New session of user.
+Mar 11 16:31:48 LNX-WEB-001 kernel: Device attached.
+Mar 23 12:49:12 LNX-DEV-001 systemd: Device attached.
+Mar 19 10:17:40 LNX-APP-002 kernel: Started Session.
+Mar 26 13:27:23 LNX-BACKUP-001 cron: New session of user.
+Mar 19 16:17:00 LNX-APP-001 cron: Network interface up.
+Mar 18 11:15:50 LNX-WEB-001 rsyslog: Device attached.
+Mar 14 14:43:38 LNX-APP-001 NetworkManager: Device attached.
+Mar 11 09:47:36 LNX-DEV-001 kernel: Removed session.
+Mar 25 15:24:18 LNX-WEB-001 systemd: Removed session.
+Mar 09 08:00:42 LNX-WEB-002 rsyslog: Network interface up.
+Mar 02 08:55:43 LNX-WEB-002 kernel: Removed session.
+Mar 23 10:31:42 LNX-DB-002 kernel: Network interface up.
+Mar 06 10:57:07 LNX-DB-002 cron: Removed session.
+Mar 07 12:47:23 LNX-DB-002 NetworkManager: Removed session.
+Mar 11 13:50:09 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 01 08:11:14 LNX-APP-002 systemd: Network interface up.
+Mar 28 12:34:51 LNX-DB-002 NetworkManager: Network interface up.
+Mar 06 09:59:56 LNX-DB-002 NetworkManager: Started Session.
+Mar 04 16:33:43 LNX-WEB-001 systemd: New session of user.
+Mar 24 15:43:31 LNX-DB-001 kernel: Device attached.
+Mar 17 15:38:34 LNX-LOG-001 NetworkManager: Removed session.
+Mar 01 14:54:27 LNX-WEB-001 kernel: Network interface up.
+Mar 25 10:03:54 LNX-WEB-002 cron: Started Session.
+Mar 19 10:15:36 LNX-APP-002 cron: Device attached.
+Mar 21 08:46:57 LNX-WEB-001 kernel: Removed session.
+Mar 15 11:01:10 LNX-DEV-001 NetworkManager: Started Session.
+Mar 28 17:54:36 LNX-DB-002 NetworkManager: Device attached.
+Mar 16 10:28:23 LNX-WEB-001 systemd: New session of user.
+Mar 24 11:13:42 LNX-FILE-001 NetworkManager: Started Session.
+Mar 08 08:14:58 LNX-WEB-001 rsyslog: Removed session.
+Mar 15 14:19:10 LNX-DB-001 rsyslog: New session of user.
+Mar 25 10:08:38 LNX-BACKUP-001 cron: Started Session.
+Mar 08 17:32:00 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 06 09:00:39 LNX-FILE-001 kernel: Device attached.
+Mar 08 12:23:11 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 30 09:19:51 LNX-DB-002 cron: Device attached.
+Mar 21 10:36:04 LNX-APP-002 cron: Network interface up.
+Mar 03 15:42:47 LNX-LOG-001 rsyslog: Started Session.
+Mar 15 12:10:48 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 07 09:14:47 LNX-WEB-002 systemd: Started Session.
+Mar 29 12:34:47 LNX-WEB-001 kernel: New session of user.
+Mar 06 10:06:43 LNX-WEB-002 cron: Device attached.
+Mar 28 12:17:46 LNX-WEB-002 systemd: New session of user.
+Mar 22 15:33:38 LNX-DEV-001 rsyslog: Started Session.
+Mar 25 17:02:21 LNX-WEB-001 kernel: Removed session.
+Mar 29 17:30:21 LNX-LOG-001 rsyslog: Removed session.
+Mar 18 11:36:49 LNX-DB-001 cron: Started Session.
+Mar 26 17:52:59 LNX-DB-001 cron: New session of user.
+Mar 19 17:15:19 LNX-DB-001 systemd: Removed session.
+Mar 13 11:21:48 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 30 17:01:09 LNX-APP-001 rsyslog: Device attached.
+Mar 16 09:09:29 LNX-WEB-001 cron: New session of user.
+Mar 30 10:50:31 LNX-DB-001 systemd: Network interface up.
+Mar 19 16:04:05 LNX-APP-002 NetworkManager: Started Session.
+Mar 28 17:06:01 LNX-DEV-001 cron: Network interface up.
+Mar 10 10:47:48 LNX-APP-001 kernel: Network interface up.
+Mar 18 15:05:54 LNX-FILE-001 systemd: Removed session.
+Mar 01 13:28:01 LNX-BACKUP-001 systemd: Network interface up.
+Mar 15 10:23:01 LNX-APP-002 rsyslog: Removed session.
+Mar 01 10:28:43 LNX-WEB-002 systemd: Device attached.
+Mar 20 16:40:17 LNX-LOG-001 cron: Started Session.
+Mar 22 12:40:23 LNX-BACKUP-001 systemd: New session of user.
+Mar 25 11:44:12 LNX-WEB-001 NetworkManager: Device attached.
+Mar 03 11:48:14 LNX-WEB-001 systemd: Removed session.
+Mar 11 16:40:38 LNX-DB-001 cron: New session of user.
+Mar 21 10:18:11 LNX-APP-001 rsyslog: Started Session.
+Mar 29 09:30:07 LNX-WEB-002 kernel: Started Session.
+Mar 13 11:20:28 LNX-FILE-001 cron: Started Session.
+Mar 06 13:51:35 LNX-DB-001 systemd: Network interface up.
+Mar 19 12:35:43 LNX-WEB-001 cron: Started Session.
+Mar 01 08:09:50 LNX-LOG-001 NetworkManager: Started Session.
+Mar 26 17:59:32 LNX-FILE-001 rsyslog: Removed session.
+Mar 10 15:56:35 LNX-WEB-001 NetworkManager: Removed session.
+Mar 04 10:29:32 LNX-APP-002 NetworkManager: New session of user.
+Mar 09 13:07:24 LNX-APP-001 kernel: Network interface up.
+Mar 02 14:07:33 LNX-FILE-001 kernel: Removed session.
+Mar 06 11:22:12 LNX-WEB-002 rsyslog: Network interface up.
+Mar 06 13:19:20 LNX-DEV-001 rsyslog: Device attached.
+Mar 28 17:54:08 LNX-WEB-002 NetworkManager: Device attached.
+Mar 11 15:22:30 LNX-BACKUP-001 cron: Network interface up.
+Mar 03 09:26:23 LNX-DB-001 cron: Removed session.
+Mar 05 15:51:39 LNX-DB-002 NetworkManager: Device attached.
+Mar 03 15:05:59 LNX-APP-002 cron: Started Session.
+Mar 28 10:09:07 LNX-WEB-001 rsyslog: Removed session.
+Mar 05 15:46:16 LNX-APP-002 kernel: Device attached.
+Mar 17 16:30:43 LNX-DEV-001 kernel: New session of user.
+Mar 27 08:48:34 LNX-APP-001 systemd: Removed session.
+Mar 21 16:45:21 LNX-DB-001 systemd: Device attached.
+Mar 04 09:55:49 LNX-APP-002 rsyslog: Removed session.
+Mar 10 15:41:33 LNX-FILE-001 systemd: Network interface up.
+Mar 21 14:01:37 LNX-DB-001 kernel: Removed session.
+Mar 03 10:18:38 LNX-WEB-001 systemd: New session of user.
+Mar 22 15:00:26 LNX-DEV-001 rsyslog: New session of user.
+Mar 28 08:15:58 LNX-DB-001 kernel: Started Session.
+Mar 09 16:56:04 LNX-DB-002 kernel: Device attached.
+Mar 25 08:34:27 LNX-DEV-001 kernel: Network interface up.
+Mar 14 08:49:32 LNX-WEB-001 cron: Device attached.
+Mar 08 17:02:47 LNX-DB-002 NetworkManager: Device attached.
+Mar 11 14:05:10 LNX-LOG-001 NetworkManager: Device attached.
+Mar 24 13:39:09 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 02 13:50:52 LNX-WEB-001 kernel: Device attached.
+Mar 06 16:21:21 LNX-DB-001 cron: Started Session.
+Mar 05 09:45:03 LNX-APP-001 systemd: Removed session.
+Mar 19 09:06:51 LNX-DB-002 systemd: Started Session.
+Mar 03 08:09:51 LNX-DB-002 cron: Network interface up.
+Mar 08 15:38:57 LNX-DB-001 cron: Network interface up.
+Mar 26 15:15:35 LNX-APP-002 rsyslog: Network interface up.
+Mar 29 11:25:08 LNX-WEB-001 systemd: New session of user.
+Mar 23 17:00:24 LNX-WEB-001 systemd: Started Session.
+Mar 24 14:48:53 LNX-WEB-001 kernel: New session of user.
+Mar 09 08:55:33 LNX-WEB-002 NetworkManager: Started Session.
+Mar 07 09:36:12 LNX-FILE-001 rsyslog: New session of user.
+Mar 03 15:51:10 LNX-DB-002 cron: Started Session.
+Mar 06 11:32:53 LNX-APP-001 systemd: Removed session.
+Mar 19 17:13:53 LNX-DEV-001 rsyslog: Device attached.
+Mar 09 14:33:19 LNX-LOG-001 NetworkManager: Started Session.
+Mar 04 08:52:16 LNX-APP-001 NetworkManager: Device attached.
+Mar 20 12:13:01 LNX-BACKUP-001 cron: Started Session.
+Mar 19 17:39:15 LNX-APP-002 systemd: Started Session.
+Mar 19 10:48:49 LNX-WEB-001 kernel: Started Session.
+Mar 15 15:20:07 LNX-WEB-002 NetworkManager: New session of user.
+Mar 14 14:42:28 LNX-DB-001 rsyslog: New session of user.
+Mar 18 11:46:06 LNX-APP-001 cron: New session of user.
+Mar 30 11:49:13 LNX-APP-001 rsyslog: Removed session.
+Mar 28 14:48:06 LNX-DB-002 systemd: Device attached.
+Mar 22 09:45:23 LNX-WEB-002 rsyslog: Device attached.
+Mar 06 14:14:09 LNX-APP-002 NetworkManager: New session of user.
+Mar 11 17:29:18 LNX-BACKUP-001 kernel: Network interface up.
+Mar 04 12:57:39 LNX-DEV-001 rsyslog: Started Session.
+Mar 23 13:10:07 LNX-FILE-001 rsyslog: New session of user.
+Mar 13 12:04:09 LNX-LOG-001 systemd: New session of user.
+Mar 06 15:49:27 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 27 10:13:35 LNX-BACKUP-001 NetworkManager: New session of user.
+Mar 10 10:14:14 LNX-WEB-001 systemd: Started Session.
+Mar 21 14:17:58 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 24 16:10:28 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 26 10:12:10 LNX-APP-001 cron: Removed session.
+Mar 07 08:45:23 LNX-WEB-001 cron: Network interface up.
+Mar 05 12:04:41 LNX-DB-002 kernel: Removed session.
+Mar 24 16:42:50 LNX-DB-002 NetworkManager: Network interface up.
+Mar 22 09:43:23 LNX-APP-001 systemd: Network interface up.
+Mar 04 11:44:22 LNX-APP-001 kernel: Device attached.
+Mar 02 17:43:33 LNX-WEB-002 rsyslog: Network interface up.
+Mar 18 12:42:58 LNX-FILE-001 kernel: Network interface up.
+Mar 12 17:41:29 LNX-DEV-001 NetworkManager: Started Session.
+Mar 27 13:34:41 LNX-DEV-001 rsyslog: Started Session.
+Mar 07 09:52:48 LNX-BACKUP-001 cron: Started Session.
+Mar 07 15:01:33 LNX-BACKUP-001 cron: Device attached.
+Mar 11 13:53:02 LNX-FILE-001 rsyslog: Device attached.
+Mar 15 08:51:45 LNX-APP-001 systemd: Device attached.
+Mar 08 09:53:10 LNX-APP-002 NetworkManager: Started Session.
+Mar 19 11:05:43 LNX-BACKUP-001 kernel: Started Session.
+Mar 19 12:22:23 LNX-DB-002 kernel: Device attached.
+Mar 03 15:50:25 LNX-DB-001 systemd: New session of user.
+Mar 24 14:31:30 LNX-APP-002 rsyslog: New session of user.
+Mar 20 13:28:36 LNX-APP-002 kernel: Network interface up.
+Mar 25 11:23:00 LNX-WEB-001 kernel: New session of user.
+Mar 13 11:07:19 LNX-LOG-001 systemd: Removed session.
+Mar 10 12:45:47 LNX-APP-002 cron: Device attached.
+Mar 07 13:20:58 LNX-BACKUP-001 cron: Removed session.
+Mar 26 15:48:47 LNX-WEB-002 kernel: New session of user.
+Mar 22 13:33:14 LNX-DB-001 NetworkManager: New session of user.
+Mar 19 17:34:27 LNX-DEV-001 rsyslog: Network interface up.
+Mar 05 14:36:46 LNX-DB-002 cron: Started Session.
+Mar 30 09:20:11 LNX-DB-001 systemd: Device attached.
+Mar 11 15:47:06 LNX-DB-001 rsyslog: Removed session.
+Mar 30 11:34:44 LNX-FILE-001 cron: Network interface up.
+Mar 21 08:35:35 LNX-WEB-001 NetworkManager: New session of user.
+Mar 05 13:57:01 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 01 08:29:56 LNX-DB-002 cron: Network interface up.
+Mar 02 10:16:14 LNX-DEV-001 systemd: New session of user.
+Mar 27 10:26:52 LNX-WEB-001 cron: Started Session.
+Mar 24 09:01:51 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 04 16:53:08 LNX-APP-001 systemd: New session of user.
+Mar 16 16:39:42 LNX-DEV-001 systemd: Started Session.
+Mar 08 16:12:28 LNX-WEB-002 kernel: New session of user.
+Mar 18 09:32:47 LNX-APP-002 kernel: Device attached.
+Mar 27 15:20:33 LNX-APP-001 rsyslog: Started Session.
+Mar 20 09:13:32 LNX-APP-001 systemd: Removed session.
+Mar 26 09:36:22 LNX-WEB-001 systemd: Network interface up.
+Mar 28 16:18:04 LNX-WEB-001 cron: Removed session.
+Mar 18 14:50:01 LNX-LOG-001 rsyslog: New session of user.
+Mar 11 13:14:56 LNX-DEV-001 kernel: Removed session.
+Mar 06 11:13:38 LNX-APP-002 systemd: Removed session.
+Mar 19 11:55:16 LNX-DB-001 cron: Started Session.
+Mar 30 14:28:05 LNX-LOG-001 NetworkManager: New session of user.
+Mar 07 13:29:20 LNX-APP-001 cron: Device attached.
+Mar 19 08:59:25 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 15 11:58:51 LNX-DB-001 cron: Device attached.
+Mar 01 13:48:30 LNX-LOG-001 rsyslog: New session of user.
+Mar 23 11:45:52 LNX-LOG-001 kernel: Network interface up.
+Mar 21 11:39:57 LNX-DEV-001 cron: New session of user.
+Mar 13 16:51:32 LNX-DB-001 cron: Started Session.
+Mar 24 17:00:57 LNX-LOG-001 kernel: New session of user.
+Mar 24 10:50:50 LNX-DB-002 NetworkManager: New session of user.
+Mar 24 12:16:03 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 20 11:47:07 LNX-WEB-001 kernel: Device attached.
+Mar 07 08:55:33 LNX-DB-001 cron: Started Session.
+Mar 27 15:33:57 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 03 16:09:12 LNX-DB-002 cron: New session of user.
+Mar 11 09:15:40 LNX-WEB-001 rsyslog: New session of user.
+Mar 24 08:54:12 LNX-FILE-001 systemd: Network interface up.
+Mar 21 13:30:09 LNX-DB-002 cron: Removed session.
+Mar 28 17:10:30 LNX-DB-001 NetworkManager: New session of user.
+Mar 18 13:46:30 LNX-WEB-002 kernel: New session of user.
+Mar 28 12:24:47 LNX-DB-002 rsyslog: Removed session.
+Mar 15 13:05:35 LNX-WEB-002 kernel: Removed session.
+Mar 13 16:23:39 LNX-FILE-001 systemd: Removed session.
+Mar 27 10:01:07 LNX-DB-002 cron: Device attached.
+Mar 02 15:54:56 LNX-DB-001 kernel: Device attached.
+Mar 03 14:12:26 LNX-BACKUP-001 cron: Network interface up.
+Mar 05 09:01:51 LNX-DB-002 kernel: Started Session.
+Mar 26 14:33:54 LNX-WEB-002 cron: New session of user.
+Mar 30 11:02:50 LNX-APP-002 kernel: Started Session.
+Mar 04 17:41:36 LNX-WEB-001 kernel: Started Session.
+Mar 14 17:03:01 LNX-DEV-001 NetworkManager: Started Session.
+Mar 22 16:44:43 LNX-WEB-002 systemd: Removed session.
+Mar 17 09:55:15 LNX-DB-001 cron: Removed session.
+Mar 20 08:03:14 LNX-DB-002 cron: Device attached.
+Mar 01 12:09:10 LNX-FILE-001 rsyslog: Started Session.
+Mar 24 15:05:24 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 13 08:42:41 LNX-APP-001 rsyslog: Started Session.
+Mar 09 15:02:00 LNX-DEV-001 systemd: Removed session.
+Mar 01 10:07:47 LNX-DB-002 kernel: New session of user.
+Mar 27 12:19:51 LNX-FILE-001 kernel: Started Session.
+Mar 30 12:23:50 LNX-WEB-002 systemd: Started Session.
+Mar 13 16:55:35 LNX-DB-002 cron: Started Session.
+Mar 17 17:20:38 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 26 08:43:07 LNX-BACKUP-001 systemd: Started Session.
+Mar 06 12:40:27 LNX-DB-001 kernel: Started Session.
+Mar 10 17:56:35 LNX-FILE-001 NetworkManager: Removed session.
+Mar 23 09:48:37 LNX-APP-002 systemd: Removed session.
+Mar 28 17:06:57 LNX-FILE-001 cron: New session of user.
+Mar 26 13:13:43 LNX-DB-001 rsyslog: Device attached.
+Mar 16 08:32:28 LNX-FILE-001 kernel: Device attached.
+Mar 14 16:54:26 LNX-LOG-001 systemd: Device attached.
+Mar 29 16:12:31 LNX-BACKUP-001 kernel: Network interface up.
+Mar 27 15:24:13 LNX-DB-001 NetworkManager: Network interface up.
+Mar 15 10:50:20 LNX-APP-002 kernel: New session of user.
+Mar 28 11:09:22 LNX-BACKUP-001 systemd: Started Session.
+Mar 03 13:25:38 LNX-DB-001 cron: Started Session.
+Mar 19 13:57:20 LNX-LOG-001 kernel: Network interface up.
+Mar 19 14:10:58 LNX-FILE-001 NetworkManager: New session of user.
+Mar 03 10:53:24 LNX-APP-001 kernel: Device attached.
+Mar 11 09:10:38 LNX-WEB-001 NetworkManager: Device attached.
+Mar 29 10:31:42 LNX-FILE-001 rsyslog: Device attached.
+Mar 12 12:24:51 LNX-DB-001 cron: Started Session.
+Mar 08 08:41:40 LNX-WEB-002 NetworkManager: New session of user.
+Mar 13 13:33:44 LNX-WEB-002 systemd: Network interface up.
+Mar 01 09:17:23 LNX-WEB-001 cron: Device attached.
+Mar 17 15:37:10 LNX-DB-002 kernel: Started Session.
+Mar 02 16:40:40 LNX-APP-001 kernel: Device attached.
+Mar 24 09:18:15 LNX-BACKUP-001 kernel: Removed session.
+Mar 13 17:31:31 LNX-DB-002 NetworkManager: Device attached.
+Mar 29 08:48:16 LNX-APP-001 NetworkManager: Started Session.
+Mar 15 08:04:02 LNX-APP-001 systemd: New session of user.
+Mar 18 14:07:31 LNX-DB-001 cron: New session of user.
+Mar 03 15:21:05 LNX-DEV-001 kernel: Device attached.
+Mar 11 16:00:50 LNX-APP-001 NetworkManager: Started Session.
+Mar 11 15:39:47 LNX-FILE-001 NetworkManager: Started Session.
+Mar 05 13:56:00 LNX-BACKUP-001 systemd: Device attached.
+Mar 12 11:47:25 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 03 17:56:12 LNX-APP-001 cron: Device attached.
+Mar 19 09:09:38 LNX-FILE-001 NetworkManager: Device attached.
+Mar 06 11:48:05 LNX-WEB-001 systemd: Started Session.
+Mar 29 08:33:40 LNX-LOG-001 kernel: Started Session.
+Mar 08 11:39:25 LNX-LOG-001 kernel: Network interface up.
+Mar 10 08:49:28 LNX-APP-001 NetworkManager: Network interface up.
+Mar 02 12:13:31 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 08 17:04:15 LNX-APP-001 kernel: Started Session.
+Mar 13 17:56:01 LNX-DEV-001 kernel: Removed session.
+Mar 25 13:52:51 LNX-WEB-001 NetworkManager: Removed session.
+Mar 20 11:28:16 LNX-DB-001 rsyslog: New session of user.
+Mar 29 14:12:40 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 14 15:31:41 LNX-BACKUP-001 cron: Network interface up.
+Mar 26 11:07:31 LNX-WEB-002 systemd: Device attached.
+Mar 12 15:40:42 LNX-DEV-001 systemd: Device attached.
+Mar 23 13:44:25 LNX-DB-001 kernel: Removed session.
+Mar 03 10:47:14 LNX-DB-001 rsyslog: Started Session.
+Mar 06 09:05:01 LNX-APP-001 systemd: Started Session.
+Mar 16 15:12:31 LNX-FILE-001 kernel: New session of user.
+Mar 26 15:48:30 LNX-LOG-001 kernel: Device attached.
+Mar 02 14:39:14 LNX-APP-001 systemd: Removed session.
+Mar 26 17:22:54 LNX-WEB-001 rsyslog: New session of user.
+Mar 13 16:35:59 LNX-DB-002 rsyslog: Started Session.
+Mar 16 12:24:35 LNX-APP-002 kernel: Started Session.
+Mar 27 14:37:48 LNX-BACKUP-001 cron: Started Session.
+Mar 29 08:10:06 LNX-APP-002 NetworkManager: Started Session.
+Mar 04 14:19:58 LNX-APP-001 NetworkManager: Started Session.
+Mar 05 14:51:10 LNX-DB-001 kernel: New session of user.
+Mar 11 08:49:52 LNX-WEB-001 systemd: New session of user.
+Mar 23 13:50:39 LNX-DB-001 rsyslog: New session of user.
+Mar 04 13:35:46 LNX-FILE-001 systemd: Network interface up.
+Mar 22 12:27:12 LNX-BACKUP-001 cron: Started Session.
+Mar 03 16:50:01 LNX-APP-001 systemd: Removed session.
+Mar 09 14:55:45 LNX-DB-002 cron: Removed session.
+Mar 29 11:30:59 LNX-DB-001 kernel: Device attached.
+Mar 17 09:54:24 LNX-APP-001 rsyslog: Started Session.
+Mar 21 10:14:26 LNX-DB-001 systemd: Network interface up.
+Mar 10 11:16:11 LNX-DEV-001 systemd: New session of user.
+Mar 03 11:46:35 LNX-DEV-001 NetworkManager: Removed session.
+Mar 02 12:41:09 LNX-DB-001 NetworkManager: Started Session.
+Mar 12 11:52:16 LNX-DEV-001 rsyslog: Device attached.
+Mar 23 17:46:32 LNX-WEB-001 rsyslog: Removed session.
+Mar 11 16:34:48 LNX-WEB-001 cron: Device attached.
+Mar 02 11:11:28 LNX-APP-002 rsyslog: Network interface up.
+Mar 16 09:53:27 LNX-BACKUP-001 kernel: Device attached.
+Mar 23 11:40:04 LNX-LOG-001 systemd: Removed session.
+Mar 30 11:29:37 LNX-APP-001 systemd: New session of user.
+Mar 16 14:26:17 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 21 15:47:35 LNX-WEB-002 rsyslog: Device attached.
+Mar 10 14:33:52 LNX-APP-002 cron: Removed session.
+Mar 02 14:53:18 LNX-FILE-001 NetworkManager: Removed session.
+Mar 24 09:21:25 LNX-DB-001 NetworkManager: Device attached.
+Mar 24 11:17:58 LNX-LOG-001 rsyslog: Device attached.
+Mar 17 08:25:15 LNX-APP-002 NetworkManager: Removed session.
+Mar 03 15:43:24 LNX-LOG-001 cron: Started Session.
+Mar 02 14:30:15 LNX-DB-001 systemd: Network interface up.
+Mar 30 11:00:41 LNX-APP-002 systemd: Started Session.
+Mar 19 16:18:15 LNX-DB-001 rsyslog: New session of user.
+Mar 09 12:37:03 LNX-APP-002 NetworkManager: New session of user.
+Mar 25 12:14:04 LNX-APP-001 cron: Device attached.
+Mar 03 14:12:31 LNX-DEV-001 NetworkManager: Device attached.
+Mar 20 12:42:12 LNX-APP-001 NetworkManager: Started Session.
+Mar 28 09:05:30 LNX-FILE-001 systemd: Device attached.
+Mar 06 13:46:15 LNX-DEV-001 cron: Device attached.
+Mar 24 13:48:32 LNX-LOG-001 kernel: Device attached.
+Mar 28 13:29:54 LNX-DB-001 NetworkManager: Started Session.
+Mar 10 12:07:35 LNX-APP-001 systemd: Network interface up.
+Mar 25 09:47:59 LNX-WEB-001 cron: Started Session.
+Mar 25 11:11:47 LNX-WEB-001 cron: New session of user.
+Mar 12 08:39:34 LNX-DEV-001 NetworkManager: New session of user.
+Mar 19 11:58:59 LNX-DB-001 NetworkManager: Removed session.
+Mar 11 13:23:37 LNX-APP-002 kernel: Device attached.
+Mar 03 17:04:21 LNX-APP-002 systemd: Removed session.
+Mar 24 13:03:00 LNX-DB-002 NetworkManager: Device attached.
+Mar 05 13:09:17 LNX-FILE-001 rsyslog: Device attached.
+Mar 14 15:15:04 LNX-WEB-002 NetworkManager: Device attached.
+Mar 15 13:24:56 LNX-APP-001 rsyslog: Network interface up.
+Mar 21 10:47:20 LNX-DB-001 cron: Started Session.
+Mar 19 09:58:02 LNX-FILE-001 kernel: Removed session.
+Mar 25 08:50:37 LNX-DB-001 cron: Removed session.
+Mar 26 13:27:34 LNX-DEV-001 rsyslog: Started Session.
+Mar 07 15:57:13 LNX-WEB-001 kernel: Device attached.
+Mar 14 13:26:01 LNX-WEB-001 systemd: Network interface up.
+Mar 10 11:03:40 LNX-APP-001 systemd: New session of user.
+Mar 02 14:04:09 LNX-LOG-001 rsyslog: Network interface up.
+Mar 23 14:31:12 LNX-DB-001 rsyslog: Removed session.
+Mar 29 09:21:32 LNX-WEB-002 systemd: Started Session.
+Mar 17 09:04:54 LNX-WEB-001 systemd: Removed session.
+Mar 04 13:18:10 LNX-DB-001 rsyslog: New session of user.
+Mar 15 11:23:26 LNX-LOG-001 kernel: Started Session.
+Mar 13 14:48:30 LNX-DB-002 cron: Removed session.
+Mar 03 09:13:26 LNX-DB-001 NetworkManager: Device attached.
+Mar 23 08:16:49 LNX-APP-002 rsyslog: Device attached.
+Mar 16 08:47:33 LNX-BACKUP-001 kernel: New session of user.
+Mar 07 16:05:55 LNX-DB-002 NetworkManager: Started Session.
+Mar 25 12:49:30 LNX-WEB-002 kernel: Removed session.
+Mar 15 15:24:38 LNX-DEV-001 systemd: New session of user.
+Mar 30 12:24:34 LNX-DB-001 systemd: New session of user.
+Mar 29 16:03:59 LNX-FILE-001 kernel: Removed session.
+Mar 30 10:56:30 LNX-LOG-001 NetworkManager: Device attached.
+Mar 13 17:50:53 LNX-FILE-001 rsyslog: Started Session.
+Mar 24 16:06:07 LNX-APP-001 kernel: Removed session.
+Mar 23 12:33:06 LNX-APP-002 kernel: Device attached.
+Mar 17 13:42:15 LNX-BACKUP-001 systemd: Removed session.
+Mar 14 09:01:27 LNX-DEV-001 cron: Device attached.
+Mar 16 08:19:46 LNX-DB-002 kernel: Network interface up.
+Mar 17 16:56:32 LNX-APP-002 cron: Device attached.
+Mar 27 16:28:38 LNX-DB-002 cron: Started Session.
+Mar 20 16:11:35 LNX-DEV-001 kernel: New session of user.
+Mar 12 08:34:03 LNX-FILE-001 kernel: Removed session.
+Mar 23 12:52:34 LNX-DEV-001 rsyslog: New session of user.
+Mar 15 16:57:38 LNX-DB-001 kernel: Removed session.
+Mar 16 13:30:31 LNX-APP-001 cron: Network interface up.
+Mar 09 12:38:04 LNX-WEB-001 systemd: Network interface up.
+Mar 02 17:22:08 LNX-APP-002 systemd: Started Session.
+Mar 12 13:21:56 LNX-APP-002 NetworkManager: Removed session.
+Mar 27 08:04:04 LNX-APP-002 cron: Started Session.
+Mar 16 11:42:45 LNX-FILE-001 NetworkManager: Removed session.
+Mar 05 09:39:33 LNX-DB-002 systemd: New session of user.
+Mar 28 17:47:50 LNX-WEB-002 cron: Network interface up.
+Mar 08 13:56:33 LNX-DB-001 systemd: Device attached.
+Mar 04 09:35:01 LNX-DB-001 cron: Started Session.
+Mar 04 14:02:12 LNX-DB-002 kernel: Device attached.
+Mar 05 09:16:40 LNX-WEB-002 cron: Removed session.
+Mar 23 11:57:59 LNX-DEV-001 cron: Device attached.
+Mar 18 13:15:49 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 06 08:04:33 LNX-DEV-001 systemd: Started Session.
+Mar 21 15:20:11 LNX-DEV-001 rsyslog: Network interface up.
+Mar 14 08:30:20 LNX-APP-002 kernel: Network interface up.
+Mar 19 11:01:00 LNX-WEB-001 rsyslog: Started Session.
+Mar 08 14:34:47 LNX-DB-001 kernel: New session of user.
+Mar 03 16:11:31 LNX-WEB-001 rsyslog: New session of user.
+Mar 30 17:01:00 LNX-DB-002 systemd: Removed session.
+Mar 06 10:35:31 LNX-FILE-001 NetworkManager: Started Session.
+Mar 09 14:56:38 LNX-DEV-001 cron: Device attached.
+Mar 02 13:14:35 LNX-WEB-002 systemd: Network interface up.
+Mar 28 13:54:28 LNX-APP-002 rsyslog: Started Session.
+Mar 23 15:25:37 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 01 15:07:59 LNX-LOG-001 NetworkManager: New session of user.
+Mar 09 08:10:26 LNX-FILE-001 kernel: Removed session.
+Mar 08 08:12:25 LNX-DB-001 cron: Started Session.
+Mar 24 09:37:37 LNX-APP-001 cron: Started Session.
+Mar 20 11:09:04 LNX-WEB-002 cron: Network interface up.
+Mar 30 12:29:07 LNX-WEB-001 rsyslog: Device attached.
+Mar 09 12:42:39 LNX-WEB-001 systemd: Network interface up.
+Mar 24 09:36:21 LNX-DB-001 systemd: Started Session.
+Mar 06 15:24:37 LNX-DB-001 kernel: Network interface up.
+Mar 17 17:17:17 LNX-DEV-001 cron: Network interface up.
+Mar 17 14:15:06 LNX-APP-002 systemd: Started Session.
+Mar 30 15:57:55 LNX-APP-001 NetworkManager: Network interface up.
+Mar 30 12:06:48 LNX-LOG-001 cron: Network interface up.
+Mar 08 14:44:16 LNX-WEB-001 kernel: Network interface up.
+Mar 27 17:20:48 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 28 17:16:04 LNX-LOG-001 NetworkManager: New session of user.
+Mar 12 13:23:31 LNX-DEV-001 cron: Network interface up.
+Mar 05 17:53:44 LNX-DB-001 rsyslog: Removed session.
+Mar 18 09:06:06 LNX-DB-002 cron: Device attached.
+Mar 13 12:36:22 LNX-BACKUP-001 kernel: Started Session.
+Mar 13 10:09:47 LNX-APP-002 systemd: Started Session.
+Mar 22 11:54:25 LNX-LOG-001 rsyslog: Started Session.
+Mar 12 13:36:09 LNX-DB-001 NetworkManager: Removed session.
+Mar 15 11:58:26 LNX-WEB-002 systemd: Removed session.
+Mar 08 16:11:57 LNX-DB-001 cron: Started Session.
+Mar 05 08:11:28 LNX-FILE-001 cron: Removed session.
+Mar 10 13:53:27 LNX-WEB-002 systemd: Network interface up.
+Mar 11 09:06:11 LNX-FILE-001 rsyslog: Device attached.
+Mar 14 14:29:39 LNX-LOG-001 NetworkManager: Removed session.
+Mar 26 13:09:13 LNX-WEB-001 rsyslog: Device attached.
+Mar 08 13:39:51 LNX-WEB-002 rsyslog: Device attached.
+Mar 09 16:17:00 LNX-APP-001 cron: New session of user.
+Mar 17 12:24:32 LNX-WEB-001 cron: New session of user.
+Mar 22 14:30:10 LNX-LOG-001 rsyslog: Device attached.
+Mar 20 08:24:21 LNX-WEB-001 systemd: Removed session.
+Mar 22 12:34:42 LNX-DB-002 systemd: Started Session.
+Mar 06 08:14:01 LNX-DEV-001 NetworkManager: Started Session.
+Mar 23 13:12:23 LNX-WEB-001 rsyslog: Network interface up.
+Mar 15 15:44:40 LNX-APP-001 cron: Network interface up.
+Mar 25 13:02:56 LNX-WEB-002 rsyslog: Network interface up.
+Mar 04 11:34:10 LNX-DB-002 rsyslog: Removed session.
+Mar 04 08:57:16 LNX-WEB-001 systemd: Device attached.
+Mar 04 11:28:14 LNX-APP-001 rsyslog: New session of user.
+Mar 29 10:53:55 LNX-LOG-001 NetworkManager: Device attached.
+Mar 06 17:43:15 LNX-BACKUP-001 systemd: Started Session.
+Mar 19 13:04:51 LNX-APP-001 systemd: Started Session.
+Mar 13 14:18:17 LNX-LOG-001 kernel: New session of user.
+Mar 15 08:50:00 LNX-DEV-001 rsyslog: New session of user.
+Mar 28 14:19:54 LNX-FILE-001 rsyslog: Network interface up.
+Mar 03 14:00:54 LNX-APP-001 rsyslog: New session of user.
+Mar 11 12:00:35 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 22 13:02:16 LNX-APP-001 rsyslog: Started Session.
+Mar 08 10:14:33 LNX-DB-002 rsyslog: Device attached.
+Mar 19 11:23:22 LNX-DB-001 kernel: Removed session.
+Mar 09 09:11:23 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 04 14:57:24 LNX-WEB-002 kernel: Device attached.
+Mar 07 15:11:20 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 25 13:27:18 LNX-BACKUP-001 cron: New session of user.
+Mar 14 08:35:09 LNX-DEV-001 systemd: Device attached.
+Mar 26 09:01:32 LNX-DEV-001 systemd: Started Session.
+Mar 18 13:13:21 LNX-FILE-001 cron: New session of user.
+Mar 09 15:45:57 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 16 17:28:26 LNX-WEB-002 rsyslog: Network interface up.
+Mar 25 16:44:05 LNX-DB-001 cron: Device attached.
+Mar 24 09:50:27 LNX-APP-002 rsyslog: Network interface up.
+Mar 23 15:03:01 LNX-BACKUP-001 kernel: Device attached.
+Mar 16 11:47:06 LNX-APP-001 cron: Started Session.
+Mar 03 09:04:11 LNX-LOG-001 cron: Device attached.
+Mar 19 15:07:24 LNX-DB-001 NetworkManager: Network interface up.
+Mar 04 16:12:17 LNX-APP-001 NetworkManager: Network interface up.
+Mar 29 12:50:55 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 05 13:06:43 LNX-LOG-001 cron: Removed session.
+Mar 18 09:53:56 LNX-DB-002 kernel: Network interface up.
+Mar 22 14:21:57 LNX-WEB-002 NetworkManager: Started Session.
+Mar 04 17:50:29 LNX-APP-002 systemd: New session of user.
+Mar 24 10:48:25 LNX-FILE-001 rsyslog: Removed session.
+Mar 05 15:21:32 LNX-DB-002 rsyslog: Started Session.
+Mar 08 14:58:19 LNX-WEB-002 rsyslog: Network interface up.
+Mar 04 16:10:23 LNX-FILE-001 NetworkManager: Removed session.
+Mar 24 14:43:56 LNX-APP-001 kernel: Network interface up.
+Mar 21 10:41:13 LNX-BACKUP-001 kernel: Removed session.
+Mar 27 14:36:21 LNX-APP-001 cron: Started Session.
+Mar 22 13:09:15 LNX-LOG-001 systemd: Network interface up.
+Mar 10 10:50:13 LNX-WEB-001 systemd: Network interface up.
+Mar 15 09:40:03 LNX-FILE-001 cron: Device attached.
+Mar 21 16:46:58 LNX-DB-002 systemd: New session of user.
+Mar 06 14:13:03 LNX-FILE-001 systemd: Network interface up.
+Mar 26 10:17:29 LNX-DB-001 kernel: Network interface up.
+Mar 01 08:25:23 LNX-APP-001 NetworkManager: Device attached.
+Mar 22 13:38:39 LNX-FILE-001 kernel: Started Session.
+Mar 16 13:56:47 LNX-WEB-002 cron: Removed session.
+Mar 24 11:47:50 LNX-WEB-001 NetworkManager: Device attached.
+Mar 14 15:05:39 LNX-DB-002 cron: Device attached.
+Mar 17 11:51:38 LNX-FILE-001 cron: Device attached.
+Mar 01 12:42:50 LNX-LOG-001 rsyslog: Device attached.
+Mar 03 16:02:53 LNX-DB-002 cron: Started Session.
+Mar 03 14:06:53 LNX-DB-002 kernel: Device attached.
+Mar 29 16:07:45 LNX-DB-001 systemd: Removed session.
+Mar 21 14:07:30 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 09 15:30:12 LNX-DB-001 rsyslog: Started Session.
+Mar 02 17:11:18 LNX-APP-002 systemd: Started Session.
+Mar 10 13:36:11 LNX-APP-002 kernel: Device attached.
+Mar 08 15:49:25 LNX-WEB-001 rsyslog: New session of user.
+Mar 30 08:56:00 LNX-DB-002 rsyslog: Started Session.
+Mar 25 14:54:48 LNX-FILE-001 cron: New session of user.
+Mar 13 14:04:53 LNX-WEB-002 systemd: Network interface up.
+Mar 24 16:00:37 LNX-APP-001 NetworkManager: Removed session.
+Mar 24 08:36:02 LNX-DB-001 kernel: Network interface up.
+Mar 08 16:10:04 LNX-FILE-001 systemd: Device attached.
+Mar 05 10:17:02 LNX-FILE-001 rsyslog: Removed session.
+Mar 25 15:05:33 LNX-APP-001 systemd: Removed session.
+Mar 10 11:10:33 LNX-BACKUP-001 kernel: Started Session.
+Mar 14 13:37:08 LNX-FILE-001 rsyslog: Device attached.
+Mar 29 08:49:55 LNX-LOG-001 NetworkManager: Device attached.
+Mar 23 16:00:45 LNX-APP-002 systemd: Started Session.
+Mar 07 12:26:57 LNX-LOG-001 rsyslog: Started Session.
+Mar 08 12:15:12 LNX-DB-002 cron: Network interface up.
+Mar 15 10:19:19 LNX-APP-001 rsyslog: Network interface up.
+Mar 01 11:18:04 LNX-DB-001 systemd: Network interface up.
+Mar 27 11:59:24 LNX-DEV-001 rsyslog: Started Session.
+Mar 13 16:09:41 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 15 17:31:47 LNX-DEV-001 systemd: Device attached.
+Mar 20 12:04:18 LNX-WEB-001 systemd: Started Session.
+Mar 17 14:21:57 LNX-LOG-001 systemd: Network interface up.
+Mar 03 15:39:29 LNX-APP-001 cron: Network interface up.
+Mar 30 13:35:13 LNX-LOG-001 NetworkManager: Device attached.
+Mar 24 10:50:07 LNX-FILE-001 cron: Device attached.
+Mar 05 12:08:26 LNX-WEB-002 systemd: Removed session.
+Mar 12 17:27:20 LNX-BACKUP-001 cron: Device attached.
+Mar 06 09:50:01 LNX-DB-001 rsyslog: Network interface up.
+Mar 01 11:51:50 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 08 12:54:22 LNX-LOG-001 kernel: Network interface up.
+Mar 30 16:50:11 LNX-DEV-001 rsyslog: New session of user.
+Mar 12 11:23:50 LNX-WEB-002 NetworkManager: Started Session.
+Mar 14 10:30:55 LNX-DB-001 NetworkManager: Network interface up.
+Mar 04 08:57:14 LNX-APP-002 rsyslog: Removed session.
+Mar 19 09:03:26 LNX-DB-001 cron: New session of user.
+Mar 02 14:04:28 LNX-WEB-002 systemd: Started Session.
+Mar 21 10:34:13 LNX-DB-002 rsyslog: Started Session.
+Mar 26 08:29:08 LNX-DB-001 NetworkManager: Removed session.
+Mar 22 17:54:02 LNX-WEB-001 systemd: Removed session.
+Mar 07 16:21:38 LNX-BACKUP-001 kernel: Network interface up.
+Mar 14 17:48:53 LNX-FILE-001 systemd: Device attached.
+Mar 27 13:33:01 LNX-WEB-001 systemd: Started Session.
+Mar 20 14:08:14 LNX-LOG-001 cron: Removed session.
+Mar 16 13:38:01 LNX-FILE-001 NetworkManager: Removed session.
+Mar 19 13:11:10 LNX-BACKUP-001 cron: New session of user.
+Mar 02 16:46:06 LNX-DB-002 cron: New session of user.
+Mar 21 16:52:48 LNX-DB-002 rsyslog: Network interface up.
+Mar 04 12:55:36 LNX-WEB-001 kernel: Device attached.
+Mar 15 17:44:20 LNX-WEB-001 cron: Network interface up.
+Mar 24 11:17:21 LNX-FILE-001 systemd: New session of user.
+Mar 26 15:58:19 LNX-APP-002 kernel: New session of user.
+Mar 25 08:07:27 LNX-BACKUP-001 kernel: Device attached.
+Mar 11 12:46:33 LNX-APP-002 systemd: Removed session.
+Mar 29 17:30:36 LNX-LOG-001 rsyslog: Removed session.
+Mar 22 14:05:09 LNX-DB-001 kernel: Started Session.
+Mar 01 12:04:28 LNX-WEB-001 systemd: New session of user.
+Mar 11 13:17:33 LNX-DB-002 systemd: Network interface up.
+Mar 29 15:38:16 LNX-APP-001 cron: New session of user.
+Mar 01 08:13:06 LNX-DB-002 systemd: Removed session.
+Mar 22 17:42:19 LNX-WEB-002 kernel: Removed session.
+Mar 09 17:30:56 LNX-FILE-001 systemd: New session of user.
+Mar 15 08:35:44 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 06 11:02:44 LNX-APP-002 NetworkManager: Network interface up.
+Mar 20 13:31:28 LNX-APP-002 cron: New session of user.
+Mar 03 11:56:25 LNX-FILE-001 systemd: Removed session.
+Mar 26 17:33:53 LNX-FILE-001 rsyslog: Device attached.
+Mar 21 08:42:23 LNX-BACKUP-001 systemd: Started Session.
+Mar 06 11:42:00 LNX-APP-002 systemd: Network interface up.
+Mar 03 16:24:35 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 22 13:06:55 LNX-WEB-001 kernel: Started Session.
+Mar 12 09:37:51 LNX-DEV-001 cron: Device attached.
+Mar 20 08:17:56 LNX-WEB-001 cron: Network interface up.
+Mar 03 12:31:16 LNX-LOG-001 NetworkManager: Removed session.
+Mar 24 17:50:55 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 12 15:36:06 LNX-WEB-001 rsyslog: Started Session.
+Mar 19 12:41:14 LNX-WEB-001 systemd: Device attached.
+Mar 13 15:10:22 LNX-DB-002 cron: New session of user.
+Mar 18 09:26:14 LNX-DB-001 NetworkManager: New session of user.
+Mar 13 13:27:55 LNX-BACKUP-001 cron: Started Session.
+Mar 28 11:12:51 LNX-DB-001 systemd: Started Session.
+Mar 30 14:39:03 LNX-FILE-001 cron: Device attached.
+Mar 03 12:26:38 LNX-WEB-001 systemd: Network interface up.
+Mar 09 16:14:59 LNX-BACKUP-001 kernel: Removed session.
+Mar 01 12:22:28 LNX-DEV-001 cron: New session of user.
+Mar 15 13:09:57 LNX-APP-001 systemd: Device attached.
+Mar 24 08:58:21 LNX-WEB-001 rsyslog: New session of user.
+Mar 03 11:54:55 LNX-WEB-002 kernel: Started Session.
+Mar 27 17:05:45 LNX-WEB-001 systemd: Started Session.
+Mar 08 10:19:59 LNX-WEB-001 NetworkManager: Device attached.
+Mar 23 11:06:46 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 23 12:54:19 LNX-DB-001 NetworkManager: Removed session.
+Mar 11 16:27:26 LNX-DB-001 systemd: Device attached.
+Mar 22 17:37:02 LNX-APP-002 rsyslog: Started Session.
+Mar 23 16:32:10 LNX-APP-001 systemd: Network interface up.
+Mar 14 14:20:26 LNX-DB-001 cron: Network interface up.
+Mar 19 10:26:16 LNX-FILE-001 NetworkManager: Removed session.
+Mar 01 14:07:48 LNX-DB-002 rsyslog: Network interface up.
+Mar 20 09:31:15 LNX-DB-001 NetworkManager: Started Session.
+Mar 15 12:20:38 LNX-LOG-001 systemd: Device attached.
+Mar 26 08:00:16 LNX-APP-002 kernel: Device attached.
+Mar 15 10:27:56 LNX-FILE-001 rsyslog: Removed session.
+Mar 28 16:37:15 LNX-APP-002 kernel: Started Session.
+Mar 14 15:59:30 LNX-DB-001 systemd: Device attached.
+Mar 02 16:23:29 LNX-LOG-001 cron: Network interface up.
+Mar 04 13:22:26 LNX-APP-001 systemd: Started Session.
+Mar 18 10:41:13 LNX-WEB-001 kernel: Device attached.
+Mar 14 14:08:15 LNX-DEV-001 systemd: Device attached.
+Mar 13 11:05:06 LNX-DB-001 cron: New session of user.
+Mar 05 15:08:39 LNX-FILE-001 rsyslog: New session of user.
+Mar 14 08:05:09 LNX-WEB-001 rsyslog: Removed session.
+Mar 05 17:45:44 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 18 11:04:54 LNX-WEB-001 kernel: Network interface up.
+Mar 13 10:28:03 LNX-BACKUP-001 systemd: Device attached.
+Mar 03 14:24:48 LNX-WEB-002 cron: Network interface up.
+Mar 07 10:28:11 LNX-WEB-002 NetworkManager: Device attached.
+Mar 08 17:31:23 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 28 12:37:24 LNX-WEB-001 cron: Started Session.
+Mar 13 15:35:23 LNX-BACKUP-001 cron: Removed session.
+Mar 29 12:18:47 LNX-WEB-002 kernel: New session of user.
+Mar 25 11:00:52 LNX-DB-001 NetworkManager: New session of user.
+Mar 07 17:44:07 LNX-APP-001 rsyslog: Removed session.
+Mar 25 09:32:21 LNX-APP-002 kernel: Network interface up.
+Mar 20 13:37:31 LNX-DB-001 NetworkManager: Network interface up.
+Mar 07 12:32:12 LNX-DB-002 rsyslog: New session of user.
+Mar 19 16:21:48 LNX-APP-001 rsyslog: Started Session.
+Mar 19 16:15:56 LNX-WEB-001 cron: Removed session.
+Mar 27 12:21:12 LNX-APP-002 kernel: Device attached.
+Mar 03 14:14:13 LNX-FILE-001 kernel: Device attached.
+Mar 25 15:23:00 LNX-BACKUP-001 kernel: New session of user.
+Mar 04 17:03:44 LNX-DEV-001 NetworkManager: New session of user.
+Mar 30 09:11:09 LNX-DB-002 rsyslog: Removed session.
+Mar 13 14:00:44 LNX-BACKUP-001 systemd: Network interface up.
+Mar 16 11:49:51 LNX-DB-002 systemd: New session of user.
+Mar 03 16:05:52 LNX-APP-001 kernel: Started Session.
+Mar 22 09:39:20 LNX-APP-001 cron: New session of user.
+Mar 08 10:29:15 LNX-APP-001 NetworkManager: Network interface up.
+Mar 24 12:07:32 LNX-DB-001 systemd: New session of user.
+Mar 04 10:23:24 LNX-WEB-002 rsyslog: Device attached.
+Mar 14 09:20:02 LNX-FILE-001 systemd: Device attached.
+Mar 10 17:14:55 LNX-WEB-002 NetworkManager: Removed session.
+Mar 11 13:44:18 LNX-LOG-001 cron: Network interface up.
+Mar 05 11:48:49 LNX-LOG-001 rsyslog: Device attached.
+Mar 11 08:18:30 LNX-LOG-001 rsyslog: Started Session.
+Mar 23 10:18:46 LNX-WEB-001 kernel: New session of user.
+Mar 04 14:30:54 LNX-DB-002 NetworkManager: Started Session.
+Mar 01 09:40:51 LNX-DEV-001 NetworkManager: Started Session.
+Mar 10 11:12:21 LNX-LOG-001 rsyslog: Device attached.
+Mar 14 08:35:56 LNX-DEV-001 rsyslog: New session of user.
+Mar 26 10:06:39 LNX-DEV-001 kernel: Device attached.
+Mar 25 16:09:27 LNX-DEV-001 rsyslog: Device attached.
+Mar 18 08:36:32 LNX-FILE-001 NetworkManager: New session of user.
+Mar 29 11:11:54 LNX-WEB-001 rsyslog: Device attached.
+Mar 01 13:31:39 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 15 15:03:21 LNX-LOG-001 kernel: Removed session.
+Mar 20 15:44:24 LNX-DB-001 rsyslog: Started Session.
+Mar 14 17:18:17 LNX-WEB-001 cron: Network interface up.
+Mar 21 15:12:00 LNX-LOG-001 rsyslog: Removed session.
+Mar 05 13:32:11 LNX-DB-002 rsyslog: Removed session.
+Mar 17 08:38:29 LNX-APP-001 NetworkManager: Network interface up.
+Mar 27 14:17:31 LNX-BACKUP-001 kernel: Started Session.
+Mar 17 17:29:26 LNX-APP-001 kernel: Network interface up.
+Mar 21 13:10:13 LNX-FILE-001 cron: New session of user.
+Mar 11 17:24:08 LNX-APP-002 rsyslog: Started Session.
+Mar 08 12:19:44 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 05 14:06:59 LNX-BACKUP-001 systemd: Network interface up.
+Mar 04 14:25:26 LNX-APP-001 rsyslog: New session of user.
+Mar 20 17:06:41 LNX-LOG-001 cron: Started Session.
+Mar 11 15:16:46 LNX-FILE-001 rsyslog: New session of user.
+Mar 13 14:01:39 LNX-FILE-001 kernel: Device attached.
+Mar 26 15:19:58 LNX-DEV-001 systemd: Network interface up.
+Mar 13 13:47:45 LNX-DB-001 systemd: Device attached.
+Mar 15 17:40:32 LNX-BACKUP-001 cron: Started Session.
+Mar 09 11:27:17 LNX-DB-001 NetworkManager: Removed session.
+Mar 03 08:37:22 LNX-DEV-001 kernel: New session of user.
+Mar 28 13:41:27 LNX-DB-001 cron: Network interface up.
+Mar 06 08:29:55 LNX-DEV-001 rsyslog: Network interface up.
+Mar 26 10:09:01 LNX-DB-002 rsyslog: Started Session.
+Mar 10 08:17:30 LNX-APP-002 kernel: New session of user.
+Mar 09 10:04:01 LNX-DB-001 NetworkManager: Started Session.
+Mar 08 08:39:34 LNX-BACKUP-001 cron: New session of user.
+Mar 02 16:06:45 LNX-APP-002 systemd: New session of user.
+Mar 13 15:23:12 LNX-APP-001 cron: New session of user.
+Mar 20 08:27:07 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 11 12:53:01 LNX-DB-002 NetworkManager: Device attached.
+Mar 13 08:30:00 LNX-APP-002 kernel: Removed session.
+Mar 02 08:44:12 LNX-LOG-001 systemd: Removed session.
+Mar 29 11:27:12 LNX-FILE-001 cron: Started Session.
+Mar 07 17:57:00 LNX-DB-001 systemd: New session of user.
+Mar 02 12:47:18 LNX-APP-001 rsyslog: New session of user.
+Mar 15 16:59:45 LNX-FILE-001 kernel: New session of user.
+Mar 29 12:12:21 LNX-APP-001 cron: New session of user.
+Mar 08 17:18:38 LNX-DB-001 systemd: New session of user.
+Mar 11 15:57:16 LNX-DB-002 NetworkManager: Device attached.
+Mar 24 10:50:20 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 30 17:42:09 LNX-FILE-001 cron: Device attached.
+Mar 06 11:10:49 LNX-DEV-001 NetworkManager: New session of user.
+Mar 01 15:07:23 LNX-APP-001 cron: Started Session.
+Mar 27 15:44:49 LNX-APP-001 cron: Started Session.
+Mar 07 16:44:34 LNX-APP-002 cron: Device attached.
+Mar 21 16:38:13 LNX-APP-002 systemd: New session of user.
+Mar 05 13:35:02 LNX-DB-002 kernel: Removed session.
+Mar 07 08:49:15 LNX-DEV-001 NetworkManager: Device attached.
+Mar 18 10:04:58 LNX-WEB-001 systemd: Network interface up.
+Mar 04 08:11:54 LNX-WEB-002 kernel: New session of user.
+Mar 11 11:34:18 LNX-FILE-001 rsyslog: Removed session.
+Mar 03 15:14:41 LNX-DB-002 NetworkManager: Started Session.
+Mar 23 09:37:45 LNX-WEB-002 cron: Network interface up.
+Mar 17 11:42:45 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 28 17:10:17 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 25 08:14:01 LNX-APP-002 systemd: New session of user.
+Mar 26 09:56:27 LNX-APP-002 kernel: Network interface up.
+Mar 27 11:57:38 LNX-DEV-001 NetworkManager: New session of user.
+Mar 17 16:42:08 LNX-APP-001 rsyslog: Device attached.
+Mar 09 11:44:18 LNX-WEB-002 rsyslog: Removed session.
+Mar 21 17:28:42 LNX-LOG-001 kernel: New session of user.
+Mar 15 16:11:47 LNX-LOG-001 systemd: Removed session.
+Mar 12 17:38:16 LNX-DEV-001 NetworkManager: Removed session.
+Mar 25 15:59:53 LNX-APP-001 kernel: New session of user.
+Mar 19 13:46:28 LNX-DEV-001 NetworkManager: New session of user.
+Mar 21 17:17:52 LNX-DB-002 kernel: Network interface up.
+Mar 01 15:09:21 LNX-APP-002 kernel: New session of user.
+Mar 25 16:25:52 LNX-DB-001 cron: New session of user.
+Mar 09 17:19:12 LNX-FILE-001 kernel: Device attached.
+Mar 11 09:29:59 LNX-APP-002 systemd: Network interface up.
+Mar 12 10:31:23 LNX-BACKUP-001 kernel: New session of user.
+Mar 22 09:06:43 LNX-WEB-002 rsyslog: Removed session.
+Mar 20 15:34:05 LNX-DEV-001 systemd: Removed session.
+Mar 10 11:14:37 LNX-DB-002 kernel: Removed session.
+Mar 20 16:35:14 LNX-DB-002 systemd: Device attached.
+Mar 12 14:13:20 LNX-FILE-001 rsyslog: Started Session.
+Mar 25 14:32:23 LNX-WEB-001 kernel: Started Session.
+Mar 06 15:41:12 LNX-DB-002 rsyslog: Started Session.
+Mar 26 14:12:09 LNX-LOG-001 kernel: Removed session.
+Mar 27 15:43:53 LNX-DB-001 rsyslog: Removed session.
+Mar 18 10:09:09 LNX-DB-001 kernel: Device attached.
+Mar 22 16:48:19 LNX-APP-001 rsyslog: Network interface up.
+Mar 10 09:24:56 LNX-APP-002 cron: Started Session.
+Mar 24 15:23:56 LNX-WEB-001 rsyslog: Removed session.
+Mar 22 13:57:06 LNX-DEV-001 systemd: New session of user.
+Mar 06 14:25:00 LNX-FILE-001 NetworkManager: New session of user.
+Mar 23 14:25:08 LNX-APP-001 systemd: Device attached.
+Mar 05 14:44:05 LNX-WEB-002 NetworkManager: Removed session.
+Mar 01 12:36:26 LNX-WEB-001 rsyslog: Removed session.
+Mar 15 08:35:39 LNX-DB-002 kernel: Device attached.
+Mar 05 12:17:42 LNX-DEV-001 cron: Device attached.
+Mar 21 14:22:05 LNX-APP-001 NetworkManager: New session of user.
+Mar 30 17:08:04 LNX-FILE-001 cron: Started Session.
+Mar 08 16:23:56 LNX-WEB-001 systemd: Device attached.
+Mar 08 08:22:13 LNX-LOG-001 systemd: Network interface up.
+Mar 02 08:42:46 LNX-DEV-001 systemd: New session of user.
+Mar 18 15:27:01 LNX-BACKUP-001 cron: Network interface up.
+Mar 15 08:35:02 LNX-DB-002 NetworkManager: Removed session.
+Mar 05 14:44:00 LNX-LOG-001 cron: Started Session.
+Mar 12 09:55:51 LNX-APP-001 systemd: New session of user.
+Mar 14 14:13:53 LNX-DB-001 cron: Device attached.
+Mar 19 15:27:47 LNX-DB-002 kernel: Device attached.
+Mar 02 13:38:01 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 29 15:53:14 LNX-DB-002 NetworkManager: New session of user.
+Mar 11 15:18:25 LNX-APP-002 NetworkManager: Device attached.
+Mar 20 17:38:22 LNX-WEB-001 NetworkManager: New session of user.
+Mar 07 10:58:10 LNX-WEB-001 rsyslog: Network interface up.
+Mar 05 10:18:08 LNX-DB-002 rsyslog: New session of user.
+Mar 17 14:21:40 LNX-DB-001 NetworkManager: Device attached.
+Mar 19 11:32:21 LNX-DB-001 rsyslog: Network interface up.
+Mar 30 09:50:48 LNX-WEB-001 rsyslog: New session of user.
+Mar 29 08:57:46 LNX-APP-002 systemd: Network interface up.
+Mar 19 10:16:42 LNX-DEV-001 rsyslog: Removed session.
+Mar 07 15:39:53 LNX-APP-002 NetworkManager: Started Session.
+Mar 12 17:51:01 LNX-WEB-002 rsyslog: Network interface up.
+Mar 21 10:34:18 LNX-APP-002 systemd: Removed session.
+Mar 27 10:06:34 LNX-DEV-001 kernel: Device attached.
+Mar 20 12:16:27 LNX-BACKUP-001 systemd: Network interface up.
+Mar 25 15:50:39 LNX-DB-001 rsyslog: Network interface up.
+Mar 17 11:37:48 LNX-DB-001 kernel: Device attached.
+Mar 14 16:03:08 LNX-APP-002 cron: Started Session.
+Mar 01 12:33:30 LNX-BACKUP-001 kernel: Device attached.
+Mar 28 12:44:55 LNX-DEV-001 NetworkManager: New session of user.
+Mar 01 08:18:22 LNX-APP-001 rsyslog: Started Session.
+Mar 12 11:34:04 LNX-APP-002 cron: Started Session.
+Mar 12 10:06:31 LNX-WEB-001 rsyslog: New session of user.
+Mar 18 11:12:17 LNX-APP-002 rsyslog: Removed session.
+Mar 10 12:03:25 LNX-APP-001 kernel: Device attached.
+Mar 12 08:25:45 LNX-BACKUP-001 systemd: Removed session.
+Mar 06 12:35:41 LNX-WEB-001 cron: Network interface up.
+Mar 10 16:36:17 LNX-APP-001 systemd: New session of user.
+Mar 30 17:46:44 LNX-APP-001 kernel: Removed session.
+Mar 04 16:39:01 LNX-WEB-001 rsyslog: Removed session.
+Mar 11 15:10:17 LNX-DB-002 kernel: Network interface up.
+Mar 11 17:20:33 LNX-BACKUP-001 kernel: New session of user.
+Mar 28 11:40:51 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 21 09:44:15 LNX-APP-002 cron: Started Session.
+Mar 18 16:07:35 LNX-APP-001 cron: Network interface up.
+Mar 06 16:36:26 LNX-DB-002 rsyslog: Removed session.
+Mar 03 09:59:44 LNX-FILE-001 NetworkManager: Removed session.
+Mar 27 09:45:43 LNX-DB-002 rsyslog: Device attached.
+Mar 10 08:55:37 LNX-WEB-001 cron: New session of user.
+Mar 19 12:11:48 LNX-WEB-002 NetworkManager: New session of user.
+Mar 09 15:06:33 LNX-DB-001 kernel: Removed session.
+Mar 15 13:38:52 LNX-WEB-002 kernel: Started Session.
+Mar 08 11:30:47 LNX-DB-001 cron: Started Session.
+Mar 21 12:44:07 LNX-APP-002 rsyslog: Device attached.
+Mar 14 12:40:57 LNX-DEV-001 kernel: Removed session.
+Mar 30 11:13:39 LNX-WEB-002 NetworkManager: Started Session.
+Mar 25 13:42:23 LNX-APP-002 systemd: Started Session.
+Mar 23 09:18:06 LNX-APP-002 rsyslog: Network interface up.
+Mar 21 17:05:48 LNX-WEB-002 kernel: Device attached.
+Mar 15 13:36:36 LNX-FILE-001 systemd: Network interface up.
+Mar 05 14:35:07 LNX-WEB-001 systemd: New session of user.
+Mar 10 16:39:28 LNX-LOG-001 systemd: Removed session.
+Mar 15 08:44:42 LNX-DEV-001 cron: New session of user.
+Mar 21 16:56:36 LNX-FILE-001 cron: Removed session.
+Mar 23 12:58:08 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 30 17:47:03 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 12 15:23:35 LNX-APP-001 kernel: Device attached.
+Mar 05 12:31:00 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 17 10:35:27 LNX-WEB-001 rsyslog: New session of user.
+Mar 26 10:54:07 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 15 09:09:16 LNX-WEB-001 rsyslog: Started Session.
+Mar 15 09:44:46 LNX-APP-002 cron: New session of user.
+Mar 25 15:18:48 LNX-WEB-002 kernel: Device attached.
+Mar 27 09:24:36 LNX-BACKUP-001 cron: New session of user.
+Mar 12 11:40:55 LNX-APP-002 cron: New session of user.
+Mar 23 12:43:12 LNX-FILE-001 systemd: Device attached.
+Mar 23 09:34:42 LNX-FILE-001 kernel: Device attached.
+Mar 06 16:57:10 LNX-DB-001 cron: Network interface up.
+Mar 05 09:12:26 LNX-DB-001 systemd: Removed session.
+Mar 21 13:29:26 LNX-DB-002 rsyslog: Started Session.
+Mar 13 09:35:46 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 04 15:32:33 LNX-WEB-002 rsyslog: New session of user.
+Mar 01 16:58:37 LNX-DEV-001 kernel: New session of user.
+Mar 16 11:08:53 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 10 15:36:39 LNX-WEB-002 cron: Started Session.
+Mar 30 08:45:19 LNX-LOG-001 kernel: New session of user.
+Mar 28 09:37:22 LNX-DEV-001 cron: Started Session.
+Mar 21 15:33:05 LNX-APP-001 cron: Started Session.
+Mar 16 09:51:26 LNX-LOG-001 cron: Network interface up.
+Mar 23 08:05:41 LNX-APP-001 systemd: New session of user.
+Mar 06 17:34:51 LNX-LOG-001 rsyslog: Started Session.
+Mar 03 08:35:55 LNX-DB-001 NetworkManager: Network interface up.
+Mar 15 11:11:07 LNX-DEV-001 cron: Network interface up.
+Mar 13 14:51:32 LNX-WEB-001 cron: Network interface up.
+Mar 19 12:16:34 LNX-BACKUP-001 cron: New session of user.
+Mar 01 10:34:21 LNX-APP-001 cron: Started Session.
+Mar 13 13:14:29 LNX-FILE-001 kernel: Device attached.
+Mar 28 16:47:24 LNX-BACKUP-001 cron: Started Session.
+Mar 03 10:59:00 LNX-DB-002 cron: Network interface up.
+Mar 10 14:29:06 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 12 17:31:02 LNX-WEB-001 kernel: New session of user.
+Mar 17 14:29:13 LNX-WEB-002 kernel: Device attached.
+Mar 15 10:27:06 LNX-APP-001 systemd: Started Session.
+Mar 10 08:20:01 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 12 14:35:32 LNX-APP-002 kernel: Device attached.
+Mar 07 10:27:20 LNX-DB-002 NetworkManager: New session of user.
+Mar 24 14:49:07 LNX-LOG-001 kernel: New session of user.
+Mar 25 15:38:31 LNX-DEV-001 cron: Started Session.
+Mar 03 16:58:39 LNX-LOG-001 systemd: New session of user.
+Mar 08 13:03:07 LNX-WEB-001 NetworkManager: Device attached.
+Mar 12 09:57:23 LNX-LOG-001 systemd: New session of user.
+Mar 11 16:26:06 LNX-FILE-001 cron: Removed session.
+Mar 25 13:09:56 LNX-DEV-001 NetworkManager: New session of user.
+Mar 11 13:47:15 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 21 17:25:28 LNX-DB-001 NetworkManager: Removed session.
+Mar 12 17:54:32 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 23 11:01:25 LNX-APP-002 systemd: New session of user.
+Mar 24 13:16:45 LNX-APP-001 NetworkManager: New session of user.
+Mar 05 10:12:07 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 23 11:43:50 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 09 12:26:34 LNX-DEV-001 cron: New session of user.
+Mar 09 14:34:38 LNX-LOG-001 systemd: New session of user.
+Mar 09 16:28:40 LNX-LOG-001 kernel: Device attached.
+Mar 10 08:35:54 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 30 11:56:45 LNX-APP-001 systemd: New session of user.
+Mar 28 09:57:08 LNX-WEB-001 systemd: New session of user.
+Mar 27 08:35:23 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 20 12:08:24 LNX-WEB-001 cron: Started Session.
+Mar 08 10:10:29 LNX-LOG-001 NetworkManager: Started Session.
+Mar 16 13:01:39 LNX-WEB-002 cron: Removed session.
+Mar 10 13:10:51 LNX-BACKUP-001 NetworkManager: New session of user.
+Mar 24 12:40:45 LNX-FILE-001 kernel: Network interface up.
+Mar 21 11:19:59 LNX-BACKUP-001 cron: Removed session.
+Mar 29 16:27:01 LNX-BACKUP-001 cron: Device attached.
+Mar 17 17:21:51 LNX-FILE-001 cron: Started Session.
+Mar 26 11:14:27 LNX-LOG-001 systemd: Removed session.
+Mar 05 08:31:52 LNX-DB-002 rsyslog: Network interface up.
+Mar 04 16:23:46 LNX-FILE-001 systemd: Network interface up.
+Mar 19 10:07:24 LNX-WEB-002 rsyslog: Started Session.
+Mar 07 14:39:24 LNX-LOG-001 systemd: Device attached.
+Mar 17 12:09:34 LNX-LOG-001 kernel: Network interface up.
+Mar 14 16:33:30 LNX-LOG-001 kernel: New session of user.
+Mar 09 17:42:23 LNX-APP-002 systemd: Started Session.
+Mar 04 13:50:51 LNX-FILE-001 cron: Started Session.
+Mar 30 08:52:40 LNX-WEB-002 kernel: Device attached.
+Mar 07 16:29:51 LNX-WEB-001 kernel: Network interface up.
+Mar 02 15:21:43 LNX-WEB-001 systemd: Removed session.
+Mar 20 11:28:52 LNX-WEB-002 kernel: Started Session.
+Mar 08 17:45:47 LNX-APP-002 cron: New session of user.
+Mar 02 14:47:34 LNX-LOG-001 kernel: Removed session.
+Mar 07 16:29:19 LNX-WEB-001 cron: Started Session.
+Mar 22 17:41:55 LNX-DB-002 kernel: Removed session.
+Mar 28 17:29:16 LNX-LOG-001 cron: Network interface up.
+Mar 23 09:19:54 LNX-DEV-001 kernel: Network interface up.
+Mar 01 17:07:28 LNX-DB-001 rsyslog: New session of user.
+Mar 23 14:37:40 LNX-DB-002 rsyslog: Network interface up.
+Mar 15 16:23:04 LNX-FILE-001 NetworkManager: Removed session.
+Mar 08 12:15:03 LNX-WEB-002 kernel: New session of user.
+Mar 08 11:23:23 LNX-FILE-001 kernel: Network interface up.
+Mar 16 08:41:19 LNX-FILE-001 NetworkManager: Device attached.
+Mar 23 12:00:12 LNX-APP-001 rsyslog: Started Session.
+Mar 02 14:33:42 LNX-APP-001 systemd: Started Session.
+Mar 05 11:31:55 LNX-WEB-001 rsyslog: Network interface up.
+Mar 11 10:16:05 LNX-DB-001 systemd: New session of user.
+Mar 20 10:28:06 LNX-DB-002 rsyslog: Device attached.
+Mar 28 11:48:02 LNX-APP-002 cron: Started Session.
+Mar 17 12:42:28 LNX-WEB-001 kernel: Removed session.
+Mar 28 17:22:43 LNX-DEV-001 rsyslog: Network interface up.
+Mar 26 15:44:40 LNX-APP-002 NetworkManager: Device attached.
+Mar 06 08:15:55 LNX-APP-002 cron: Network interface up.
+Mar 15 08:48:57 LNX-LOG-001 rsyslog: New session of user.
+Mar 20 11:40:37 LNX-FILE-001 rsyslog: Device attached.
+Mar 20 16:09:51 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 27 09:34:57 LNX-DB-002 rsyslog: Removed session.
+Mar 08 14:19:18 LNX-APP-001 kernel: Device attached.
+Mar 16 17:31:51 LNX-APP-002 systemd: Device attached.
+Mar 21 08:22:26 LNX-DEV-001 NetworkManager: Started Session.
+Mar 19 15:36:40 LNX-WEB-001 NetworkManager: Started Session.
+Mar 10 08:42:40 LNX-DB-002 kernel: Network interface up.
+Mar 21 11:23:18 LNX-APP-001 NetworkManager: New session of user.
+Mar 23 17:57:22 LNX-WEB-001 systemd: Removed session.
+Mar 27 10:44:06 LNX-APP-002 rsyslog: Removed session.
+Mar 22 12:13:16 LNX-BACKUP-001 systemd: Network interface up.
+Mar 04 13:33:42 LNX-APP-001 rsyslog: Device attached.
+Mar 09 11:09:55 LNX-DB-002 cron: New session of user.
+Mar 01 15:02:11 LNX-APP-001 rsyslog: Device attached.
+Mar 13 16:06:44 LNX-DB-002 kernel: New session of user.
+Mar 07 09:52:26 LNX-APP-002 NetworkManager: Started Session.
+Mar 09 16:09:10 LNX-DB-001 kernel: Removed session.
+Mar 13 13:24:51 LNX-DB-001 NetworkManager: Removed session.
+Mar 01 10:30:22 LNX-FILE-001 kernel: Started Session.
+Mar 13 16:35:49 LNX-DB-002 rsyslog: Network interface up.
+Mar 21 08:34:19 LNX-DB-001 rsyslog: Network interface up.
+Mar 11 12:29:33 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 15 11:07:22 LNX-FILE-001 cron: Network interface up.
+Mar 01 11:33:29 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 10 16:54:30 LNX-DB-001 systemd: New session of user.
+Mar 14 11:32:13 LNX-APP-002 NetworkManager: Network interface up.
+Mar 07 11:44:00 LNX-DB-002 kernel: Removed session.
+Mar 27 16:26:46 LNX-WEB-001 NetworkManager: Device attached.
+Mar 19 17:23:14 LNX-LOG-001 cron: Removed session.
+Mar 07 09:28:15 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 03 08:46:21 LNX-FILE-001 NetworkManager: Device attached.
+Mar 28 10:12:20 LNX-WEB-002 systemd: Removed session.
+Mar 16 08:03:53 LNX-DB-002 kernel: Started Session.
+Mar 19 15:25:03 LNX-BACKUP-001 kernel: Device attached.
+Mar 11 14:42:27 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 12 11:32:05 LNX-APP-002 NetworkManager: Started Session.
+Mar 20 12:57:18 LNX-DB-001 cron: Started Session.
+Mar 28 08:19:39 LNX-FILE-001 rsyslog: Started Session.
+Mar 09 16:29:32 LNX-DB-001 kernel: New session of user.
+Mar 05 16:33:43 LNX-FILE-001 NetworkManager: Started Session.
+Mar 12 12:13:59 LNX-APP-002 rsyslog: Device attached.
+Mar 28 11:04:08 LNX-DB-002 kernel: Removed session.
+Mar 17 12:59:51 LNX-LOG-001 NetworkManager: Started Session.
+Mar 18 14:00:47 LNX-DB-001 cron: New session of user.
+Mar 18 11:20:14 LNX-LOG-001 cron: Removed session.
+Mar 23 08:24:05 LNX-DB-001 rsyslog: Started Session.
+Mar 21 10:56:42 LNX-DB-001 rsyslog: Removed session.
+Mar 15 13:25:21 LNX-FILE-001 kernel: Removed session.
+Mar 19 17:55:02 LNX-WEB-002 systemd: Network interface up.
+Mar 15 12:48:04 LNX-APP-001 systemd: Removed session.
+Mar 10 10:40:56 LNX-WEB-001 rsyslog: Device attached.
+Mar 01 14:41:21 LNX-LOG-001 NetworkManager: New session of user.
+Mar 30 09:57:42 LNX-WEB-001 kernel: New session of user.
+Mar 09 15:57:40 LNX-APP-002 cron: Device attached.
+Mar 16 13:01:48 LNX-BACKUP-001 kernel: Removed session.
+Mar 13 13:17:42 LNX-LOG-001 systemd: Device attached.
+Mar 03 16:28:43 LNX-APP-002 systemd: Network interface up.
+Mar 23 17:39:53 LNX-LOG-001 rsyslog: Started Session.
+Mar 27 13:58:42 LNX-FILE-001 cron: Removed session.
+Mar 27 12:20:08 LNX-WEB-002 systemd: Removed session.
+Mar 04 16:35:19 LNX-FILE-001 systemd: New session of user.
+Mar 04 15:58:36 LNX-APP-002 systemd: Removed session.
+Mar 01 08:55:18 LNX-BACKUP-001 kernel: Removed session.
+Mar 13 15:20:53 LNX-DB-002 systemd: Started Session.
+Mar 05 10:54:31 LNX-FILE-001 systemd: Removed session.
+Mar 27 09:25:55 LNX-BACKUP-001 kernel: Removed session.
+Mar 05 09:39:57 LNX-FILE-001 systemd: Device attached.
+Mar 16 16:42:45 LNX-BACKUP-001 kernel: New session of user.
+Mar 27 12:38:17 LNX-APP-002 systemd: New session of user.
+Mar 05 15:09:13 LNX-DB-001 rsyslog: Device attached.
+Mar 30 10:47:01 LNX-FILE-001 cron: Device attached.
+Mar 04 12:11:48 LNX-DB-001 cron: New session of user.
+Mar 06 11:10:15 LNX-WEB-002 systemd: Started Session.
+Mar 26 08:09:01 LNX-DB-002 systemd: Started Session.
+Mar 08 16:57:11 LNX-FILE-001 kernel: Network interface up.
+Mar 27 16:55:27 LNX-FILE-001 rsyslog: Network interface up.
+Mar 09 12:53:28 LNX-DEV-001 cron: Started Session.
+Mar 11 08:28:59 LNX-FILE-001 rsyslog: Started Session.
+Mar 08 09:52:57 LNX-APP-001 kernel: Started Session.
+Mar 19 15:42:26 LNX-WEB-002 systemd: New session of user.
+Mar 07 13:05:01 LNX-DB-002 NetworkManager: Removed session.
+Mar 13 08:20:48 LNX-LOG-001 NetworkManager: Removed session.
+Mar 16 16:43:39 LNX-APP-001 NetworkManager: Started Session.
+Mar 20 13:10:46 LNX-APP-002 systemd: Started Session.
+Mar 01 08:36:09 LNX-BACKUP-001 kernel: Removed session.
+Mar 09 15:47:27 LNX-APP-002 NetworkManager: Removed session.
+Mar 18 09:57:07 LNX-BACKUP-001 cron: Removed session.
+Mar 09 13:00:56 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 13 11:31:59 LNX-LOG-001 rsyslog: New session of user.
+Mar 23 17:28:44 LNX-DB-002 rsyslog: Network interface up.
+Mar 04 16:03:21 LNX-APP-002 kernel: Device attached.
+Mar 17 14:57:57 LNX-WEB-001 rsyslog: Started Session.
+Mar 17 17:31:51 LNX-DEV-001 rsyslog: Started Session.
+Mar 07 15:35:13 LNX-BACKUP-001 systemd: New session of user.
+Mar 10 12:39:55 LNX-FILE-001 rsyslog: Network interface up.
+Mar 13 17:30:21 LNX-BACKUP-001 systemd: Removed session.
+Mar 22 09:37:04 LNX-WEB-001 kernel: New session of user.
+Mar 21 13:58:47 LNX-WEB-001 rsyslog: Device attached.
+Mar 01 14:19:12 LNX-FILE-001 rsyslog: New session of user.
+Mar 11 08:42:10 LNX-DEV-001 kernel: Device attached.
+Mar 10 09:05:27 LNX-APP-002 cron: Network interface up.
+Mar 14 17:03:39 LNX-LOG-001 NetworkManager: Started Session.
+Mar 28 16:47:19 LNX-DB-002 kernel: New session of user.
+Mar 24 12:33:19 LNX-LOG-001 cron: New session of user.
+Mar 07 14:40:49 LNX-APP-001 cron: Removed session.
+Mar 25 17:04:14 LNX-FILE-001 kernel: Network interface up.
+Mar 03 15:40:08 LNX-FILE-001 systemd: New session of user.
+Mar 21 10:49:15 LNX-FILE-001 rsyslog: Device attached.
+Mar 19 10:37:10 LNX-DEV-001 systemd: Network interface up.
+Mar 10 16:17:57 LNX-DB-002 rsyslog: Removed session.
+Mar 18 08:49:14 LNX-APP-001 systemd: New session of user.
+Mar 02 14:58:49 LNX-DB-001 kernel: Network interface up.
+Mar 08 14:03:30 LNX-DEV-001 kernel: Removed session.
+Mar 15 11:56:36 LNX-FILE-001 rsyslog: Device attached.
+Mar 20 12:12:56 LNX-WEB-001 systemd: Network interface up.
+Mar 10 17:34:11 LNX-FILE-001 systemd: Network interface up.
+Mar 09 14:42:55 LNX-LOG-001 rsyslog: Device attached.
+Mar 04 13:50:18 LNX-DEV-001 kernel: Device attached.
+Mar 10 11:12:26 LNX-APP-002 cron: Network interface up.
+Mar 25 13:18:54 LNX-DB-002 cron: Device attached.
+Mar 08 09:16:27 LNX-DB-001 kernel: Device attached.
+Mar 23 16:20:27 LNX-DEV-001 kernel: New session of user.
+Mar 08 13:02:32 LNX-APP-002 rsyslog: Started Session.
+Mar 07 13:55:04 LNX-APP-001 cron: Device attached.
+Mar 30 15:34:24 LNX-WEB-001 cron: Removed session.
+Mar 08 10:11:58 LNX-DEV-001 cron: Removed session.
+Mar 09 15:11:29 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 15 13:28:53 LNX-DEV-001 cron: Started Session.
+Mar 12 12:49:58 LNX-DB-002 rsyslog: Removed session.
+Mar 16 09:55:01 LNX-DEV-001 systemd: New session of user.
+Mar 03 12:11:43 LNX-FILE-001 NetworkManager: Device attached.
+Mar 12 17:54:46 LNX-LOG-001 NetworkManager: Device attached.
+Mar 19 17:37:03 LNX-DEV-001 rsyslog: New session of user.
+Mar 18 15:12:05 LNX-DB-002 cron: Network interface up.
+Mar 15 11:36:43 LNX-DB-002 cron: Started Session.
+Mar 29 10:49:51 LNX-LOG-001 systemd: Network interface up.
+Mar 05 09:09:51 LNX-LOG-001 systemd: Device attached.
+Mar 09 13:53:06 LNX-WEB-002 systemd: Network interface up.
+Mar 17 08:41:11 LNX-WEB-002 rsyslog: New session of user.
+Mar 20 15:13:19 LNX-DB-002 cron: Network interface up.
+Mar 16 11:14:30 LNX-WEB-001 systemd: New session of user.
+Mar 27 11:57:48 LNX-DEV-001 kernel: Device attached.
+Mar 12 08:02:48 LNX-WEB-002 kernel: Network interface up.
+Mar 28 08:35:18 LNX-BACKUP-001 kernel: Started Session.
+Mar 13 09:22:53 LNX-FILE-001 systemd: Removed session.
+Mar 11 09:32:25 LNX-DB-001 systemd: Device attached.
+Mar 24 14:55:42 LNX-WEB-001 NetworkManager: Started Session.
+Mar 26 09:52:45 LNX-APP-002 NetworkManager: Network interface up.
+Mar 13 10:43:58 LNX-WEB-001 cron: Device attached.
+Mar 11 16:01:52 LNX-WEB-002 systemd: Device attached.
+Mar 02 15:45:46 LNX-APP-001 cron: Removed session.
+Mar 20 09:26:09 LNX-LOG-001 rsyslog: Network interface up.
+Mar 25 10:55:31 LNX-WEB-002 cron: Device attached.
+Mar 29 09:05:03 LNX-APP-001 systemd: Device attached.
+Mar 27 17:15:19 LNX-APP-002 rsyslog: Network interface up.
+Mar 21 16:55:27 LNX-DB-002 cron: Removed session.
+Mar 15 13:35:31 LNX-WEB-002 kernel: Device attached.
+Mar 18 09:21:49 LNX-APP-002 cron: Removed session.
+Mar 03 15:48:41 LNX-DB-002 systemd: New session of user.
+Mar 04 13:30:47 LNX-DEV-001 NetworkManager: Removed session.
+Mar 11 13:34:05 LNX-DB-002 cron: Device attached.
+Mar 25 15:33:59 LNX-DEV-001 systemd: Device attached.
+Mar 30 15:38:09 LNX-WEB-002 rsyslog: New session of user.
+Mar 25 11:44:46 LNX-APP-001 NetworkManager: Started Session.
+Mar 24 09:30:45 LNX-APP-002 cron: Started Session.
+Mar 06 09:58:48 LNX-DB-001 cron: Started Session.
+Mar 18 14:32:47 LNX-FILE-001 cron: Removed session.
+Mar 03 17:26:33 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 12 16:13:07 LNX-DEV-001 systemd: Device attached.
+Mar 13 14:36:01 LNX-FILE-001 NetworkManager: Started Session.
+Mar 25 15:12:01 LNX-BACKUP-001 cron: New session of user.
+Mar 10 12:15:00 LNX-APP-001 systemd: Network interface up.
+Mar 11 10:37:59 LNX-FILE-001 kernel: Started Session.
+Mar 30 15:39:35 LNX-WEB-001 rsyslog: Removed session.
+Mar 25 12:26:02 LNX-APP-002 NetworkManager: Device attached.
+Mar 27 10:23:51 LNX-WEB-001 kernel: Removed session.
+Mar 10 13:16:58 LNX-BACKUP-001 kernel: Network interface up.
+Mar 13 14:58:38 LNX-APP-002 cron: Network interface up.
+Mar 08 16:02:55 LNX-APP-001 rsyslog: Device attached.
+Mar 10 15:06:55 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 27 16:46:47 LNX-DB-002 NetworkManager: New session of user.
+Mar 09 10:40:24 LNX-DEV-001 rsyslog: Started Session.
+Mar 22 10:44:50 LNX-WEB-002 systemd: Started Session.
+Mar 19 11:55:07 LNX-BACKUP-001 systemd: Started Session.
+Mar 14 09:04:10 LNX-BACKUP-001 systemd: Started Session.
+Mar 17 08:56:42 LNX-LOG-001 cron: Network interface up.
+Mar 16 09:46:24 LNX-LOG-001 systemd: Network interface up.
+Mar 21 16:46:51 LNX-DEV-001 rsyslog: Started Session.
+Mar 05 11:28:21 LNX-WEB-001 cron: Network interface up.
+Mar 08 09:13:31 LNX-WEB-002 systemd: Started Session.
+Mar 16 14:08:52 LNX-WEB-001 rsyslog: Network interface up.
+Mar 22 11:09:42 LNX-DB-001 kernel: New session of user.
+Mar 12 10:58:50 LNX-DB-001 kernel: Network interface up.
+Mar 19 12:32:15 LNX-DB-001 NetworkManager: Started Session.
+Mar 24 16:58:03 LNX-DEV-001 systemd: New session of user.
+Mar 03 14:17:34 LNX-DB-002 kernel: Started Session.
+Mar 02 15:22:49 LNX-APP-001 kernel: Removed session.
+Mar 01 08:08:06 LNX-APP-001 cron: New session of user.
+Mar 17 14:46:30 LNX-BACKUP-001 systemd: Device attached.
+Mar 20 15:11:18 LNX-LOG-001 cron: Device attached.
+Mar 14 09:50:52 LNX-APP-001 kernel: Removed session.
+Mar 19 13:33:55 LNX-DB-001 cron: Removed session.
+Mar 25 11:22:56 LNX-BACKUP-001 cron: Network interface up.
+Mar 24 10:33:27 LNX-FILE-001 NetworkManager: Device attached.
+Mar 06 12:15:47 LNX-LOG-001 rsyslog: Device attached.
+Mar 09 16:18:13 LNX-WEB-001 systemd: New session of user.
+Mar 22 12:53:09 LNX-APP-002 rsyslog: Network interface up.
+Mar 16 16:39:57 LNX-FILE-001 kernel: New session of user.
+Mar 21 13:07:44 LNX-APP-001 NetworkManager: Device attached.
+Mar 18 12:23:23 LNX-APP-001 rsyslog: Removed session.
+Mar 16 11:52:44 LNX-APP-002 rsyslog: Removed session.
+Mar 06 11:09:08 LNX-DEV-001 NetworkManager: New session of user.
+Mar 23 09:16:46 LNX-DEV-001 cron: New session of user.
+Mar 06 08:31:04 LNX-DEV-001 rsyslog: Device attached.
+Mar 24 12:23:13 LNX-LOG-001 NetworkManager: Started Session.
+Mar 26 13:38:33 LNX-DB-001 NetworkManager: Network interface up.
+Mar 28 16:13:12 LNX-DEV-001 cron: Network interface up.
+Mar 13 11:57:05 LNX-BACKUP-001 kernel: Device attached.
+Mar 23 12:44:33 LNX-WEB-002 kernel: Removed session.
+Mar 17 11:41:34 LNX-APP-002 kernel: Network interface up.
+Mar 18 09:25:05 LNX-LOG-001 rsyslog: Started Session.
+Mar 29 10:11:46 LNX-FILE-001 kernel: Started Session.
+Mar 17 17:54:44 LNX-APP-001 systemd: Device attached.
+Mar 07 12:13:17 LNX-DEV-001 NetworkManager: New session of user.
+Mar 19 08:38:33 LNX-DEV-001 cron: Network interface up.
+Mar 10 13:27:11 LNX-DB-001 kernel: Started Session.
+Mar 24 15:05:35 LNX-DB-001 systemd: Removed session.
+Mar 24 09:21:54 LNX-DB-001 kernel: New session of user.
+Mar 28 11:06:26 LNX-FILE-001 cron: Device attached.
+Mar 05 16:52:17 LNX-DB-002 systemd: Started Session.
+Mar 18 17:37:28 LNX-FILE-001 systemd: Network interface up.
+Mar 01 09:29:27 LNX-APP-002 kernel: Network interface up.
+Mar 05 16:05:51 LNX-APP-002 NetworkManager: New session of user.
+Mar 27 08:36:51 LNX-DEV-001 kernel: Started Session.
+Mar 29 09:39:42 LNX-DEV-001 kernel: Device attached.
+Mar 20 15:15:34 LNX-APP-001 rsyslog: Network interface up.
+Mar 19 17:55:44 LNX-APP-002 kernel: Device attached.
+Mar 09 11:49:50 LNX-DEV-001 kernel: Device attached.
+Mar 02 16:22:47 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 14 16:45:17 LNX-DEV-001 NetworkManager: New session of user.
+Mar 11 14:47:14 LNX-DB-002 systemd: Network interface up.
+Mar 09 17:52:54 LNX-WEB-002 kernel: Started Session.
+Mar 08 13:25:02 LNX-FILE-001 cron: New session of user.
+Mar 11 09:03:13 LNX-FILE-001 cron: Started Session.
+Mar 29 10:36:23 LNX-DEV-001 kernel: Device attached.
+Mar 04 09:39:13 LNX-DB-001 systemd: Started Session.
+Mar 08 13:51:56 LNX-APP-001 NetworkManager: New session of user.
+Mar 06 08:46:27 LNX-LOG-001 systemd: New session of user.
+Mar 17 09:07:21 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 04 13:32:25 LNX-WEB-002 cron: Removed session.
+Mar 20 12:24:16 LNX-FILE-001 kernel: Device attached.
+Mar 26 13:05:24 LNX-BACKUP-001 systemd: Removed session.
+Mar 23 13:08:08 LNX-DB-001 cron: Device attached.
+Mar 21 09:04:58 LNX-FILE-001 kernel: Removed session.
+Mar 07 16:41:51 LNX-APP-001 NetworkManager: Removed session.
+Mar 01 15:14:25 LNX-WEB-001 NetworkManager: Started Session.
+Mar 28 16:24:33 LNX-FILE-001 kernel: Network interface up.
+Mar 22 14:02:06 LNX-LOG-001 NetworkManager: Device attached.
+Mar 13 08:47:47 LNX-WEB-002 rsyslog: Network interface up.
+Mar 27 12:34:07 LNX-APP-002 systemd: Started Session.
+Mar 04 14:51:58 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 04 14:38:45 LNX-DB-002 NetworkManager: Started Session.
+Mar 10 15:32:10 LNX-APP-001 NetworkManager: New session of user.
+Mar 28 11:05:53 LNX-DB-001 kernel: New session of user.
+Mar 09 12:15:44 LNX-APP-001 systemd: Started Session.
+Mar 15 14:06:18 LNX-FILE-001 rsyslog: Started Session.
+Mar 05 13:50:58 LNX-DEV-001 systemd: Device attached.
+Mar 13 11:42:26 LNX-APP-002 kernel: New session of user.
+Mar 11 10:50:53 LNX-FILE-001 systemd: Removed session.
+Mar 06 10:04:03 LNX-DB-001 rsyslog: Started Session.
+Mar 17 17:50:03 LNX-APP-002 rsyslog: Device attached.
+Mar 23 12:11:51 LNX-WEB-001 kernel: Device attached.
+Mar 17 12:07:31 LNX-APP-002 systemd: Network interface up.
+Mar 30 15:11:07 LNX-DEV-001 kernel: Started Session.
+Mar 12 16:12:21 LNX-DB-002 systemd: Network interface up.
+Mar 30 11:27:13 LNX-WEB-002 rsyslog: Device attached.
+Mar 11 16:52:30 LNX-WEB-001 NetworkManager: Removed session.
+Mar 01 15:15:54 LNX-LOG-001 cron: Removed session.
+Mar 29 14:22:56 LNX-WEB-001 kernel: Started Session.
+Mar 13 14:20:58 LNX-APP-001 rsyslog: Removed session.
+Mar 23 08:15:49 LNX-WEB-002 cron: Device attached.
+Mar 02 13:57:16 LNX-LOG-001 cron: Network interface up.
+Mar 27 10:45:43 LNX-DEV-001 systemd: Removed session.
+Mar 11 13:34:59 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 16 10:40:30 LNX-DB-001 rsyslog: Network interface up.
+Mar 01 12:27:25 LNX-APP-002 kernel: Started Session.
+Mar 22 11:09:10 LNX-APP-001 NetworkManager: New session of user.
+Mar 18 17:21:04 LNX-DB-001 systemd: Started Session.
+Mar 26 13:25:27 LNX-FILE-001 kernel: Device attached.
+Mar 30 14:17:09 LNX-WEB-002 cron: Started Session.
+Mar 27 15:51:17 LNX-DB-001 systemd: New session of user.
+Mar 04 10:58:52 LNX-DEV-001 rsyslog: Removed session.
+Mar 16 16:13:03 LNX-FILE-001 cron: New session of user.
+Mar 26 12:44:47 LNX-LOG-001 systemd: New session of user.
+Mar 03 15:32:53 LNX-FILE-001 systemd: Network interface up.
+Mar 22 10:04:30 LNX-BACKUP-001 cron: Device attached.
+Mar 29 10:04:34 LNX-DB-002 systemd: New session of user.
+Mar 25 14:47:48 LNX-LOG-001 NetworkManager: Started Session.
+Mar 13 08:42:12 LNX-DB-001 cron: Network interface up.
+Mar 12 08:14:10 LNX-WEB-001 NetworkManager: Device attached.
+Mar 07 15:43:23 LNX-DB-001 NetworkManager: Removed session.
+Mar 30 09:53:51 LNX-DB-001 systemd: Started Session.
+Mar 29 13:23:38 LNX-APP-002 kernel: New session of user.
+Mar 17 10:03:58 LNX-APP-001 systemd: Network interface up.
+Mar 10 17:41:17 LNX-LOG-001 systemd: Device attached.
+Mar 29 13:12:44 LNX-FILE-001 kernel: New session of user.
+Mar 28 16:18:58 LNX-DB-001 systemd: New session of user.
+Mar 10 16:42:58 LNX-WEB-002 rsyslog: Started Session.
+Mar 14 14:33:39 LNX-FILE-001 systemd: Removed session.
+Mar 17 09:19:30 LNX-DB-001 kernel: Network interface up.
+Mar 03 16:21:36 LNX-APP-002 NetworkManager: New session of user.
+Mar 30 11:18:20 LNX-WEB-002 systemd: Device attached.
+Mar 05 15:23:38 LNX-DB-002 kernel: Removed session.
+Mar 11 16:24:13 LNX-LOG-001 rsyslog: Removed session.
+Mar 29 15:50:21 LNX-WEB-001 rsyslog: Removed session.
+Mar 06 10:09:17 LNX-APP-001 cron: Network interface up.
+Mar 24 17:45:42 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 20 17:04:52 LNX-BACKUP-001 systemd: Device attached.
+Mar 25 11:02:56 LNX-APP-001 cron: Network interface up.
+Mar 22 11:58:59 LNX-DB-002 NetworkManager: Network interface up.
+Mar 05 16:23:43 LNX-DEV-001 NetworkManager: Device attached.
+Mar 11 10:09:25 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 08 11:40:15 LNX-BACKUP-001 kernel: Network interface up.
+Mar 18 11:51:02 LNX-FILE-001 kernel: Device attached.
+Mar 18 14:08:05 LNX-DB-002 systemd: Removed session.
+Mar 20 15:55:15 LNX-APP-002 systemd: Removed session.
+Mar 05 08:21:09 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 21 08:28:27 LNX-APP-001 NetworkManager: Started Session.
+Mar 20 10:56:00 LNX-FILE-001 rsyslog: Removed session.
+Mar 06 17:34:39 LNX-DEV-001 kernel: Removed session.
+Mar 13 14:22:08 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 30 08:45:41 LNX-WEB-001 NetworkManager: New session of user.
+Mar 15 17:00:40 LNX-LOG-001 NetworkManager: New session of user.
+Mar 15 17:07:27 LNX-APP-002 rsyslog: Removed session.
+Mar 17 16:42:36 LNX-LOG-001 rsyslog: New session of user.
+Mar 27 15:10:22 LNX-BACKUP-001 cron: Network interface up.
+Mar 07 15:08:43 LNX-DB-002 NetworkManager: Started Session.
+Mar 16 09:19:44 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 16 09:33:55 LNX-FILE-001 systemd: Device attached.
+Mar 22 11:32:13 LNX-WEB-002 kernel: Device attached.
+Mar 03 09:07:11 LNX-LOG-001 rsyslog: Network interface up.
+Mar 18 09:03:07 LNX-DB-002 cron: Device attached.
+Mar 02 14:39:08 LNX-FILE-001 kernel: Device attached.
+Mar 01 09:33:20 LNX-APP-001 rsyslog: Started Session.
+Mar 14 12:34:52 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 19 12:35:13 LNX-WEB-001 kernel: Network interface up.
+Mar 09 15:20:01 LNX-WEB-001 rsyslog: Device attached.
+Mar 07 14:48:03 LNX-DB-001 cron: Started Session.
+Mar 20 13:09:44 LNX-LOG-001 NetworkManager: Removed session.
+Mar 12 15:56:43 LNX-DB-002 systemd: Removed session.
+Mar 14 15:46:34 LNX-DB-002 kernel: Device attached.
+Mar 20 09:53:54 LNX-APP-001 systemd: Started Session.
+Mar 22 15:31:30 LNX-DB-002 systemd: Removed session.
+Mar 03 13:12:02 LNX-WEB-002 cron: Removed session.
+Mar 28 10:56:09 LNX-FILE-001 kernel: Started Session.
+Mar 13 17:05:21 LNX-WEB-002 kernel: Removed session.
+Mar 24 10:04:42 LNX-WEB-001 rsyslog: Started Session.
+Mar 15 10:51:08 LNX-DB-001 NetworkManager: Network interface up.
+Mar 08 09:35:00 LNX-APP-001 rsyslog: New session of user.
+Mar 20 13:31:11 LNX-BACKUP-001 systemd: Started Session.
+Mar 05 08:27:42 LNX-APP-001 rsyslog: Device attached.
+Mar 02 10:19:13 LNX-DB-001 NetworkManager: Device attached.
+Mar 24 14:56:11 LNX-WEB-001 cron: Started Session.
+Mar 22 10:27:36 LNX-APP-002 rsyslog: New session of user.
+Mar 20 16:08:37 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 09 09:20:07 LNX-APP-001 cron: New session of user.
+Mar 04 09:40:52 LNX-DEV-001 cron: Device attached.
+Mar 11 10:16:51 LNX-DB-001 systemd: New session of user.
+Mar 21 10:09:21 LNX-FILE-001 systemd: New session of user.
+Mar 02 08:56:59 LNX-APP-001 cron: Network interface up.
+Mar 10 10:40:51 LNX-APP-001 NetworkManager: Removed session.
+Mar 06 17:53:52 LNX-APP-001 systemd: New session of user.
+Mar 25 11:34:13 LNX-LOG-001 rsyslog: Started Session.
+Mar 01 13:36:40 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 08 10:28:34 LNX-WEB-001 kernel: Network interface up.
+Mar 19 15:08:51 LNX-DB-001 systemd: New session of user.
+Mar 24 09:07:28 LNX-DB-001 cron: Network interface up.
+Mar 18 16:56:16 LNX-WEB-001 kernel: Started Session.
+Mar 10 16:20:51 LNX-FILE-001 rsyslog: Network interface up.
+Mar 08 16:00:55 LNX-FILE-001 cron: Device attached.
+Mar 04 09:53:48 LNX-APP-002 kernel: Device attached.
+Mar 04 08:50:22 LNX-FILE-001 systemd: Started Session.
+Mar 25 15:59:13 LNX-WEB-001 rsyslog: Device attached.
+Mar 25 12:49:28 LNX-DB-002 kernel: Network interface up.
+Mar 17 14:24:50 LNX-LOG-001 NetworkManager: New session of user.
+Mar 25 17:29:40 LNX-LOG-001 kernel: Device attached.
+Mar 28 17:50:12 LNX-WEB-002 NetworkManager: New session of user.
+Mar 19 12:48:36 LNX-WEB-001 NetworkManager: Device attached.
+Mar 09 09:10:26 LNX-DEV-001 NetworkManager: New session of user.
+Mar 05 15:18:29 LNX-APP-002 rsyslog: Network interface up.
+Mar 20 13:33:30 LNX-DB-002 cron: Removed session.
+Mar 25 14:08:03 LNX-WEB-001 NetworkManager: Started Session.
+Mar 12 13:22:36 LNX-DB-001 kernel: Device attached.
+Mar 03 14:39:55 LNX-LOG-001 kernel: Removed session.
+Mar 30 09:07:35 LNX-WEB-002 kernel: Started Session.
+Mar 12 16:14:52 LNX-DB-001 kernel: New session of user.
+Mar 19 17:57:31 LNX-DB-002 cron: New session of user.
+Mar 30 12:59:06 LNX-DEV-001 kernel: Removed session.
+Mar 30 10:25:27 LNX-LOG-001 kernel: Device attached.
+Mar 30 15:39:18 LNX-DB-001 kernel: Network interface up.
+Mar 25 17:59:11 LNX-FILE-001 rsyslog: Device attached.
+Mar 15 12:38:51 LNX-DB-002 kernel: Started Session.
+Mar 05 12:53:41 LNX-WEB-001 systemd: Device attached.
+Mar 15 10:14:47 LNX-LOG-001 NetworkManager: Device attached.
+Mar 13 17:12:53 LNX-WEB-002 NetworkManager: Device attached.
+Mar 30 10:32:31 LNX-BACKUP-001 systemd: Started Session.
+Mar 30 11:53:37 LNX-APP-001 NetworkManager: Device attached.
+Mar 07 17:45:30 LNX-WEB-002 kernel: Network interface up.
+Mar 05 09:15:16 LNX-WEB-001 systemd: Device attached.
+Mar 03 09:49:40 LNX-FILE-001 kernel: Removed session.
+Mar 17 13:54:40 LNX-WEB-002 kernel: Network interface up.
+Mar 10 12:04:23 LNX-DB-001 cron: Device attached.
+Mar 17 14:55:36 LNX-DB-001 NetworkManager: Device attached.
+Mar 24 08:06:28 LNX-DB-001 NetworkManager: Network interface up.
+Mar 06 16:57:55 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 02 10:22:06 LNX-WEB-002 cron: Removed session.
+Mar 27 09:16:18 LNX-BACKUP-001 kernel: Started Session.
+Mar 20 12:53:03 LNX-WEB-002 cron: New session of user.
+Mar 27 14:25:28 LNX-WEB-001 cron: Device attached.
+Mar 08 17:04:34 LNX-DEV-001 systemd: New session of user.
+Mar 03 12:05:27 LNX-APP-002 NetworkManager: Started Session.
+Mar 13 11:59:59 LNX-WEB-001 kernel: New session of user.
+Mar 07 15:32:52 LNX-DB-001 NetworkManager: Removed session.
+Mar 29 12:32:25 LNX-BACKUP-001 systemd: Started Session.
+Mar 20 08:15:01 LNX-DB-002 kernel: Device attached.
+Mar 23 14:58:05 LNX-APP-002 cron: Device attached.
+Mar 28 08:47:37 LNX-LOG-001 systemd: Removed session.
+Mar 14 11:36:43 LNX-BACKUP-001 cron: Started Session.
+Mar 12 13:11:32 LNX-DB-001 kernel: Started Session.
+Mar 03 17:59:20 LNX-APP-001 cron: Started Session.
+Mar 20 16:48:19 LNX-DB-001 systemd: Removed session.
+Mar 08 13:55:30 LNX-DEV-001 cron: Started Session.
+Mar 24 17:26:46 LNX-APP-001 NetworkManager: Removed session.
+Mar 07 17:13:22 LNX-WEB-002 systemd: New session of user.
+Mar 08 10:36:06 LNX-DB-001 kernel: New session of user.
+Mar 19 10:50:53 LNX-LOG-001 kernel: Device attached.
+Mar 20 16:11:07 LNX-LOG-001 NetworkManager: New session of user.
+Mar 06 16:12:10 LNX-APP-002 NetworkManager: Network interface up.
+Mar 09 09:31:38 LNX-DEV-001 rsyslog: Removed session.
+Mar 30 09:14:11 LNX-FILE-001 systemd: New session of user.
+Mar 06 12:36:56 LNX-LOG-001 kernel: New session of user.
+Mar 14 17:26:17 LNX-APP-002 NetworkManager: Started Session.
+Mar 02 15:02:38 LNX-DB-002 kernel: Device attached.
+Mar 25 12:58:51 LNX-DEV-001 kernel: Started Session.
+Mar 16 17:13:38 LNX-DB-002 NetworkManager: Device attached.
+Mar 20 17:59:18 LNX-DB-001 NetworkManager: Device attached.
+Mar 23 13:38:18 LNX-FILE-001 NetworkManager: Removed session.
+Mar 13 12:59:01 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 25 14:35:38 LNX-LOG-001 rsyslog: New session of user.
+Mar 19 14:02:55 LNX-WEB-002 systemd: New session of user.
+Mar 25 09:49:23 LNX-WEB-001 systemd: Device attached.
+Mar 28 09:22:21 LNX-LOG-001 NetworkManager: Removed session.
+Mar 09 09:26:59 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 12 16:42:04 LNX-FILE-001 kernel: Device attached.
+Mar 18 14:37:22 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 19 08:43:36 LNX-WEB-001 NetworkManager: Device attached.
+Mar 19 13:11:03 LNX-APP-002 kernel: Device attached.
+Mar 15 11:13:08 LNX-DEV-001 kernel: Device attached.
+Mar 26 11:36:58 LNX-FILE-001 kernel: New session of user.
+Mar 24 15:16:41 LNX-DEV-001 rsyslog: Removed session.
+Mar 24 15:21:08 LNX-APP-002 systemd: Network interface up.
+Mar 22 08:17:16 LNX-BACKUP-001 kernel: Started Session.
+Mar 04 17:31:47 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 23 09:44:09 LNX-BACKUP-001 cron: Network interface up.
+Mar 15 16:27:25 LNX-LOG-001 kernel: Network interface up.
+Mar 17 16:48:04 LNX-APP-001 NetworkManager: Network interface up.
+Mar 26 16:41:29 LNX-DB-002 systemd: Started Session.
+Mar 09 14:19:07 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 29 10:48:49 LNX-DB-001 cron: Started Session.
+Mar 21 16:15:07 LNX-LOG-001 rsyslog: New session of user.
+Mar 13 08:26:09 LNX-FILE-001 kernel: Device attached.
+Mar 30 10:28:20 LNX-FILE-001 systemd: New session of user.
+Mar 06 12:38:41 LNX-WEB-001 kernel: Device attached.
+Mar 20 15:36:12 LNX-DB-001 systemd: Device attached.
+Mar 27 11:37:44 LNX-APP-001 cron: Removed session.
+Mar 09 15:44:20 LNX-WEB-002 cron: Network interface up.
+Mar 21 13:54:09 LNX-APP-002 systemd: Network interface up.
+Mar 28 09:54:50 LNX-DEV-001 rsyslog: Removed session.
+Mar 24 15:42:05 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 19 16:25:25 LNX-FILE-001 rsyslog: New session of user.
+Mar 06 16:19:50 LNX-DB-001 NetworkManager: Started Session.
+Mar 21 12:11:16 LNX-APP-002 systemd: Network interface up.
+Mar 15 09:45:08 LNX-WEB-001 cron: New session of user.
+Mar 30 13:56:16 LNX-DB-001 kernel: New session of user.
+Mar 18 13:00:55 LNX-DEV-001 systemd: Device attached.
+Mar 19 08:36:20 LNX-WEB-001 cron: Network interface up.
+Mar 09 10:53:01 LNX-APP-001 cron: Device attached.
+Mar 15 10:37:32 LNX-LOG-001 NetworkManager: Started Session.
+Mar 28 15:43:27 LNX-LOG-001 kernel: Network interface up.
+Mar 28 10:09:29 LNX-WEB-001 kernel: Device attached.
+Mar 19 15:30:37 LNX-DB-001 systemd: Started Session.
+Mar 21 08:47:10 LNX-APP-002 rsyslog: Network interface up.
+Mar 14 11:35:06 LNX-WEB-002 rsyslog: Removed session.
+Mar 25 15:03:01 LNX-WEB-001 NetworkManager: New session of user.
+Mar 11 08:02:39 LNX-WEB-001 NetworkManager: Removed session.
+Mar 16 10:58:52 LNX-FILE-001 cron: Removed session.
+Mar 03 13:23:56 LNX-LOG-001 NetworkManager: Device attached.
+Mar 18 16:00:04 LNX-DB-001 NetworkManager: Started Session.
+Mar 09 17:49:48 LNX-APP-001 NetworkManager: Removed session.
+Mar 03 09:35:51 LNX-DB-001 systemd: Started Session.
+Mar 29 12:19:20 LNX-WEB-002 systemd: Started Session.
+Mar 25 15:02:10 LNX-LOG-001 NetworkManager: Started Session.
+Mar 28 13:02:44 LNX-DEV-001 kernel: Network interface up.
+Mar 22 14:52:54 LNX-WEB-002 cron: New session of user.
+Mar 09 17:51:02 LNX-WEB-002 NetworkManager: Started Session.
+Mar 22 08:18:21 LNX-DEV-001 NetworkManager: Started Session.
+Mar 05 09:01:48 LNX-BACKUP-001 kernel: Network interface up.
+Mar 27 11:41:26 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 21 14:34:18 LNX-WEB-002 NetworkManager: New session of user.
+Mar 01 12:39:54 LNX-DB-001 rsyslog: New session of user.
+Mar 02 17:40:34 LNX-APP-002 systemd: New session of user.
+Mar 12 12:31:45 LNX-APP-002 rsyslog: New session of user.
+Mar 25 13:51:34 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 15 16:49:48 LNX-DB-001 kernel: Network interface up.
+Mar 11 11:44:57 LNX-APP-001 kernel: Started Session.
+Mar 21 17:35:41 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 02 15:17:58 LNX-LOG-001 kernel: Removed session.
+Mar 21 16:15:06 LNX-WEB-001 NetworkManager: New session of user.
+Mar 03 16:35:49 LNX-DEV-001 NetworkManager: New session of user.
+Mar 22 14:08:10 LNX-DB-001 NetworkManager: Network interface up.
+Mar 30 13:58:33 LNX-LOG-001 kernel: New session of user.
+Mar 03 17:40:53 LNX-WEB-001 systemd: Removed session.
+Mar 26 11:13:32 LNX-WEB-002 cron: Started Session.
+Mar 15 08:25:25 LNX-DB-001 NetworkManager: Device attached.
+Mar 21 11:24:50 LNX-WEB-002 systemd: Device attached.
+Mar 30 12:33:42 LNX-APP-001 rsyslog: Network interface up.
+Mar 06 15:52:35 LNX-FILE-001 NetworkManager: Removed session.
+Mar 12 17:52:10 LNX-WEB-002 kernel: Network interface up.
+Mar 18 15:52:31 LNX-BACKUP-001 cron: Device attached.
+Mar 09 14:32:26 LNX-BACKUP-001 kernel: Device attached.
+Mar 30 14:35:45 LNX-APP-002 rsyslog: New session of user.
+Mar 11 16:35:54 LNX-DEV-001 NetworkManager: Removed session.
+Mar 21 13:12:49 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 30 12:32:16 LNX-APP-001 NetworkManager: Device attached.
+Mar 14 13:55:51 LNX-DB-002 systemd: Device attached.
+Mar 12 11:36:55 LNX-DB-001 NetworkManager: Started Session.
+Mar 13 10:01:43 LNX-APP-001 rsyslog: Network interface up.
+Mar 09 13:34:13 LNX-WEB-001 systemd: New session of user.
+Mar 04 17:50:16 LNX-DEV-001 systemd: Network interface up.
+Mar 20 14:50:27 LNX-APP-001 rsyslog: New session of user.
+Mar 15 09:18:29 LNX-WEB-002 cron: Removed session.
+Mar 18 09:04:39 LNX-WEB-002 NetworkManager: Device attached.
+Mar 27 11:36:55 LNX-FILE-001 cron: Network interface up.
+Mar 09 12:21:19 LNX-FILE-001 systemd: Device attached.
+Mar 29 09:55:36 LNX-DB-001 systemd: Device attached.
+Mar 27 11:08:10 LNX-DEV-001 cron: Started Session.
+Mar 21 11:28:25 LNX-APP-001 cron: Device attached.
+Mar 22 13:58:39 LNX-WEB-001 cron: Network interface up.
+Mar 17 12:32:50 LNX-WEB-002 systemd: Started Session.
+Mar 18 15:22:05 LNX-DB-001 systemd: Device attached.
+Mar 04 14:05:48 LNX-APP-001 kernel: Removed session.
+Mar 10 17:27:58 LNX-WEB-001 kernel: Started Session.
+Mar 09 13:09:08 LNX-WEB-001 kernel: Network interface up.
+Mar 20 16:44:02 LNX-FILE-001 cron: Device attached.
+Mar 11 14:07:31 LNX-WEB-001 NetworkManager: Started Session.
+Mar 06 09:06:49 LNX-LOG-001 systemd: Removed session.
+Mar 19 12:04:38 LNX-FILE-001 rsyslog: New session of user.
+Mar 13 11:19:40 LNX-APP-001 NetworkManager: Device attached.
+Mar 28 16:13:47 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 20 13:08:25 LNX-DB-002 NetworkManager: Network interface up.
+Mar 24 08:10:59 LNX-DB-001 rsyslog: New session of user.
+Mar 07 12:54:36 LNX-DB-002 cron: Removed session.
+Mar 29 11:59:51 LNX-APP-001 cron: New session of user.
+Mar 09 11:54:57 LNX-DB-002 NetworkManager: Started Session.
+Mar 14 10:09:16 LNX-APP-001 cron: Removed session.
+Mar 04 10:40:09 LNX-DEV-001 rsyslog: New session of user.
+Mar 04 15:00:32 LNX-DB-002 systemd: New session of user.
+Mar 20 15:53:53 LNX-DEV-001 systemd: New session of user.
+Mar 04 16:01:09 LNX-LOG-001 rsyslog: Removed session.
+Mar 26 14:24:20 LNX-DB-002 rsyslog: Device attached.
+Mar 28 10:41:57 LNX-BACKUP-001 systemd: Device attached.
+Mar 19 09:13:09 LNX-LOG-001 kernel: Network interface up.
+Mar 22 14:53:41 LNX-APP-002 kernel: Network interface up.
+Mar 07 12:19:08 LNX-DB-001 kernel: New session of user.
+Mar 17 11:06:02 LNX-APP-002 systemd: New session of user.
+Mar 02 12:50:09 LNX-DB-001 systemd: Device attached.
+Mar 14 09:55:11 LNX-DB-001 systemd: Removed session.
+Mar 23 08:16:58 LNX-FILE-001 rsyslog: New session of user.
+Mar 12 17:55:04 LNX-WEB-002 cron: Started Session.
+Mar 17 17:52:26 LNX-DB-002 cron: Device attached.
+Mar 15 12:41:15 LNX-DB-002 cron: Device attached.
+Mar 02 08:39:22 LNX-FILE-001 systemd: Removed session.
+Mar 28 09:44:47 LNX-LOG-001 rsyslog: New session of user.
+Mar 07 14:00:19 LNX-FILE-001 systemd: Removed session.
+Mar 06 15:31:17 LNX-APP-001 rsyslog: Removed session.
+Mar 28 16:43:07 LNX-LOG-001 kernel: Network interface up.
+Mar 07 10:31:41 LNX-DB-002 cron: Removed session.
+Mar 12 09:26:36 LNX-APP-002 rsyslog: Started Session.
+Mar 19 09:46:43 LNX-WEB-001 NetworkManager: Device attached.
+Mar 01 16:17:17 LNX-DB-002 NetworkManager: Device attached.
+Mar 02 17:11:39 LNX-WEB-001 systemd: Started Session.
+Mar 08 17:39:06 LNX-WEB-001 kernel: Removed session.
+Mar 06 17:46:32 LNX-DB-001 rsyslog: Started Session.
+Mar 30 12:44:19 LNX-DB-001 kernel: Started Session.
+Mar 29 15:59:45 LNX-FILE-001 cron: Network interface up.
+Mar 20 12:47:02 LNX-FILE-001 kernel: Device attached.
+Mar 10 17:21:45 LNX-WEB-002 cron: Started Session.
+Mar 26 08:56:08 LNX-BACKUP-001 kernel: Removed session.
+Mar 08 14:09:20 LNX-FILE-001 systemd: Removed session.
+Mar 11 10:11:54 LNX-FILE-001 rsyslog: Device attached.
+Mar 24 14:50:20 LNX-APP-001 rsyslog: Removed session.
+Mar 23 17:12:24 LNX-LOG-001 cron: New session of user.
+Mar 23 12:55:09 LNX-DB-001 kernel: Removed session.
+Mar 13 13:48:11 LNX-APP-002 systemd: Network interface up.
+Mar 11 11:55:04 LNX-BACKUP-001 systemd: New session of user.
+Mar 22 17:40:23 LNX-WEB-002 rsyslog: Network interface up.
+Mar 26 13:06:27 LNX-APP-002 systemd: Device attached.
+Mar 02 10:37:45 LNX-APP-001 rsyslog: Network interface up.
+Mar 15 09:24:46 LNX-APP-001 systemd: New session of user.
+Mar 02 10:13:32 LNX-DB-002 kernel: New session of user.
+Mar 18 17:48:27 LNX-FILE-001 cron: Removed session.
+Mar 04 09:16:48 LNX-WEB-002 rsyslog: Removed session.
+Mar 19 16:46:56 LNX-WEB-002 systemd: New session of user.
+Mar 05 14:52:03 LNX-APP-001 cron: New session of user.
+Mar 09 13:21:35 LNX-LOG-001 kernel: Removed session.
+Mar 13 12:35:12 LNX-WEB-002 systemd: New session of user.
+Mar 19 11:30:42 LNX-DB-001 rsyslog: Network interface up.
+Mar 30 12:11:16 LNX-APP-001 NetworkManager: New session of user.
+Mar 15 13:46:00 LNX-WEB-002 kernel: Device attached.
+Mar 23 11:33:03 LNX-WEB-001 kernel: New session of user.
+Mar 29 13:36:11 LNX-DB-001 cron: New session of user.
+Mar 25 09:41:21 LNX-WEB-001 rsyslog: Network interface up.
+Mar 18 08:57:13 LNX-WEB-002 NetworkManager: Started Session.
+Mar 23 14:02:18 LNX-DB-001 systemd: Removed session.
+Mar 27 14:23:35 LNX-APP-002 NetworkManager: Removed session.
+Mar 04 11:25:50 LNX-WEB-001 cron: Device attached.
+Mar 14 08:04:09 LNX-DB-001 rsyslog: New session of user.
+Mar 21 08:46:06 LNX-DB-001 kernel: New session of user.
+Mar 07 11:41:11 LNX-LOG-001 kernel: Removed session.
+Mar 23 09:52:47 LNX-DB-002 kernel: Removed session.
+Mar 24 13:03:15 LNX-DB-002 cron: Network interface up.
+Mar 10 08:54:46 LNX-WEB-002 cron: Started Session.
+Mar 13 13:15:23 LNX-FILE-001 rsyslog: Removed session.
+Mar 20 13:36:03 LNX-DB-001 kernel: New session of user.
+Mar 19 17:22:28 LNX-DB-001 NetworkManager: Started Session.
+Mar 11 11:58:47 LNX-BACKUP-001 kernel: Started Session.
+Mar 05 11:45:29 LNX-LOG-001 kernel: Device attached.
+Mar 28 15:33:10 LNX-LOG-001 cron: Started Session.
+Mar 11 10:59:45 LNX-FILE-001 rsyslog: Started Session.
+Mar 04 12:39:35 LNX-LOG-001 kernel: Started Session.
+Mar 07 16:35:58 LNX-DEV-001 systemd: Removed session.
+Mar 16 12:22:40 LNX-DB-001 kernel: Started Session.
+Mar 20 17:52:12 LNX-DEV-001 kernel: Started Session.
+Mar 09 14:31:34 LNX-DB-002 NetworkManager: New session of user.
+Mar 30 14:30:11 LNX-APP-002 systemd: Network interface up.
+Mar 05 08:15:29 LNX-WEB-001 rsyslog: Device attached.
+Mar 02 12:26:51 LNX-DB-001 systemd: Device attached.
+Mar 03 08:05:33 LNX-APP-001 systemd: Started Session.
+Mar 21 16:54:31 LNX-BACKUP-001 kernel: New session of user.
+Mar 05 10:17:39 LNX-APP-002 NetworkManager: Network interface up.
+Mar 17 17:14:24 LNX-APP-002 NetworkManager: Device attached.
+Mar 17 13:39:17 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 23 14:54:15 LNX-APP-001 cron: Network interface up.
+Mar 25 15:36:20 LNX-DB-001 rsyslog: Removed session.
+Mar 21 15:56:49 LNX-WEB-002 cron: Device attached.
+Mar 17 09:39:55 LNX-DEV-001 cron: New session of user.
+Mar 22 14:48:42 LNX-DEV-001 kernel: New session of user.
+Mar 18 15:38:03 LNX-DB-002 NetworkManager: New session of user.
+Mar 17 10:57:27 LNX-APP-002 kernel: Started Session.
+Mar 24 17:55:13 LNX-FILE-001 systemd: Network interface up.
+Mar 04 09:45:16 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 28 09:22:21 LNX-FILE-001 rsyslog: Removed session.
+Mar 26 15:17:21 LNX-APP-002 rsyslog: Network interface up.
+Mar 15 15:53:53 LNX-APP-002 systemd: Removed session.
+Mar 02 10:46:57 LNX-WEB-002 cron: Started Session.
+Mar 28 13:21:14 LNX-LOG-001 kernel: Removed session.
+Mar 12 09:25:32 LNX-DB-002 systemd: Device attached.
+Mar 01 09:17:54 LNX-WEB-002 cron: New session of user.
+Mar 04 13:59:45 LNX-WEB-002 rsyslog: Removed session.
+Mar 21 10:20:40 LNX-LOG-001 systemd: Network interface up.
+Mar 28 11:50:18 LNX-DB-002 systemd: Network interface up.
+Mar 30 10:51:55 LNX-DB-002 cron: Network interface up.
+Mar 10 12:37:03 LNX-WEB-002 NetworkManager: New session of user.
+Mar 28 12:02:51 LNX-BACKUP-001 kernel: Started Session.
+Mar 07 17:29:27 LNX-DB-002 kernel: Device attached.
+Mar 21 10:11:22 LNX-LOG-001 rsyslog: Network interface up.
+Mar 06 09:04:46 LNX-DB-002 cron: Device attached.
+Mar 14 15:43:34 LNX-APP-002 rsyslog: Removed session.
+Mar 19 17:01:10 LNX-WEB-001 cron: Device attached.
+Mar 09 16:35:16 LNX-DEV-001 rsyslog: New session of user.
+Mar 26 12:20:57 LNX-APP-002 NetworkManager: New session of user.
+Mar 22 12:53:27 LNX-DB-001 NetworkManager: Network interface up.
+Mar 19 14:26:00 LNX-APP-002 cron: Removed session.
+Mar 05 17:09:34 LNX-FILE-001 rsyslog: New session of user.
+Mar 23 11:49:22 LNX-WEB-001 systemd: Started Session.
+Mar 27 13:04:21 LNX-FILE-001 kernel: Started Session.
+Mar 26 09:25:47 LNX-WEB-002 systemd: Network interface up.
+Mar 07 08:29:50 LNX-APP-002 cron: Removed session.
+Mar 12 14:19:40 LNX-WEB-002 rsyslog: Removed session.
+Mar 19 10:37:22 LNX-APP-001 NetworkManager: Started Session.
+Mar 26 08:45:41 LNX-FILE-001 rsyslog: New session of user.
+Mar 15 13:26:12 LNX-APP-001 kernel: Device attached.
+Mar 04 15:12:24 LNX-FILE-001 rsyslog: Started Session.
+Mar 15 10:33:05 LNX-APP-001 cron: Network interface up.
+Mar 27 12:11:25 LNX-WEB-001 systemd: Removed session.
+Mar 18 09:25:18 LNX-APP-001 kernel: Network interface up.
+Mar 04 10:59:56 LNX-APP-002 cron: Device attached.
+Mar 10 13:21:13 LNX-WEB-001 cron: New session of user.
+Mar 16 14:28:35 LNX-DEV-001 systemd: Removed session.
+Mar 04 13:07:35 LNX-LOG-001 rsyslog: Started Session.
+Mar 02 12:37:58 LNX-WEB-001 kernel: Network interface up.
+Mar 08 11:46:48 LNX-DEV-001 rsyslog: Removed session.
+Mar 19 13:00:17 LNX-APP-002 cron: Removed session.
+Mar 11 13:09:13 LNX-WEB-001 NetworkManager: New session of user.
+Mar 25 17:39:21 LNX-DB-001 systemd: New session of user.
+Mar 09 14:57:23 LNX-DB-001 NetworkManager: Removed session.
+Mar 18 08:32:26 LNX-DB-001 rsyslog: Network interface up.
+Mar 03 13:40:21 LNX-DB-001 cron: Network interface up.
+Mar 15 10:58:30 LNX-WEB-002 cron: Removed session.
+Mar 12 10:04:04 LNX-DEV-001 cron: New session of user.
+Mar 08 12:44:23 LNX-DB-001 cron: Network interface up.
+Mar 05 10:41:17 LNX-DB-001 cron: Started Session.
+Mar 11 16:24:44 LNX-BACKUP-001 kernel: Network interface up.
+Mar 07 12:02:34 LNX-DEV-001 systemd: Network interface up.
+Mar 13 08:35:13 LNX-FILE-001 rsyslog: New session of user.
+Mar 08 16:35:52 LNX-DB-002 cron: Network interface up.
+Mar 05 15:05:03 LNX-DEV-001 rsyslog: Removed session.
+Mar 05 13:01:15 LNX-DEV-001 cron: Device attached.
+Mar 05 09:53:00 LNX-DB-002 NetworkManager: New session of user.
+Mar 03 15:30:28 LNX-BACKUP-001 systemd: New session of user.
+Mar 01 08:54:11 LNX-APP-002 cron: New session of user.
+Mar 29 15:45:13 LNX-FILE-001 kernel: Network interface up.
+Mar 04 12:21:46 LNX-APP-001 cron: Device attached.
+Mar 14 13:43:20 LNX-DB-001 rsyslog: Started Session.
+Mar 17 09:02:03 LNX-DB-002 NetworkManager: Network interface up.
+Mar 15 14:21:41 LNX-APP-001 rsyslog: Started Session.
+Mar 07 10:58:32 LNX-APP-002 NetworkManager: Started Session.
+Mar 14 14:04:37 LNX-DEV-001 rsyslog: Network interface up.
+Mar 27 11:55:43 LNX-WEB-001 NetworkManager: Device attached.
+Mar 18 10:27:34 LNX-APP-001 systemd: Device attached.
+Mar 28 17:02:47 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 04 16:31:56 LNX-DEV-001 rsyslog: Removed session.
+Mar 15 11:51:21 LNX-WEB-002 systemd: Network interface up.
+Mar 02 12:21:13 LNX-LOG-001 cron: Started Session.
+Mar 18 11:43:21 LNX-DB-001 rsyslog: Device attached.
+Mar 23 14:59:34 LNX-FILE-001 cron: Started Session.
+Mar 09 17:13:57 LNX-DB-001 cron: Network interface up.
+Mar 16 16:11:38 LNX-APP-001 kernel: Network interface up.
+Mar 07 10:13:24 LNX-APP-001 systemd: Started Session.
+Mar 25 17:19:58 LNX-DB-001 systemd: New session of user.
+Mar 01 09:45:07 LNX-DB-001 cron: Removed session.
+Mar 15 12:40:07 LNX-WEB-001 NetworkManager: Started Session.
+Mar 21 11:23:21 LNX-WEB-002 kernel: Started Session.
+Mar 08 12:55:20 LNX-APP-001 kernel: New session of user.
+Mar 22 15:33:15 LNX-FILE-001 systemd: New session of user.
+Mar 12 09:24:58 LNX-DB-001 NetworkManager: Started Session.
+Mar 07 16:55:43 LNX-FILE-001 rsyslog: New session of user.
+Mar 24 15:11:37 LNX-WEB-002 rsyslog: Network interface up.
+Mar 18 16:01:34 LNX-APP-002 systemd: New session of user.
+Mar 08 14:26:26 LNX-BACKUP-001 systemd: Network interface up.
+Mar 18 16:38:57 LNX-DB-002 NetworkManager: Started Session.
+Mar 16 12:53:47 LNX-DB-002 rsyslog: New session of user.
+Mar 18 14:50:32 LNX-DEV-001 kernel: New session of user.
+Mar 09 14:27:08 LNX-DB-001 rsyslog: Network interface up.
+Mar 01 11:41:06 LNX-FILE-001 cron: Device attached.
+Mar 05 16:24:38 LNX-LOG-001 rsyslog: Started Session.
+Mar 24 12:22:54 LNX-LOG-001 NetworkManager: Device attached.
+Mar 13 09:18:23 LNX-FILE-001 kernel: Device attached.
+Mar 15 13:54:42 LNX-FILE-001 kernel: Network interface up.
+Mar 28 17:46:25 LNX-DB-001 systemd: Removed session.
+Mar 29 13:15:41 LNX-WEB-002 kernel: Network interface up.
+Mar 18 15:57:19 LNX-BACKUP-001 kernel: Removed session.
+Mar 29 13:14:07 LNX-APP-001 rsyslog: Network interface up.
+Mar 14 15:16:29 LNX-BACKUP-001 kernel: Started Session.
+Mar 28 13:28:52 LNX-LOG-001 rsyslog: New session of user.
+Mar 28 11:24:02 LNX-FILE-001 systemd: New session of user.
+Mar 23 10:16:36 LNX-DB-002 rsyslog: New session of user.
+Mar 04 11:55:04 LNX-DEV-001 NetworkManager: Removed session.
+Mar 21 15:52:20 LNX-BACKUP-001 systemd: New session of user.
+Mar 19 08:41:26 LNX-APP-001 systemd: Removed session.
+Mar 26 13:32:48 LNX-APP-002 systemd: Started Session.
+Mar 19 11:28:09 LNX-LOG-001 systemd: New session of user.
+Mar 22 13:56:53 LNX-DEV-001 cron: Network interface up.
+Mar 06 17:29:03 LNX-APP-001 rsyslog: New session of user.
+Mar 11 17:29:37 LNX-DB-001 kernel: New session of user.
+Mar 26 12:02:28 LNX-WEB-002 NetworkManager: Started Session.
+Mar 09 08:28:02 LNX-APP-001 cron: New session of user.
+Mar 13 11:56:00 LNX-WEB-002 kernel: Device attached.
+Mar 12 09:34:25 LNX-WEB-001 rsyslog: New session of user.
+Mar 06 10:20:41 LNX-DB-002 kernel: Device attached.
+Mar 03 14:59:33 LNX-APP-001 systemd: Removed session.
+Mar 08 08:48:57 LNX-FILE-001 NetworkManager: Device attached.
+Mar 04 08:34:47 LNX-LOG-001 cron: Started Session.
+Mar 16 14:24:05 LNX-DEV-001 rsyslog: New session of user.
+Mar 18 14:24:11 LNX-BACKUP-001 kernel: New session of user.
+Mar 19 14:01:17 LNX-WEB-001 kernel: Network interface up.
+Mar 15 16:46:12 LNX-FILE-001 kernel: Started Session.
+Mar 08 10:40:57 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 02 17:22:33 LNX-DB-001 rsyslog: New session of user.
+Mar 10 16:35:37 LNX-DEV-001 rsyslog: Device attached.
+Mar 24 13:12:23 LNX-APP-001 cron: New session of user.
+Mar 29 12:06:03 LNX-DB-001 NetworkManager: Device attached.
+Mar 19 13:01:39 LNX-DB-002 rsyslog: New session of user.
+Mar 04 10:23:36 LNX-WEB-002 rsyslog: New session of user.
+Mar 30 16:57:08 LNX-BACKUP-001 kernel: New session of user.
+Mar 21 10:13:52 LNX-DB-002 kernel: Network interface up.
+Mar 14 14:10:00 LNX-BACKUP-001 systemd: Started Session.
+Mar 04 17:47:10 LNX-APP-002 NetworkManager: Network interface up.
+Mar 14 09:03:59 LNX-DB-001 kernel: Removed session.
+Mar 11 12:48:36 LNX-LOG-001 kernel: Network interface up.
+Mar 21 08:03:50 LNX-DB-001 rsyslog: New session of user.
+Mar 25 15:32:49 LNX-APP-001 NetworkManager: Network interface up.
+Mar 10 14:30:16 LNX-LOG-001 cron: Started Session.
+Mar 04 12:48:10 LNX-WEB-002 kernel: Removed session.
+Mar 17 17:47:00 LNX-LOG-001 systemd: Network interface up.
+Mar 07 11:09:45 LNX-DEV-001 systemd: Removed session.
+Mar 15 16:40:56 LNX-LOG-001 cron: New session of user.
+Mar 27 10:28:34 LNX-DEV-001 kernel: Network interface up.
+Mar 03 13:04:49 LNX-WEB-002 systemd: New session of user.
+Mar 01 12:38:10 LNX-WEB-002 kernel: Network interface up.
+Mar 22 12:49:34 LNX-APP-002 cron: New session of user.
+Mar 28 09:32:01 LNX-LOG-001 systemd: Started Session.
+Mar 16 11:44:01 LNX-WEB-001 kernel: Removed session.
+Mar 07 12:05:46 LNX-APP-001 systemd: Device attached.
+Mar 10 17:48:05 LNX-APP-001 rsyslog: Started Session.
+Mar 16 12:51:51 LNX-BACKUP-001 kernel: Network interface up.
+Mar 20 11:54:02 LNX-FILE-001 NetworkManager: Started Session.
+Mar 03 14:35:41 LNX-DB-002 rsyslog: Network interface up.
+Mar 25 12:52:16 LNX-FILE-001 cron: Network interface up.
+Mar 03 08:16:10 LNX-DB-002 kernel: Removed session.
+Mar 03 16:35:26 LNX-DB-002 systemd: Removed session.
+Mar 22 08:59:46 LNX-WEB-001 cron: Device attached.
+Mar 12 13:22:02 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 22 09:15:07 LNX-DEV-001 rsyslog: Started Session.
+Mar 13 14:58:45 LNX-APP-001 systemd: Removed session.
+Mar 28 08:02:39 LNX-BACKUP-001 cron: Network interface up.
+Mar 10 12:49:05 LNX-DB-002 rsyslog: Removed session.
+Mar 20 10:31:54 LNX-WEB-001 systemd: New session of user.
+Mar 18 14:01:11 LNX-APP-001 rsyslog: New session of user.
+Mar 21 10:19:34 LNX-WEB-002 kernel: Started Session.
+Mar 26 09:58:14 LNX-WEB-002 cron: Removed session.
+Mar 13 08:29:29 LNX-BACKUP-001 systemd: New session of user.
+Mar 04 11:58:42 LNX-DB-001 systemd: Device attached.
+Mar 11 13:08:16 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 28 09:29:22 LNX-LOG-001 kernel: Device attached.
+Mar 15 13:37:26 LNX-FILE-001 cron: Device attached.
+Mar 28 09:21:51 LNX-LOG-001 cron: Started Session.
+Mar 25 12:44:03 LNX-DEV-001 rsyslog: Removed session.
+Mar 22 12:12:41 LNX-WEB-001 rsyslog: Network interface up.
+Mar 25 14:01:19 LNX-DB-002 kernel: Removed session.
+Mar 24 11:01:39 LNX-DB-001 systemd: Removed session.
+Mar 29 10:34:16 LNX-WEB-001 NetworkManager: Removed session.
+Mar 25 10:38:14 LNX-WEB-001 rsyslog: Removed session.
+Mar 30 09:32:25 LNX-FILE-001 kernel: Network interface up.
+Mar 22 15:06:58 LNX-DB-001 cron: Removed session.
+Mar 13 14:54:21 LNX-DB-002 kernel: Started Session.
+Mar 29 15:35:48 LNX-WEB-002 cron: Removed session.
+Mar 07 14:59:24 LNX-BACKUP-001 kernel: Started Session.
+Mar 25 14:50:48 LNX-WEB-002 cron: Network interface up.
+Mar 02 14:22:17 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 01 11:54:40 LNX-WEB-001 kernel: New session of user.
+Mar 21 14:05:37 LNX-WEB-001 kernel: Removed session.
+Mar 09 14:19:46 LNX-WEB-001 cron: Started Session.
+Mar 25 17:56:08 LNX-DB-002 systemd: Device attached.
+Mar 07 10:07:06 LNX-APP-002 cron: Device attached.
+Mar 01 11:55:10 LNX-WEB-001 kernel: Started Session.
+Mar 20 14:34:42 LNX-WEB-001 kernel: Removed session.
+Mar 30 10:47:27 LNX-DB-001 rsyslog: Network interface up.
+Mar 21 13:39:49 LNX-APP-002 systemd: Removed session.
+Mar 03 13:24:05 LNX-FILE-001 rsyslog: Started Session.
+Mar 08 10:18:56 LNX-DB-001 NetworkManager: Device attached.
+Mar 06 16:22:11 LNX-DEV-001 rsyslog: Network interface up.
+Mar 13 17:10:25 LNX-LOG-001 systemd: Removed session.
+Mar 10 15:39:35 LNX-LOG-001 systemd: Removed session.
+Mar 15 10:34:34 LNX-DB-001 NetworkManager: Network interface up.
+Mar 17 15:18:48 LNX-WEB-001 cron: Device attached.
+Mar 30 10:39:58 LNX-FILE-001 systemd: New session of user.
+Mar 27 10:55:03 LNX-WEB-002 NetworkManager: Device attached.
+Mar 19 13:25:05 LNX-LOG-001 kernel: Device attached.
+Mar 12 10:36:42 LNX-DB-001 kernel: Device attached.
+Mar 24 11:49:17 LNX-WEB-002 cron: Started Session.
+Mar 22 10:11:56 LNX-DB-002 NetworkManager: Device attached.
+Mar 27 11:18:32 LNX-DEV-001 kernel: Network interface up.
+Mar 30 08:46:26 LNX-LOG-001 systemd: Device attached.
+Mar 01 11:37:41 LNX-DEV-001 cron: New session of user.
+Mar 03 08:42:34 LNX-APP-001 systemd: Removed session.
+Mar 20 15:44:27 LNX-WEB-001 systemd: New session of user.
+Mar 25 16:46:01 LNX-FILE-001 rsyslog: Network interface up.
+Mar 07 11:34:14 LNX-DB-002 kernel: New session of user.
+Mar 02 09:28:50 LNX-DEV-001 rsyslog: Network interface up.
+Mar 06 14:30:54 LNX-APP-001 cron: Network interface up.
+Mar 06 08:45:52 LNX-DB-001 NetworkManager: New session of user.
+Mar 29 10:53:16 LNX-LOG-001 rsyslog: Device attached.
+Mar 07 08:17:44 LNX-APP-001 rsyslog: Device attached.
+Mar 11 11:54:14 LNX-WEB-001 kernel: Removed session.
+Mar 05 14:16:13 LNX-WEB-001 kernel: New session of user.
+Mar 23 12:13:12 LNX-LOG-001 systemd: Started Session.
+Mar 06 11:44:00 LNX-DEV-001 kernel: Started Session.
+Mar 03 14:35:34 LNX-DB-001 systemd: Removed session.
+Mar 27 10:51:53 LNX-WEB-002 kernel: Device attached.
+Mar 17 08:50:13 LNX-DB-002 systemd: Started Session.
+Mar 16 13:55:59 LNX-APP-002 rsyslog: New session of user.
+Mar 29 11:11:50 LNX-WEB-001 systemd: Network interface up.
+Mar 12 14:31:11 LNX-APP-001 cron: Started Session.
+Mar 12 15:39:43 LNX-WEB-001 cron: Device attached.
+Mar 02 15:09:21 LNX-APP-001 systemd: Started Session.
+Mar 16 16:41:25 LNX-DB-002 cron: Started Session.
+Mar 30 11:22:13 LNX-APP-002 rsyslog: Started Session.
+Mar 02 15:29:04 LNX-APP-002 kernel: Device attached.
+Mar 21 17:56:04 LNX-DB-002 systemd: Network interface up.
+Mar 17 09:20:29 LNX-DB-002 rsyslog: Removed session.
+Mar 11 08:07:52 LNX-APP-001 kernel: New session of user.
+Mar 11 10:51:58 LNX-APP-002 kernel: Started Session.
+Mar 08 11:23:46 LNX-DB-002 systemd: Device attached.
+Mar 26 15:02:24 LNX-DB-001 NetworkManager: Started Session.
+Mar 14 09:31:35 LNX-LOG-001 cron: Network interface up.
+Mar 07 15:12:57 LNX-DB-001 systemd: Started Session.
+Mar 30 14:26:39 LNX-FILE-001 cron: Removed session.
+Mar 23 11:37:29 LNX-FILE-001 NetworkManager: Device attached.
+Mar 20 10:24:08 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 16 11:42:32 LNX-FILE-001 kernel: Network interface up.
+Mar 27 10:08:31 LNX-WEB-002 kernel: Device attached.
+Mar 19 15:40:50 LNX-WEB-001 systemd: Network interface up.
+Mar 14 13:10:28 LNX-LOG-001 kernel: Network interface up.
+Mar 23 16:04:04 LNX-LOG-001 rsyslog: Network interface up.
+Mar 03 13:57:27 LNX-DB-002 rsyslog: Network interface up.
+Mar 23 14:59:17 LNX-DB-002 systemd: Started Session.
+Mar 10 12:47:43 LNX-DB-002 cron: Network interface up.
+Mar 07 16:27:51 LNX-WEB-001 NetworkManager: New session of user.
+Mar 17 10:51:07 LNX-LOG-001 cron: Device attached.
+Mar 26 10:41:12 LNX-FILE-001 systemd: Network interface up.
+Mar 15 13:39:45 LNX-WEB-001 kernel: Removed session.
+Mar 24 13:17:33 LNX-DB-001 rsyslog: Device attached.
+Mar 14 17:49:43 LNX-WEB-001 systemd: Network interface up.
+Mar 27 10:00:34 LNX-APP-002 rsyslog: Network interface up.
+Mar 05 13:13:42 LNX-FILE-001 kernel: Network interface up.
+Mar 08 12:28:34 LNX-WEB-001 systemd: Network interface up.
+Mar 09 14:48:39 LNX-WEB-001 systemd: Removed session.
+Mar 15 12:46:00 LNX-DEV-001 systemd: Started Session.
+Mar 28 13:27:25 LNX-FILE-001 kernel: Network interface up.
+Mar 06 16:25:51 LNX-WEB-002 rsyslog: Network interface up.
+Mar 03 14:15:23 LNX-DEV-001 NetworkManager: Removed session.
+Mar 21 13:19:45 LNX-DB-001 kernel: Network interface up.
+Mar 03 14:23:26 LNX-FILE-001 cron: Device attached.
+Mar 27 15:26:23 LNX-WEB-001 kernel: Started Session.
+Mar 12 09:35:30 LNX-BACKUP-001 cron: Started Session.
+Mar 03 14:24:29 LNX-APP-002 rsyslog: Removed session.
+Mar 02 12:43:44 LNX-DB-002 rsyslog: Network interface up.
+Mar 28 08:06:01 LNX-DB-002 NetworkManager: New session of user.
+Mar 26 13:55:55 LNX-WEB-002 rsyslog: Removed session.
+Mar 19 14:47:17 LNX-DEV-001 systemd: Removed session.
+Mar 13 13:26:47 LNX-DEV-001 systemd: Started Session.
+Mar 10 10:24:53 LNX-WEB-002 cron: Started Session.
+Mar 07 16:52:57 LNX-DB-002 cron: Network interface up.
+Mar 22 09:19:24 LNX-BACKUP-001 systemd: Started Session.
+Mar 09 10:22:46 LNX-DB-002 systemd: Network interface up.
+Mar 29 09:38:07 LNX-APP-001 systemd: Device attached.
+Mar 05 08:29:04 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 02 13:03:40 LNX-WEB-001 systemd: Removed session.
+Mar 21 12:44:18 LNX-APP-002 cron: Network interface up.
+Mar 03 09:19:21 LNX-APP-002 NetworkManager: Started Session.
+Mar 09 11:46:09 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 25 15:30:02 LNX-FILE-001 kernel: Network interface up.
+Mar 15 14:09:57 LNX-DB-002 cron: Device attached.
+Mar 29 12:35:39 LNX-APP-001 cron: Network interface up.
+Mar 15 16:00:59 LNX-DB-001 rsyslog: Network interface up.
+Mar 19 17:55:02 LNX-DB-001 systemd: Started Session.
+Mar 16 17:12:35 LNX-DEV-001 NetworkManager: Started Session.
+Mar 04 16:55:25 LNX-DB-002 NetworkManager: New session of user.
+Mar 25 16:52:00 LNX-FILE-001 kernel: Device attached.
+Mar 23 09:58:11 LNX-DB-001 cron: Started Session.
+Mar 22 14:16:18 LNX-BACKUP-001 kernel: Removed session.
+Mar 22 15:46:36 LNX-DB-001 NetworkManager: Started Session.
+Mar 18 17:45:58 LNX-WEB-002 systemd: Removed session.
+Mar 10 15:55:10 LNX-WEB-002 rsyslog: Device attached.
+Mar 04 10:02:53 LNX-DB-002 rsyslog: Device attached.
+Mar 17 15:57:38 LNX-DB-001 kernel: New session of user.
+Mar 15 13:58:16 LNX-DB-002 kernel: Device attached.
+Mar 19 08:33:49 LNX-LOG-001 NetworkManager: New session of user.
+Mar 07 10:12:12 LNX-DEV-001 rsyslog: Started Session.
+Mar 11 15:28:11 LNX-APP-002 NetworkManager: Device attached.
+Mar 04 11:13:11 LNX-DB-002 rsyslog: Started Session.
+Mar 07 09:08:41 LNX-FILE-001 cron: New session of user.
+Mar 02 10:13:27 LNX-DB-002 systemd: New session of user.
+Mar 10 08:01:04 LNX-DEV-001 cron: New session of user.
+Mar 29 14:44:38 LNX-FILE-001 NetworkManager: Removed session.
+Mar 19 13:44:59 LNX-APP-001 rsyslog: Network interface up.
+Mar 18 10:22:24 LNX-DB-002 kernel: Network interface up.
+Mar 08 08:41:10 LNX-WEB-002 rsyslog: New session of user.
+Mar 09 12:41:20 LNX-WEB-002 systemd: Removed session.
+Mar 15 08:33:58 LNX-DEV-001 kernel: Started Session.
+Mar 13 15:27:55 LNX-WEB-002 cron: Removed session.
+Mar 30 17:21:05 LNX-WEB-002 rsyslog: Removed session.
+Mar 30 13:11:34 LNX-FILE-001 kernel: New session of user.
+Mar 10 16:44:06 LNX-DB-002 rsyslog: Removed session.
+Mar 21 08:33:27 LNX-LOG-001 systemd: Network interface up.
+Mar 13 10:42:24 LNX-BACKUP-001 kernel: Network interface up.
+Mar 04 10:19:55 LNX-APP-002 rsyslog: New session of user.
+Mar 07 14:41:48 LNX-WEB-002 NetworkManager: Removed session.
+Mar 18 10:01:57 LNX-DEV-001 systemd: Network interface up.
+Mar 02 12:26:18 LNX-DB-001 systemd: Network interface up.
+Mar 16 16:47:35 LNX-LOG-001 cron: Device attached.
+Mar 07 14:23:20 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 27 16:28:32 LNX-APP-002 NetworkManager: Started Session.
+Mar 11 14:01:33 LNX-APP-001 cron: Removed session.
+Mar 01 17:40:27 LNX-WEB-001 kernel: New session of user.
+Mar 05 16:09:53 LNX-APP-001 systemd: Network interface up.
+Mar 20 08:26:11 LNX-WEB-001 NetworkManager: New session of user.
+Mar 12 17:31:15 LNX-APP-001 kernel: Started Session.
+Mar 13 12:35:25 LNX-DB-001 systemd: New session of user.
+Mar 10 14:45:42 LNX-LOG-001 systemd: Started Session.
+Mar 01 13:15:39 LNX-APP-002 systemd: Network interface up.
+Mar 19 17:14:40 LNX-WEB-002 kernel: Removed session.
+Mar 15 13:42:44 LNX-FILE-001 systemd: Removed session.
+Mar 22 11:14:12 LNX-DB-002 rsyslog: Network interface up.
+Mar 16 14:15:39 LNX-LOG-001 cron: Removed session.
+Mar 14 12:54:36 LNX-FILE-001 NetworkManager: Device attached.
+Mar 17 16:41:57 LNX-WEB-002 NetworkManager: Device attached.
+Mar 02 11:09:41 LNX-DB-001 cron: Device attached.
+Mar 13 14:16:52 LNX-BACKUP-001 NetworkManager: Removed session.
+Mar 28 11:02:57 LNX-DB-001 systemd: New session of user.
+Mar 23 16:39:41 LNX-DB-002 rsyslog: Started Session.
+Mar 26 17:58:23 LNX-APP-002 kernel: Network interface up.
+Mar 04 15:58:07 LNX-DEV-001 systemd: Started Session.
+Mar 01 08:47:51 LNX-DB-001 kernel: Network interface up.
+Mar 03 09:43:39 LNX-FILE-001 rsyslog: Removed session.
+Mar 10 15:50:37 LNX-DB-001 cron: Removed session.
+Mar 25 13:16:13 LNX-WEB-002 systemd: Removed session.
+Mar 26 16:36:08 LNX-BACKUP-001 kernel: Network interface up.
+Mar 24 09:15:35 LNX-WEB-002 NetworkManager: Device attached.
+Mar 26 08:07:45 LNX-DEV-001 NetworkManager: Started Session.
+Mar 02 09:40:12 LNX-APP-001 NetworkManager: New session of user.
+Mar 02 12:50:44 LNX-FILE-001 kernel: Started Session.
+Mar 08 11:38:30 LNX-LOG-001 systemd: Network interface up.
+Mar 26 12:20:10 LNX-APP-002 systemd: Device attached.
+Mar 27 11:15:32 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 08 13:22:52 LNX-APP-001 cron: Removed session.
+Mar 29 14:35:10 LNX-WEB-001 rsyslog: Device attached.
+Mar 12 13:39:41 LNX-DB-001 rsyslog: Network interface up.
+Mar 03 12:35:28 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 12 10:49:59 LNX-BACKUP-001 systemd: Removed session.
+Mar 17 12:20:57 LNX-APP-002 NetworkManager: Network interface up.
+Mar 21 12:51:50 LNX-BACKUP-001 systemd: New session of user.
+Mar 13 15:42:49 LNX-DB-001 cron: Started Session.
+Mar 03 09:28:06 LNX-WEB-001 kernel: Network interface up.
+Mar 13 09:32:28 LNX-DB-002 rsyslog: Started Session.
+Mar 28 12:57:44 LNX-DEV-001 kernel: Network interface up.
+Mar 14 14:19:50 LNX-DB-001 systemd: Removed session.
+Mar 13 15:44:22 LNX-DB-002 systemd: Started Session.
+Mar 21 13:39:19 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 13 15:45:10 LNX-DB-001 systemd: Removed session.
+Mar 28 08:32:28 LNX-DEV-001 systemd: Device attached.
+Mar 27 11:27:51 LNX-WEB-001 cron: New session of user.
+Mar 18 14:09:19 LNX-FILE-001 systemd: New session of user.
+Mar 02 15:38:45 LNX-APP-002 NetworkManager: Started Session.
+Mar 29 11:23:06 LNX-DB-001 NetworkManager: Removed session.
+Mar 29 09:43:27 LNX-APP-001 systemd: New session of user.
+Mar 18 13:28:37 LNX-WEB-002 kernel: Device attached.
+Mar 23 09:21:57 LNX-WEB-001 cron: Network interface up.
+Mar 18 16:50:20 LNX-WEB-001 kernel: Network interface up.
+Mar 23 15:22:49 LNX-APP-002 systemd: Started Session.
+Mar 13 11:13:06 LNX-DB-001 NetworkManager: Removed session.
+Mar 11 15:13:45 LNX-DB-002 kernel: Device attached.
+Mar 20 15:29:06 LNX-DB-002 systemd: Removed session.
+Mar 18 08:42:26 LNX-DB-002 cron: Started Session.
+Mar 09 14:30:44 LNX-WEB-001 rsyslog: Started Session.
+Mar 19 15:12:05 LNX-WEB-002 systemd: Network interface up.
+Mar 29 13:04:19 LNX-DB-002 rsyslog: Started Session.
+Mar 29 12:04:45 LNX-DB-002 kernel: Device attached.
+Mar 20 16:49:45 LNX-WEB-001 cron: Removed session.
+Mar 16 08:34:58 LNX-BACKUP-001 rsyslog: Device attached.
+Mar 09 12:56:19 LNX-DB-001 NetworkManager: Removed session.
+Mar 26 17:23:31 LNX-DB-002 NetworkManager: Started Session.
+Mar 25 12:31:13 LNX-WEB-002 NetworkManager: New session of user.
+Mar 28 13:19:00 LNX-LOG-001 NetworkManager: Device attached.
+Mar 20 16:10:17 LNX-WEB-002 cron: Network interface up.
+Mar 28 10:52:49 LNX-APP-002 rsyslog: Network interface up.
+Mar 22 13:27:15 LNX-APP-001 systemd: Device attached.
+Mar 25 12:43:16 LNX-WEB-001 kernel: New session of user.
+Mar 13 16:16:12 LNX-BACKUP-001 kernel: Started Session.
+Mar 21 09:07:30 LNX-DB-001 rsyslog: New session of user.
+Mar 25 10:48:05 LNX-APP-002 NetworkManager: Removed session.
+Mar 11 12:24:32 LNX-DB-002 cron: New session of user.
+Mar 04 16:27:50 LNX-WEB-001 rsyslog: Removed session.
+Mar 16 17:27:38 LNX-WEB-001 rsyslog: Removed session.
+Mar 11 12:15:37 LNX-DEV-001 rsyslog: Device attached.
+Mar 30 15:00:54 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 01 09:58:36 LNX-DB-001 NetworkManager: Network interface up.
+Mar 12 12:57:02 LNX-APP-001 kernel: Removed session.
+Mar 13 09:08:49 LNX-DB-002 kernel: Removed session.
+Mar 08 15:11:42 LNX-BACKUP-001 cron: Device attached.
+Mar 23 11:07:04 LNX-LOG-001 rsyslog: Device attached.
+Mar 14 16:56:36 LNX-DB-001 cron: Device attached.
+Mar 06 12:22:01 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 30 17:20:47 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 18 13:17:00 LNX-DEV-001 systemd: Started Session.
+Mar 26 16:30:33 LNX-APP-001 NetworkManager: Device attached.
+Mar 11 17:33:05 LNX-LOG-001 cron: Device attached.
+Mar 29 15:29:00 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 30 15:25:18 LNX-APP-001 systemd: Device attached.
+Mar 20 10:53:59 LNX-DEV-001 systemd: Removed session.
+Mar 27 16:13:01 LNX-WEB-001 systemd: Started Session.
+Mar 14 17:43:50 LNX-WEB-001 rsyslog: Removed session.
+Mar 19 11:04:19 LNX-WEB-002 kernel: Started Session.
+Mar 01 14:17:10 LNX-BACKUP-001 NetworkManager: New session of user.
+Mar 05 11:05:30 LNX-WEB-002 cron: Removed session.
+Mar 08 08:14:25 LNX-WEB-002 cron: New session of user.
+Mar 19 14:45:40 LNX-APP-002 rsyslog: Removed session.
+Mar 14 17:29:46 LNX-DEV-001 cron: Network interface up.
+Mar 08 10:47:46 LNX-APP-001 rsyslog: Device attached.
+Mar 15 14:12:20 LNX-DB-001 rsyslog: Started Session.
+Mar 05 09:22:09 LNX-APP-002 NetworkManager: New session of user.
+Mar 15 12:40:55 LNX-DEV-001 cron: Network interface up.
+Mar 14 17:27:04 LNX-LOG-001 cron: Removed session.
+Mar 01 11:04:57 LNX-DEV-001 systemd: Removed session.
+Mar 14 11:42:31 LNX-DB-002 NetworkManager: New session of user.
+Mar 07 08:30:59 LNX-FILE-001 cron: Device attached.
+Mar 22 10:23:41 LNX-BACKUP-001 kernel: New session of user.
+Mar 12 13:45:18 LNX-WEB-001 cron: Started Session.
+Mar 01 10:12:00 LNX-DEV-001 kernel: New session of user.
+Mar 13 16:37:32 LNX-LOG-001 systemd: New session of user.
+Mar 13 09:05:36 LNX-DB-001 kernel: Network interface up.
+Mar 05 12:51:58 LNX-APP-001 NetworkManager: Removed session.
+Mar 28 09:11:36 LNX-APP-001 rsyslog: Started Session.
+Mar 13 13:53:37 LNX-APP-001 kernel: New session of user.
+Mar 20 09:22:12 LNX-WEB-001 cron: Device attached.
+Mar 19 15:57:24 LNX-APP-002 NetworkManager: Removed session.
+Mar 03 09:26:19 LNX-APP-001 NetworkManager: New session of user.
+Mar 04 11:52:34 LNX-BACKUP-001 kernel: Device attached.
+Mar 14 14:47:53 LNX-DB-002 cron: New session of user.
+Mar 12 08:21:56 LNX-FILE-001 NetworkManager: Device attached.
+Mar 06 15:27:32 LNX-DB-001 rsyslog: Started Session.
+Mar 04 12:21:27 LNX-APP-002 NetworkManager: Network interface up.
+Mar 05 10:16:03 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 28 16:19:03 LNX-APP-002 cron: Device attached.
+Mar 23 17:41:59 LNX-DB-001 kernel: Device attached.
+Mar 15 16:40:08 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 29 17:49:45 LNX-WEB-001 rsyslog: Removed session.
+Mar 19 08:40:38 LNX-APP-002 NetworkManager: Removed session.
+Mar 15 13:16:59 LNX-DEV-001 rsyslog: Removed session.
+Mar 10 11:59:09 LNX-LOG-001 NetworkManager: Device attached.
+Mar 28 13:55:41 LNX-DEV-001 kernel: New session of user.
+Mar 30 10:02:13 LNX-DEV-001 kernel: Device attached.
+Mar 03 11:29:40 LNX-FILE-001 systemd: Network interface up.
+Mar 06 13:50:32 LNX-WEB-002 kernel: New session of user.
+Mar 22 08:09:31 LNX-APP-002 NetworkManager: Started Session.
+Mar 08 08:38:32 LNX-DEV-001 rsyslog: Device attached.
+Mar 15 14:52:30 LNX-WEB-002 rsyslog: Network interface up.
+Mar 19 13:51:04 LNX-APP-002 cron: New session of user.
+Mar 26 09:30:54 LNX-APP-001 kernel: Network interface up.
+Mar 04 17:19:16 LNX-WEB-002 kernel: Network interface up.
+Mar 02 12:31:42 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 03 13:59:27 LNX-FILE-001 rsyslog: Removed session.
+Mar 25 12:51:49 LNX-DB-001 kernel: New session of user.
+Mar 30 15:31:52 LNX-WEB-001 kernel: Removed session.
+Mar 24 13:53:07 LNX-DB-002 cron: New session of user.
+Mar 24 12:20:36 LNX-FILE-001 systemd: New session of user.
+Mar 02 11:03:15 LNX-LOG-001 systemd: Device attached.
+Mar 15 17:40:25 LNX-LOG-001 kernel: Device attached.
+Mar 01 16:22:08 LNX-APP-001 NetworkManager: Network interface up.
+Mar 12 08:22:46 LNX-DEV-001 systemd: New session of user.
+Mar 23 15:30:51 LNX-LOG-001 systemd: New session of user.
+Mar 27 15:31:13 LNX-DB-001 cron: New session of user.
+Mar 02 14:12:19 LNX-LOG-001 cron: New session of user.
+Mar 16 09:47:29 LNX-DB-001 cron: Network interface up.
+Mar 27 09:21:26 LNX-LOG-001 cron: New session of user.
+Mar 21 17:32:08 LNX-FILE-001 systemd: Removed session.
+Mar 21 11:02:01 LNX-DEV-001 cron: Removed session.
+Mar 30 12:26:02 LNX-APP-002 rsyslog: Network interface up.
+Mar 12 11:07:08 LNX-BACKUP-001 cron: New session of user.
+Mar 12 15:05:16 LNX-LOG-001 systemd: New session of user.
+Mar 11 16:57:26 LNX-DB-002 rsyslog: Removed session.
+Mar 26 08:16:43 LNX-DB-001 cron: New session of user.
+Mar 14 13:49:02 LNX-APP-001 systemd: Network interface up.
+Mar 20 10:05:49 LNX-APP-002 kernel: Network interface up.
+Mar 17 13:42:56 LNX-LOG-001 kernel: Device attached.
+Mar 02 16:02:18 LNX-BACKUP-001 kernel: New session of user.
+Mar 08 14:51:57 LNX-APP-001 NetworkManager: Device attached.
+Mar 28 11:23:27 LNX-FILE-001 NetworkManager: New session of user.
+Mar 18 13:41:19 LNX-WEB-001 rsyslog: New session of user.
+Mar 02 17:39:41 LNX-DB-001 systemd: Network interface up.
+Mar 21 09:25:43 LNX-LOG-001 cron: Network interface up.
+Mar 05 09:58:18 LNX-BACKUP-001 kernel: Device attached.
+Mar 28 08:11:12 LNX-FILE-001 NetworkManager: Removed session.
+Mar 19 08:40:39 LNX-WEB-002 cron: New session of user.
+Mar 27 09:21:05 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 29 11:03:47 LNX-WEB-002 cron: Network interface up.
+Mar 14 09:21:40 LNX-DB-001 systemd: New session of user.
+Mar 20 17:59:28 LNX-DEV-001 rsyslog: Started Session.
+Mar 16 08:05:05 LNX-DEV-001 systemd: New session of user.
+Mar 23 09:57:14 LNX-DB-001 NetworkManager: New session of user.
+Mar 10 17:31:41 LNX-WEB-001 NetworkManager: Device attached.
+Mar 04 14:55:23 LNX-DB-002 kernel: Removed session.
+Mar 17 16:06:26 LNX-APP-002 NetworkManager: Network interface up.
+Mar 27 08:23:45 LNX-APP-001 cron: New session of user.
+Mar 11 14:33:29 LNX-APP-002 systemd: Started Session.
+Mar 09 08:38:22 LNX-WEB-001 rsyslog: Network interface up.
+Mar 15 12:10:25 LNX-APP-001 cron: Device attached.
+Mar 10 16:32:16 LNX-APP-002 cron: New session of user.
+Mar 29 08:26:09 LNX-WEB-001 kernel: Removed session.
+Mar 03 15:52:06 LNX-APP-001 rsyslog: Network interface up.
+Mar 08 11:11:36 LNX-LOG-001 systemd: New session of user.
+Mar 05 17:26:09 LNX-DEV-001 kernel: New session of user.
+Mar 14 09:40:43 LNX-WEB-002 NetworkManager: Device attached.
+Mar 06 10:49:47 LNX-WEB-002 NetworkManager: Removed session.
+Mar 23 14:56:50 LNX-APP-002 cron: Device attached.
+Mar 22 17:31:09 LNX-DEV-001 cron: Started Session.
+Mar 13 13:42:26 LNX-DB-001 rsyslog: New session of user.
+Mar 04 16:43:46 LNX-APP-002 rsyslog: Started Session.
+Mar 03 11:54:11 LNX-FILE-001 kernel: Network interface up.
+Mar 06 10:13:20 LNX-LOG-001 cron: Network interface up.
+Mar 29 13:56:19 LNX-APP-001 systemd: Removed session.
+Mar 01 12:48:45 LNX-DB-001 cron: New session of user.
+Mar 11 08:52:24 LNX-DB-001 NetworkManager: Device attached.
+Mar 09 17:20:53 LNX-DB-001 systemd: Device attached.
+Mar 27 14:51:23 LNX-WEB-001 systemd: Device attached.
+Mar 06 08:34:27 LNX-WEB-001 rsyslog: Network interface up.
+Mar 13 16:03:44 LNX-LOG-001 cron: Started Session.
+Mar 11 14:15:23 LNX-DB-001 kernel: Network interface up.
+Mar 07 12:26:45 LNX-APP-001 systemd: Removed session.
+Mar 25 16:09:25 LNX-APP-002 rsyslog: Network interface up.
+Mar 22 14:30:13 LNX-APP-002 cron: Device attached.
+Mar 08 14:07:14 LNX-APP-002 rsyslog: Device attached.
+Mar 13 15:30:39 LNX-LOG-001 rsyslog: Started Session.
+Mar 17 14:20:23 LNX-WEB-002 systemd: Network interface up.
+Mar 26 17:40:35 LNX-APP-002 cron: Device attached.
+Mar 27 10:30:17 LNX-FILE-001 NetworkManager: Removed session.
+Mar 24 14:54:54 LNX-BACKUP-001 kernel: Removed session.
+Mar 11 08:09:27 LNX-DB-002 NetworkManager: Started Session.
+Mar 30 12:35:23 LNX-APP-001 systemd: Network interface up.
+Mar 22 09:24:29 LNX-APP-002 rsyslog: Removed session.
+Mar 07 15:16:44 LNX-WEB-002 rsyslog: Removed session.
+Mar 28 15:51:21 LNX-LOG-001 systemd: New session of user.
+Mar 04 16:13:23 LNX-LOG-001 kernel: Removed session.
+Mar 20 13:35:34 LNX-LOG-001 rsyslog: Started Session.
+Mar 12 16:30:58 LNX-DB-002 rsyslog: Device attached.
+Mar 25 11:37:50 LNX-LOG-001 systemd: Network interface up.
+Mar 05 15:05:06 LNX-LOG-001 kernel: Network interface up.
+Mar 27 08:21:11 LNX-DEV-001 kernel: Removed session.
+Mar 27 12:22:44 LNX-FILE-001 systemd: Removed session.
+Mar 09 10:22:45 LNX-FILE-001 kernel: Started Session.
+Mar 30 14:58:48 LNX-WEB-001 cron: Network interface up.
+Mar 23 16:38:48 LNX-APP-002 rsyslog: Network interface up.
+Mar 16 14:34:46 LNX-APP-002 kernel: Started Session.
+Mar 29 12:29:19 LNX-FILE-001 kernel: New session of user.
+Mar 13 16:50:36 LNX-APP-001 rsyslog: Network interface up.
+Mar 02 10:32:06 LNX-FILE-001 NetworkManager: Started Session.
+Mar 27 08:23:50 LNX-APP-002 rsyslog: Device attached.
+Mar 28 12:11:22 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 02 16:15:38 LNX-FILE-001 kernel: Network interface up.
+Mar 08 17:25:58 LNX-DB-002 NetworkManager: Device attached.
+Mar 21 08:03:09 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 25 14:14:45 LNX-BACKUP-001 kernel: Network interface up.
+Mar 03 15:41:29 LNX-APP-002 kernel: Removed session.
+Mar 30 14:51:46 LNX-WEB-002 systemd: Started Session.
+Mar 07 12:29:42 LNX-DEV-001 rsyslog: Started Session.
+Mar 11 14:47:20 LNX-APP-001 cron: Network interface up.
+Mar 24 09:55:26 LNX-FILE-001 systemd: Started Session.
+Mar 03 11:49:33 LNX-WEB-002 systemd: Network interface up.
+Mar 25 11:40:43 LNX-DB-002 cron: Removed session.
+Mar 22 11:45:00 LNX-APP-001 systemd: New session of user.
+Mar 09 10:04:11 LNX-LOG-001 systemd: Removed session.
+Mar 29 16:26:29 LNX-APP-001 systemd: Device attached.
+Mar 27 08:04:04 LNX-WEB-001 kernel: New session of user.
+Mar 09 13:32:14 LNX-DB-001 systemd: Started Session.
+Mar 23 14:00:59 LNX-BACKUP-001 kernel: New session of user.
+Mar 14 11:26:20 LNX-APP-002 kernel: New session of user.
+Mar 15 16:41:56 LNX-DB-001 systemd: Device attached.
+Mar 10 16:49:30 LNX-LOG-001 rsyslog: Device attached.
+Mar 27 13:16:37 LNX-BACKUP-001 NetworkManager: New session of user.
+Mar 20 10:07:13 LNX-DEV-001 kernel: New session of user.
+Mar 05 10:16:59 LNX-DB-001 systemd: Removed session.
+Mar 16 13:44:03 LNX-DB-001 cron: Device attached.
+Mar 25 08:59:50 LNX-APP-001 NetworkManager: New session of user.
+Mar 14 08:50:41 LNX-LOG-001 systemd: New session of user.
+Mar 19 08:55:17 LNX-BACKUP-001 rsyslog: New session of user.
+Mar 23 09:19:40 LNX-DEV-001 kernel: Device attached.
+Mar 25 16:58:51 LNX-DB-001 rsyslog: Started Session.
+Mar 06 09:32:14 LNX-APP-001 systemd: Started Session.
+Mar 26 08:54:31 LNX-DB-002 rsyslog: Network interface up.
+Mar 21 15:00:33 LNX-DB-002 cron: Network interface up.
+Mar 15 15:21:12 LNX-DB-002 cron: Device attached.
+Mar 16 16:32:38 LNX-DB-002 kernel: New session of user.
+Mar 16 15:36:13 LNX-APP-001 systemd: Device attached.
+Mar 04 11:38:30 LNX-WEB-001 rsyslog: Removed session.
+Mar 05 16:52:19 LNX-APP-001 kernel: Removed session.
+Mar 19 09:52:27 LNX-APP-001 rsyslog: Started Session.
+Mar 25 11:19:14 LNX-FILE-001 systemd: Network interface up.
+Mar 17 12:37:06 LNX-WEB-001 kernel: Device attached.
+Mar 26 12:42:45 LNX-LOG-001 rsyslog: Device attached.
+Mar 19 14:25:51 LNX-WEB-002 kernel: New session of user.
+Mar 20 16:19:09 LNX-LOG-001 cron: Network interface up.
+Mar 27 17:12:33 LNX-DB-002 systemd: Removed session.
+Mar 09 14:35:30 LNX-LOG-001 rsyslog: Network interface up.
+Mar 02 11:28:39 LNX-APP-002 NetworkManager: New session of user.
+Mar 18 11:19:57 LNX-WEB-001 rsyslog: Device attached.
+Mar 12 12:47:37 LNX-DEV-001 rsyslog: Removed session.
+Mar 01 14:03:46 LNX-DEV-001 kernel: Removed session.
+Mar 21 13:07:49 LNX-LOG-001 rsyslog: Device attached.
+Mar 06 12:49:10 LNX-DB-002 rsyslog: Removed session.
+Mar 06 09:35:17 LNX-DB-002 systemd: New session of user.
+Mar 18 11:58:36 LNX-WEB-001 rsyslog: Started Session.
+Mar 06 16:25:06 LNX-DB-001 systemd: New session of user.
+Mar 21 08:09:43 LNX-WEB-001 cron: New session of user.
+Mar 24 10:32:27 LNX-FILE-001 cron: Network interface up.
+Mar 04 10:11:14 LNX-DB-001 systemd: Started Session.
+Mar 14 10:21:50 LNX-LOG-001 systemd: Device attached.
+Mar 13 14:20:25 LNX-LOG-001 kernel: Removed session.
+Mar 05 12:41:02 LNX-APP-001 systemd: Started Session.
+Mar 22 14:33:13 LNX-DB-001 systemd: Network interface up.
+Mar 20 17:55:47 LNX-FILE-001 kernel: Device attached.
+Mar 30 15:12:21 LNX-WEB-002 cron: Removed session.
+Mar 15 14:35:21 LNX-DB-001 NetworkManager: Started Session.
+Mar 16 15:04:49 LNX-DB-001 cron: Removed session.
+Mar 02 13:34:26 LNX-DEV-001 rsyslog: New session of user.
+Mar 07 09:07:22 LNX-FILE-001 cron: Started Session.
+Mar 07 14:03:51 LNX-DEV-001 NetworkManager: Removed session.
+Mar 27 14:36:54 LNX-BACKUP-001 systemd: Started Session.
+Mar 23 10:42:46 LNX-APP-001 systemd: New session of user.
+Mar 10 10:33:31 LNX-APP-001 rsyslog: Removed session.
+Mar 12 14:00:30 LNX-LOG-001 cron: New session of user.
+Mar 11 14:41:28 LNX-DEV-001 kernel: New session of user.
+Mar 07 10:37:18 LNX-WEB-002 rsyslog: New session of user.
+Mar 27 09:35:11 LNX-LOG-001 rsyslog: Device attached.
+Mar 13 09:37:17 LNX-LOG-001 systemd: Started Session.
+Mar 18 13:31:52 LNX-APP-001 NetworkManager: Removed session.
+Mar 01 17:35:37 LNX-APP-002 cron: Removed session.
+Mar 25 13:08:00 LNX-APP-002 cron: Device attached.
+Mar 02 12:00:11 LNX-WEB-002 NetworkManager: New session of user.
+Mar 10 13:47:18 LNX-BACKUP-001 kernel: New session of user.
+Mar 22 14:49:01 LNX-APP-001 NetworkManager: Started Session.
+Mar 22 17:38:11 LNX-LOG-001 rsyslog: Removed session.
+Mar 01 12:50:29 LNX-DEV-001 NetworkManager: Device attached.
+Mar 29 13:28:29 LNX-BACKUP-001 cron: Removed session.
+Mar 29 14:17:04 LNX-WEB-001 systemd: Started Session.
+Mar 05 12:23:22 LNX-FILE-001 systemd: Network interface up.
+Mar 14 08:03:58 LNX-FILE-001 cron: Network interface up.
+Mar 04 11:29:59 LNX-DB-001 kernel: New session of user.
+Mar 24 09:24:08 LNX-DEV-001 cron: Removed session.
+Mar 15 12:05:58 LNX-WEB-002 rsyslog: Removed session.
+Mar 01 15:04:43 LNX-APP-002 rsyslog: Device attached.
+Mar 13 14:48:29 LNX-APP-001 NetworkManager: Network interface up.
+Mar 07 15:20:18 LNX-FILE-001 rsyslog: Device attached.
+Mar 04 08:49:07 LNX-DB-002 rsyslog: Removed session.
+Mar 05 09:14:23 LNX-DB-001 systemd: Network interface up.
+Mar 17 08:21:22 LNX-DB-002 cron: Removed session.
+Mar 06 13:32:07 LNX-APP-002 systemd: Started Session.
+Mar 08 16:57:53 LNX-DB-002 systemd: Device attached.
+Mar 29 15:49:36 LNX-FILE-001 systemd: Removed session.
+Mar 15 17:06:52 LNX-APP-001 kernel: Started Session.
+Mar 14 17:53:54 LNX-WEB-001 rsyslog: Device attached.
+Mar 02 12:31:50 LNX-WEB-001 rsyslog: Network interface up.
+Mar 20 16:45:19 LNX-FILE-001 rsyslog: Network interface up.
+Mar 08 12:56:00 LNX-LOG-001 kernel: Device attached.
+Mar 22 14:29:04 LNX-FILE-001 cron: Started Session.
+Mar 30 10:14:13 LNX-DB-002 kernel: New session of user.
+Mar 10 15:40:04 LNX-DB-002 systemd: Removed session.
+Mar 16 17:10:27 LNX-FILE-001 rsyslog: Started Session.
+Mar 24 15:17:41 LNX-DEV-001 kernel: Network interface up.
+Mar 21 13:13:16 LNX-DEV-001 kernel: Device attached.
+Mar 17 12:36:00 LNX-DB-002 rsyslog: Network interface up.
+Mar 07 15:43:44 LNX-BACKUP-001 systemd: New session of user.
+Mar 20 17:11:31 LNX-APP-002 cron: Device attached.
+Mar 20 16:47:41 LNX-APP-002 systemd: Started Session.
+Mar 25 13:00:46 LNX-FILE-001 rsyslog: Removed session.
+Mar 05 12:47:50 LNX-LOG-001 kernel: New session of user.
+Mar 24 14:39:39 LNX-BACKUP-001 systemd: Started Session.
+Mar 12 14:08:05 LNX-WEB-001 cron: Started Session.
+Mar 21 15:47:04 LNX-APP-001 kernel: New session of user.
+Mar 13 15:22:31 LNX-FILE-001 NetworkManager: New session of user.
+Mar 01 10:39:42 LNX-BACKUP-001 systemd: Removed session.
+Mar 24 15:46:04 LNX-BACKUP-001 cron: Device attached.
+Mar 09 13:05:41 LNX-DEV-001 rsyslog: New session of user.
+Mar 06 08:36:10 LNX-DEV-001 systemd: Started Session.
+Mar 06 15:47:56 LNX-APP-001 rsyslog: Device attached.
+Mar 01 11:49:55 LNX-BACKUP-001 kernel: Removed session.
+Mar 24 15:45:02 LNX-DEV-001 kernel: Device attached.
+Mar 06 13:45:42 LNX-WEB-001 NetworkManager: Network interface up.
+Mar 18 09:24:50 LNX-LOG-001 cron: Device attached.
+Mar 16 13:17:00 LNX-LOG-001 rsyslog: Device attached.
+Mar 26 08:23:43 LNX-DB-002 cron: Device attached.
+Mar 23 13:25:39 LNX-DEV-001 kernel: Started Session.
+Mar 17 17:14:35 LNX-BACKUP-001 systemd: Started Session.
+Mar 19 10:44:48 LNX-WEB-002 systemd: Removed session.
+Mar 07 09:40:03 LNX-FILE-001 systemd: Device attached.
+Mar 26 12:04:31 LNX-DB-001 cron: Device attached.
+Mar 30 08:26:52 LNX-LOG-001 NetworkManager: Started Session.
+Mar 19 17:12:15 LNX-WEB-001 cron: Network interface up.
+Mar 26 14:05:56 LNX-WEB-002 cron: New session of user.
+Mar 22 09:24:36 LNX-FILE-001 systemd: Started Session.
+Mar 29 08:41:18 LNX-BACKUP-001 cron: Removed session.
+Mar 12 13:28:24 LNX-WEB-002 NetworkManager: Device attached.
+Mar 06 09:04:06 LNX-WEB-001 systemd: Removed session.
+Mar 02 11:45:40 LNX-WEB-001 systemd: Started Session.
+Mar 17 13:38:45 LNX-APP-002 cron: Started Session.
+Mar 14 10:22:02 LNX-DB-002 rsyslog: Started Session.
+Mar 15 12:38:12 LNX-FILE-001 cron: Removed session.
+Mar 05 13:32:37 LNX-WEB-002 kernel: Started Session.
+Mar 07 17:45:48 LNX-BACKUP-001 cron: Network interface up.
+Mar 17 10:10:32 LNX-APP-002 NetworkManager: Removed session.
+Mar 20 15:14:48 LNX-DEV-001 kernel: Device attached.
+Mar 05 12:35:32 LNX-APP-002 NetworkManager: Device attached.
+Mar 10 08:44:49 LNX-DB-001 systemd: Started Session.
+Mar 18 16:25:12 LNX-DEV-001 NetworkManager: Started Session.
+Mar 11 15:46:13 LNX-DB-002 kernel: Started Session.
+Mar 27 14:06:49 LNX-WEB-001 rsyslog: Network interface up.
+Mar 16 11:01:37 LNX-APP-001 kernel: Started Session.
+Mar 17 09:55:41 LNX-APP-001 cron: New session of user.
+Mar 25 15:58:30 LNX-APP-002 cron: Network interface up.
+Mar 30 10:16:32 LNX-APP-001 cron: Removed session.
+Mar 25 17:15:05 LNX-WEB-002 kernel: Started Session.
+Mar 10 16:44:20 LNX-FILE-001 systemd: Started Session.
+Mar 21 10:10:23 LNX-DB-002 cron: Network interface up.
+Mar 30 09:23:15 LNX-DB-001 NetworkManager: Started Session.
+Mar 22 13:20:45 LNX-DB-002 rsyslog: Started Session.
+Mar 12 17:41:18 LNX-APP-002 systemd: Device attached.
+Mar 14 09:54:45 LNX-APP-001 rsyslog: Removed session.
+Mar 24 13:30:34 LNX-DEV-001 kernel: Network interface up.
+Mar 22 10:29:23 LNX-WEB-002 rsyslog: Network interface up.
+Mar 19 15:28:10 LNX-WEB-002 NetworkManager: Started Session.
+Mar 26 16:36:18 LNX-WEB-002 cron: Started Session.
+Mar 23 17:51:06 LNX-DEV-001 cron: Started Session.
+Mar 17 14:58:20 LNX-WEB-002 rsyslog: Removed session.
+Mar 16 08:34:37 LNX-WEB-001 NetworkManager: Started Session.
+Mar 12 15:26:25 LNX-LOG-001 NetworkManager: Device attached.
+Mar 25 12:58:51 LNX-WEB-001 systemd: New session of user.
+Mar 14 10:28:58 LNX-DEV-001 systemd: Removed session.
+Mar 02 16:07:11 LNX-WEB-002 systemd: Started Session.
+Mar 29 09:29:28 LNX-APP-001 kernel: Started Session.
+Mar 22 15:22:03 LNX-DB-002 rsyslog: Started Session.
+Mar 17 10:32:34 LNX-DB-001 rsyslog: Device attached.
+Mar 22 08:36:32 LNX-BACKUP-001 cron: Device attached.
+Mar 13 10:05:23 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 29 11:39:38 LNX-DB-002 NetworkManager: Started Session.
+Mar 06 08:57:34 LNX-DB-001 systemd: Started Session.
+Mar 29 14:52:19 LNX-DB-002 systemd: Removed session.
+Mar 18 11:49:12 LNX-DEV-001 systemd: Removed session.
+Mar 29 10:04:29 LNX-BACKUP-001 kernel: Removed session.
+Mar 22 11:11:10 LNX-APP-001 NetworkManager: Network interface up.
+Mar 14 14:38:02 LNX-APP-002 rsyslog: Network interface up.
+Mar 15 13:26:18 LNX-WEB-002 systemd: New session of user.
+Mar 01 09:03:21 LNX-APP-002 NetworkManager: Network interface up.
+Mar 30 12:21:32 LNX-WEB-001 NetworkManager: Device attached.
+Mar 03 10:15:47 LNX-LOG-001 NetworkManager: Started Session.
+Mar 18 15:10:16 LNX-LOG-001 kernel: New session of user.
+Mar 03 16:18:33 LNX-WEB-001 NetworkManager: Device attached.
+Mar 08 12:27:12 LNX-DB-001 NetworkManager: Started Session.
+Mar 07 15:15:58 LNX-DB-002 NetworkManager: Network interface up.
+Mar 26 13:18:11 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 28 13:41:11 LNX-FILE-001 cron: New session of user.
+Mar 22 13:31:56 LNX-APP-002 kernel: Device attached.
+Mar 20 13:01:13 LNX-APP-002 rsyslog: New session of user.
+Mar 18 08:25:00 LNX-WEB-002 systemd: New session of user.
+Mar 29 09:01:23 LNX-APP-001 kernel: Device attached.
+Mar 19 08:55:03 LNX-WEB-001 cron: Removed session.
+Mar 16 09:51:28 LNX-BACKUP-001 kernel: Started Session.
+Mar 16 11:56:28 LNX-APP-001 kernel: Network interface up.
+Mar 30 14:42:21 LNX-DB-002 kernel: Network interface up.
+Mar 29 11:31:37 LNX-FILE-001 NetworkManager: New session of user.
+Mar 09 11:13:22 LNX-DEV-001 kernel: Network interface up.
+Mar 23 12:39:59 LNX-APP-001 NetworkManager: Network interface up.
+Mar 18 10:29:19 LNX-WEB-002 NetworkManager: Network interface up.
+Mar 24 09:11:03 LNX-WEB-001 systemd: Device attached.
+Mar 05 15:19:15 LNX-APP-001 cron: Network interface up.
+Mar 20 10:53:53 LNX-APP-002 rsyslog: Device attached.
+Mar 19 16:06:46 LNX-DB-002 systemd: New session of user.
+Mar 06 09:28:29 LNX-DB-001 NetworkManager: New session of user.
+Mar 30 09:11:14 LNX-WEB-001 NetworkManager: Removed session.
+Mar 09 17:34:45 LNX-WEB-001 kernel: New session of user.
+Mar 03 14:39:10 LNX-LOG-001 cron: Network interface up.
+Mar 17 16:57:48 LNX-DEV-001 systemd: Removed session.
+Mar 08 12:33:35 LNX-FILE-001 rsyslog: Device attached.
+Mar 10 08:12:37 LNX-LOG-001 kernel: New session of user.
+Mar 03 13:25:36 LNX-APP-002 rsyslog: Device attached.
+Mar 21 08:28:02 LNX-APP-001 systemd: New session of user.
+Mar 07 15:08:33 LNX-APP-002 rsyslog: New session of user.
+Mar 23 14:58:29 LNX-APP-002 cron: Removed session.
+Mar 07 08:43:39 LNX-DEV-001 NetworkManager: Device attached.
+Mar 08 10:27:30 LNX-APP-001 kernel: Device attached.
+Mar 18 10:11:14 LNX-APP-001 NetworkManager: New session of user.
+Mar 27 14:44:23 LNX-WEB-002 kernel: Started Session.
+Mar 22 15:26:31 LNX-APP-002 kernel: New session of user.
+Mar 06 15:15:05 LNX-WEB-002 rsyslog: Removed session.
+Mar 27 10:57:23 LNX-LOG-001 kernel: Started Session.
+Mar 20 10:57:01 LNX-LOG-001 systemd: Device attached.
+Mar 14 15:35:24 LNX-DEV-001 NetworkManager: Removed session.
+Mar 25 14:35:28 LNX-APP-001 systemd: Device attached.
+Mar 12 15:26:36 LNX-BACKUP-001 kernel: Started Session.
+Mar 04 11:55:53 LNX-DB-001 kernel: Device attached.
+Mar 01 12:26:25 LNX-APP-002 cron: New session of user.
+Mar 14 12:31:36 LNX-WEB-001 systemd: Network interface up.
+Mar 27 17:09:03 LNX-DB-002 kernel: New session of user.
+Mar 22 13:53:10 LNX-DB-002 NetworkManager: Started Session.
+Mar 20 08:51:55 LNX-WEB-002 cron: Network interface up.
+Mar 25 17:07:05 LNX-LOG-001 systemd: Device attached.
+Mar 02 14:11:38 LNX-FILE-001 rsyslog: Device attached.
+Mar 12 10:18:12 LNX-APP-002 NetworkManager: Started Session.
+Mar 22 11:43:02 LNX-BACKUP-001 systemd: Removed session.
+Mar 20 11:24:07 LNX-DEV-001 NetworkManager: Network interface up.
+Mar 17 13:25:31 LNX-BACKUP-001 rsyslog: Removed session.
+Mar 01 14:28:35 LNX-DB-002 kernel: Removed session.
+Mar 28 14:01:09 LNX-WEB-001 NetworkManager: Started Session.
+Mar 08 15:19:26 LNX-FILE-001 cron: Device attached.
+Mar 21 16:13:41 LNX-WEB-001 rsyslog: Network interface up.
+Mar 01 11:29:46 LNX-FILE-001 systemd: Device attached.
+Mar 13 10:05:34 LNX-DB-001 rsyslog: Started Session.
+Mar 19 13:47:12 LNX-DB-001 rsyslog: Network interface up.
+Mar 26 14:38:09 LNX-APP-001 systemd: Removed session.
+Mar 23 11:43:38 LNX-APP-001 cron: Started Session.
+Mar 09 12:14:48 LNX-WEB-002 systemd: Removed session.
+Mar 21 11:08:02 LNX-APP-001 rsyslog: Removed session.
+Mar 30 08:18:08 LNX-APP-002 cron: Removed session.
+Mar 07 11:16:18 LNX-DB-001 NetworkManager: Started Session.
+Mar 18 17:03:51 LNX-DB-001 kernel: New session of user.
+Mar 28 08:54:35 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 27 13:26:38 LNX-LOG-001 rsyslog: Removed session.
+Mar 14 16:38:43 LNX-BACKUP-001 NetworkManager: Network interface up.
+Mar 12 14:01:24 LNX-DEV-001 cron: New session of user.
+Mar 07 10:39:31 LNX-WEB-002 kernel: New session of user.
+Mar 10 08:39:24 LNX-DB-002 cron: Removed session.
+Mar 05 08:20:46 LNX-DB-002 rsyslog: Device attached.
+Mar 22 17:39:03 LNX-WEB-002 systemd: Started Session.
+Mar 12 11:24:15 LNX-DB-001 cron: New session of user.
+Mar 21 16:50:50 LNX-WEB-001 cron: Network interface up.
+Mar 09 13:16:42 LNX-WEB-002 cron: Removed session.
+Mar 19 08:26:41 LNX-APP-002 cron: Started Session.
+Mar 13 14:40:31 LNX-LOG-001 rsyslog: Network interface up.
+Mar 24 11:37:25 LNX-WEB-002 kernel: Device attached.
+Mar 30 11:20:14 LNX-APP-002 NetworkManager: Network interface up.
+Mar 21 17:48:25 LNX-BACKUP-001 kernel: Started Session.
+Mar 13 13:22:27 LNX-APP-001 systemd: Device attached.
+Mar 16 13:31:10 LNX-APP-002 systemd: Removed session.
+Mar 23 17:17:11 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 01 15:03:27 LNX-WEB-001 cron: Started Session.
+Mar 04 15:57:26 LNX-BACKUP-001 cron: New session of user.
+Mar 23 15:05:47 LNX-WEB-001 cron: New session of user.
+Mar 11 14:40:26 LNX-WEB-002 rsyslog: Removed session.
+Mar 25 11:51:36 LNX-APP-001 rsyslog: New session of user.
+Mar 30 11:16:39 LNX-WEB-001 systemd: New session of user.
+Mar 30 09:00:31 LNX-APP-001 systemd: Network interface up.
+Mar 30 15:41:22 LNX-DB-002 rsyslog: Device attached.
+Mar 21 16:12:15 LNX-LOG-001 NetworkManager: Removed session.
+Mar 28 12:39:58 LNX-WEB-001 kernel: Removed session.
+Mar 26 08:07:34 LNX-WEB-001 NetworkManager: Removed session.
+Mar 19 08:32:43 LNX-LOG-001 cron: Started Session.
+Mar 29 16:13:01 LNX-WEB-001 rsyslog: Network interface up.
+Mar 11 11:54:47 LNX-DB-002 systemd: Network interface up.
+Mar 16 11:33:17 LNX-LOG-001 cron: Device attached.
+Mar 14 08:56:09 LNX-APP-001 kernel: New session of user.
+Mar 17 13:10:53 LNX-FILE-001 cron: Removed session.
+Mar 04 15:57:44 LNX-LOG-001 cron: Device attached.
+Mar 07 12:56:48 LNX-DB-002 systemd: Network interface up.
+Mar 24 14:08:47 LNX-APP-001 cron: Device attached.
+Mar 27 13:46:35 LNX-DEV-001 rsyslog: Network interface up.
+Mar 28 10:23:44 LNX-LOG-001 kernel: Removed session.
+Mar 26 11:06:42 LNX-DB-002 rsyslog: Network interface up.
+Mar 08 08:52:21 LNX-WEB-002 kernel: Removed session.
+Mar 30 11:10:55 LNX-LOG-001 cron: New session of user.
+Mar 21 10:34:26 LNX-DEV-001 cron: Network interface up.
+Mar 17 10:06:59 LNX-APP-001 rsyslog: New session of user.
+Mar 30 16:09:59 LNX-WEB-002 kernel: Started Session.
+Mar 18 11:19:05 LNX-WEB-001 NetworkManager: Started Session.
+Mar 03 16:13:46 LNX-BACKUP-001 kernel: Removed session.
+Mar 06 12:51:58 LNX-DEV-001 NetworkManager: Removed session.
+Mar 08 09:28:56 LNX-DEV-001 kernel: Removed session.
+Mar 27 17:14:55 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 11 10:01:16 LNX-APP-001 rsyslog: Started Session.
+Mar 07 17:54:54 LNX-FILE-001 cron: Removed session.
+Mar 28 09:07:19 LNX-FILE-001 cron: Removed session.
+Mar 07 16:37:34 LNX-WEB-001 rsyslog: Device attached.
+Mar 04 11:34:09 LNX-WEB-001 cron: Network interface up.
+Mar 06 09:21:06 LNX-APP-002 NetworkManager: Started Session.
+Mar 27 17:11:19 LNX-DB-002 NetworkManager: New session of user.
+Mar 04 08:26:43 LNX-BACKUP-001 NetworkManager: Device attached.
+Mar 21 11:17:49 LNX-BACKUP-001 cron: New session of user.
+Mar 06 11:23:21 LNX-APP-002 rsyslog: Device attached.
+Mar 01 17:40:19 LNX-WEB-001 NetworkManager: New session of user.
+Mar 04 08:44:10 LNX-FILE-001 cron: Started Session.
+Mar 15 10:11:00 LNX-DB-002 kernel: Removed session.
+Mar 10 13:16:28 LNX-WEB-002 NetworkManager: Removed session.
+Mar 04 09:11:38 LNX-DB-001 kernel: Device attached.
+Mar 06 14:32:52 LNX-DB-001 NetworkManager: Started Session.
+Mar 26 11:15:02 LNX-LOG-001 cron: Started Session.
+Mar 16 12:09:00 LNX-LOG-001 rsyslog: New session of user.
+Mar 24 15:27:58 LNX-DB-002 systemd: Started Session.
+Mar 04 15:05:25 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 26 15:00:40 LNX-APP-002 systemd: New session of user.
+Mar 03 16:10:40 LNX-APP-002 systemd: Network interface up.
+Mar 17 13:22:46 LNX-APP-002 systemd: Device attached.
+Mar 16 12:50:22 LNX-DEV-001 rsyslog: Device attached.
+Mar 09 15:34:25 LNX-WEB-001 systemd: Removed session.
+Mar 08 08:40:19 LNX-APP-001 NetworkManager: Device attached.
+Mar 30 17:04:53 LNX-DB-002 kernel: New session of user.
+Mar 28 08:34:18 LNX-LOG-001 rsyslog: Removed session.
+Mar 24 11:03:51 LNX-BACKUP-001 systemd: Device attached.
+Mar 02 11:12:51 LNX-BACKUP-001 kernel: Started Session.
+Mar 08 10:43:25 LNX-APP-001 kernel: Removed session.
+Mar 16 17:32:37 LNX-WEB-001 NetworkManager: Removed session.
+Mar 08 12:41:19 LNX-APP-001 systemd: Started Session.
+Mar 30 15:35:40 LNX-WEB-001 NetworkManager: Started Session.
+Mar 29 10:07:23 LNX-FILE-001 cron: Device attached.
+Mar 04 15:16:17 LNX-LOG-001 systemd: Started Session.
+Mar 03 08:57:01 LNX-BACKUP-001 rsyslog: Network interface up.
+Mar 22 13:36:48 LNX-DEV-001 cron: Device attached.
+Mar 25 12:44:22 LNX-WEB-002 rsyslog: Device attached.
+Mar 04 09:27:48 LNX-WEB-002 rsyslog: Network interface up.
+Mar 13 13:50:32 LNX-DEV-001 cron: Started Session.
+Mar 17 12:28:42 LNX-WEB-002 NetworkManager: Started Session.
+Mar 03 10:52:49 LNX-BACKUP-001 kernel: Network interface up.
+Mar 23 14:25:28 LNX-FILE-001 kernel: Removed session.
+Mar 04 11:32:09 LNX-DB-002 kernel: New session of user.
+Mar 11 09:37:22 LNX-WEB-001 rsyslog: New session of user.
+Mar 11 15:51:29 LNX-BACKUP-001 NetworkManager: Started Session.
+Mar 30 14:56:12 LNX-WEB-001 kernel: Network interface up.
+Mar 15 12:29:19 LNX-DB-002 systemd: Removed session.
+Mar 19 13:35:03 LNX-LOG-001 NetworkManager: New session of user.
+Mar 30 12:46:45 LNX-FILE-001 cron: Network interface up.
+Mar 12 10:38:36 LNX-DEV-001 rsyslog: Network interface up.
+Mar 02 14:41:12 LNX-DEV-001 NetworkManager: Removed session.
+Mar 17 10:33:10 LNX-DEV-001 systemd: Network interface up.
+Mar 01 12:09:45 LNX-BACKUP-001 kernel: Network interface up.
+Mar 16 15:16:37 LNX-APP-001 rsyslog: Network interface up.
+Mar 15 14:25:55 LNX-WEB-002 cron: Network interface up.
+Mar 16 17:18:30 LNX-DB-002 rsyslog: Started Session.
+Mar 13 17:04:38 LNX-DEV-001 kernel: New session of user.
+Mar 16 12:22:48 LNX-DB-001 kernel: Removed session.
+Mar 07 17:04:17 LNX-APP-002 cron: Started Session.
+Mar 01 17:05:33 LNX-WEB-001 NetworkManager: Device attached.
+Mar 05 11:10:53 LNX-FILE-001 NetworkManager: Network interface up.
+Mar 11 10:16:03 LNX-APP-002 systemd: Device attached.
+Mar 19 17:17:13 LNX-BACKUP-001 rsyslog: Started Session.
+Mar 07 17:16:14 LNX-FILE-001 kernel: Removed session.
+Mar 20 08:37:19 LNX-LOG-001 NetworkManager: Network interface up.
+Mar 22 08:50:21 LNX-DB-002 NetworkManager: New session of user.
+Mar 27 11:12:06 LNX-FILE-001 NetworkManager: Started Session.
+Mar 15 03:30:00 LNX-WEB-001 kernel: DROPPED IN=eth0 SRC=203.0.113.50 DST=10.10.50.31 PROTO=TCP DPT=4444
+Mar 15 03:31:00 LNX-WEB-001 crontab[1234]: (root) BEGIN EDIT (root)
+Mar 15 03:32:00 LNX-WEB-001 kernel: NOHUP malware running PID=9999

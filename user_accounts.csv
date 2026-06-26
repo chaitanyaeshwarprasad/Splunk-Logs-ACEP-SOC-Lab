@@ -1,0 +1,58 @@
+username,full_name,department,email,job_title,manager,workstation,ip_address,account_type,account_status
+jsmith,John Smith,HR,jsmith@aceptech.local,HR Coordinator,kjones,WIN-HR-001,10.10.1.101,Standard,Active
+mwilson,Mary Wilson,HR,mwilson@aceptech.local,HR Specialist,kjones,WIN-HR-002,10.10.1.102,Standard,Active
+ptaylor,Peter Taylor,HR,ptaylor@aceptech.local,Recruiter,kjones,WIN-HR-003,10.10.1.103,Standard,Active
+lbrown,Lisa Brown,HR,lbrown@aceptech.local,HR Assistant,kjones,WIN-HR-004,10.10.1.104,Standard,Active
+kjones,Karen Jones,HR,kjones@aceptech.local,HR Manager,hmurphy,WIN-HR-005,10.10.1.105,Manager,Active
+rthompson,Rachel Thompson,Finance,rthompson@aceptech.local,Finance Analyst,amartin,WIN-FIN-001,10.10.2.101,Standard,Active
+amartin,Alex Martin,Finance,amartin@aceptech.local,Finance Manager,ibailey,WIN-FIN-002,10.10.2.102,Manager,Active
+cwhite,Carol White,Finance,cwhite@aceptech.local,Accountant,amartin,WIN-FIN-003,10.10.2.103,Standard,Active
+dlee,Daniel Lee,Finance,dlee@aceptech.local,Senior Accountant,amartin,WIN-FIN-004,10.10.2.104,Standard,Active
+eharris,Emily Harris,Finance,eharris@aceptech.local,Finance Analyst,amartin,WIN-FIN-005,10.10.2.105,Standard,Active
+fclark,Frank Clark,Finance,fclark@aceptech.local,Accounts Payable,amartin,WIN-FIN-006,10.10.2.106,Standard,Active
+glewis,Grace Lewis,Finance,glewis@aceptech.local,Accounts Receivable,amartin,WIN-FIN-007,10.10.2.107,Standard,Active
+hrobinson,Henry Robinson,IT,hrobinson@aceptech.local,IT Systems Admin,jrivera,WIN-IT-001,10.10.3.101,Admin,Active
+iwalker,Ivan Walker,IT,iwalker@aceptech.local,Network Admin,jrivera,WIN-IT-002,10.10.3.102,Admin,Active
+jscott,James Scott,IT,jscott@aceptech.local,Network Engineer,hrobinson,WIN-IT-003,10.10.3.103,Standard,Active
+kgreen,Karen Green,IT,kgreen@aceptech.local,Systems Administrator,hrobinson,WIN-IT-004,10.10.3.104,Standard,Active
+ladams,Louis Adams,IT,ladams@aceptech.local,Help Desk Technician,hrobinson,WIN-IT-005,10.10.3.105,Standard,Active
+mbaker,Michael Baker,SOC,mbaker@aceptech.local,SOC Analyst L1,qperez,WIN-SOC-001,10.10.4.101,Standard,Active
+nnelson,Nancy Nelson,SOC,nnelson@aceptech.local,SOC Analyst L1,qperez,WIN-SOC-002,10.10.4.102,Standard,Active
+ocarter,Oliver Carter,SOC,ocarter@aceptech.local,SOC Analyst L2,qperez,WIN-SOC-003,10.10.4.103,Standard,Active
+pmitchell,Patricia Mitchell,SOC,pmitchell@aceptech.local,SOC Analyst L2,qperez,WIN-SOC-004,10.10.4.104,Standard,Active
+qperez,Quinn Perez,SOC,qperez@aceptech.local,SOC Manager,jrivera,WIN-SOC-005,10.10.4.105,Manager,Active
+rroberts,Robert Roberts,Sales,rroberts@aceptech.local,Sales Representative,sturner,WIN-SALES-001,10.10.5.101,Standard,Active
+sturner,Sarah Turner,Sales,sturner@aceptech.local,Sales Manager,hmurphy,WIN-SALES-002,10.10.5.102,Manager,Active
+tphillips,Thomas Phillips,Sales,tphillips@aceptech.local,Sales Representative,sturner,WIN-SALES-003,10.10.5.103,Standard,Active
+ucampbell,Uma Campbell,Sales,ucampbell@aceptech.local,Account Executive,sturner,WIN-SALES-004,10.10.5.104,Standard,Active
+vparker,Victor Parker,Sales,vparker@aceptech.local,Sales Representative,sturner,WIN-SALES-005,10.10.5.105,Standard,Active
+wevans,William Evans,Sales,wevans@aceptech.local,Senior Sales Rep,sturner,WIN-SALES-006,10.10.5.106,Standard,Active
+xcollins,Xena Collins,Sales,xcollins@aceptech.local,Sales Representative,sturner,WIN-SALES-007,10.10.5.107,Standard,Active
+yedwards,Yusuf Edwards,Sales,yedwards@aceptech.local,Sales Representative,sturner,WIN-SALES-008,10.10.5.108,Standard,Active
+zstewart,Zoe Stewart,Sales,zstewart@aceptech.local,Sales Representative,sturner,WIN-SALES-009,10.10.5.109,Standard,Active
+asanchez,Anthony Sanchez,Sales,asanchez@aceptech.local,Sales Representative,sturner,WIN-SALES-010,10.10.5.110,Standard,Active
+bmorris,Betty Morris,Marketing,bmorris@aceptech.local,Marketing Coordinator,crogers,WIN-MKT-001,10.10.6.101,Standard,Active
+crogers,Carl Rogers,Marketing,crogers@aceptech.local,Marketing Manager,hmurphy,WIN-MKT-002,10.10.6.102,Manager,Active
+dreed,Diana Reed,Marketing,dreed@aceptech.local,Graphic Designer,crogers,WIN-MKT-003,10.10.6.103,Standard,Active
+ecook,Edward Cook,Marketing,ecook@aceptech.local,Content Writer,crogers,WIN-MKT-004,10.10.6.104,Standard,Active
+fmorgan,Fiona Morgan,Marketing,fmorgan@aceptech.local,Digital Marketer,crogers,WIN-MKT-005,10.10.6.105,Standard,Active
+gbell,George Bell,Marketing,gbell@aceptech.local,SEO Specialist,crogers,WIN-MKT-006,10.10.6.106,Standard,Active
+hmurphy,Helen Murphy,Executive,hmurphy@aceptech.local,CEO,—,WIN-EXEC-001,10.10.7.101,Executive,Active
+ibailey,Ian Bailey,Executive,ibailey@aceptech.local,CFO,hmurphy,WIN-EXEC-002,10.10.7.102,Executive,Active
+jrivera,James Rivera,Executive,jrivera@aceptech.local,CTO,hmurphy,WIN-EXEC-003,10.10.7.103,Executive,Active
+kcox,Kevin Cox,Operations,kcox@aceptech.local,Operations Manager,hmurphy,WIN-OPS-001,10.10.8.101,Manager,Active
+lward,Linda Ward,Operations,lward@aceptech.local,Operations Analyst,kcox,WIN-OPS-002,10.10.8.102,Standard,Active
+mrichardson,Mark Richardson,Operations,mrichardson@aceptech.local,Operations Coordinator,kcox,WIN-OPS-003,10.10.8.103,Standard,Active
+nwood,Nina Wood,Operations,nwood@aceptech.local,Business Analyst,kcox,WIN-OPS-004,10.10.8.104,Standard,Active
+owatson,Oscar Watson,Operations,owatson@aceptech.local,Process Analyst,kcox,WIN-OPS-005,10.10.8.105,Standard,Active
+pbrooks,Patricia Brooks,R&D,pbrooks@aceptech.local,Software Developer,jrivera,WIN-RD-001,10.10.9.101,Standard,Active
+qkelly,Quinn Kelly,R&D,qkelly@aceptech.local,Software Developer,jrivera,WIN-RD-002,10.10.9.102,Standard,Active
+rsanders,Ryan Sanders,R&D,rsanders@aceptech.local,Senior Developer,jrivera,WIN-RD-003,10.10.9.103,Standard,Active
+sprice,Sandra Price,R&D,sprice@aceptech.local,Lead Developer,jrivera,WIN-RD-004,10.10.9.104,Standard,Active
+Administrator,Domain Administrator,IT,admin@aceptech.local,Domain Admin,jrivera,DC-PRIMARY-001,10.10.50.1,Domain Admin,Active
+da_hrobinson,Henry Robinson (Admin),IT,da_hrobinson@aceptech.local,IT Domain Admin,jrivera,WIN-IT-001,10.10.3.101,Domain Admin,Active
+da_iwalker,Ivan Walker (Admin),IT,da_iwalker@aceptech.local,IT Domain Admin,jrivera,WIN-IT-002,10.10.3.102,Domain Admin,Active
+svc_backup,Backup Service Account,IT,svc_backup@aceptech.local,Service Account,hrobinson,DC-PRIMARY-001,10.10.50.1,Service,Active
+svc_siem,SIEM Service Account,SOC,svc_siem@aceptech.local,Service Account,qperez,DC-PRIMARY-001,10.10.50.1,Service,Active
+svc_av,Antivirus Service Account,IT,svc_av@aceptech.local,Service Account,hrobinson,DC-PRIMARY-001,10.10.50.1,Service,Active
+
